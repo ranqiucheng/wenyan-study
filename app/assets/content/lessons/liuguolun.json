@@ -1,0 +1,1194 @@
+{
+  "id": "liuguolun",
+  "title": "六国论",
+  "author": "苏洵",
+  "source": "《嘉祐集》",
+  "volume": "必修下册",
+  "tags": [
+    "课标",
+    "议论"
+  ],
+  "reviewed": true,
+  "summary": "论述六国破灭，弊在赂秦，借古讽今，警示北宋为政者勿以赂求安。",
+  "sentences": [
+    {
+      "id": "liuguolun-001",
+      "order": 1,
+      "text": "六国破灭，非兵不利，战不善，弊在赂秦。",
+      "translation": "六国灭亡，不是武器不锋利，仗打得不好，弊病在于贿赂秦国。",
+      "tokens": [
+        {
+          "surface": "破灭",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "兵",
+          "pos": "名词",
+          "gloss": "兵器"
+        },
+        {
+          "surface": "不利",
+          "pos": "形容词",
+          "gloss": "不锋利"
+        },
+        {
+          "surface": "战",
+          "pos": "动词",
+          "gloss": "作战"
+        },
+        {
+          "surface": "弊",
+          "pos": "名词",
+          "gloss": "弊病"
+        },
+        {
+          "surface": "赂",
+          "pos": "动词",
+          "gloss": "贿赂"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-002",
+      "order": 2,
+      "text": "赂秦而力亏，破灭之道也。",
+      "translation": "贿赂秦国，国力就亏损，这是灭亡的原因。",
+      "tokens": [
+        {
+          "surface": "赂",
+          "pos": "动词",
+          "gloss": "贿赂"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "因而，表因果"
+        },
+        {
+          "surface": "亏",
+          "pos": "动词",
+          "gloss": "亏损"
+        },
+        {
+          "surface": "道",
+          "pos": "名词",
+          "gloss": "原因"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-003",
+      "order": 3,
+      "text": "或曰：六国互丧，率赂秦耶？",
+      "translation": "有人说：六国相继灭亡，全都是因为贿赂秦国吗？",
+      "tokens": [
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有人"
+        },
+        {
+          "surface": "互丧",
+          "pos": "动词",
+          "gloss": "相继灭亡"
+        },
+        {
+          "surface": "率",
+          "pos": "副词",
+          "gloss": "一概，全都"
+        },
+        {
+          "surface": "耶",
+          "pos": "助词",
+          "gloss": "疑问语气词"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-004",
+      "order": 4,
+      "text": "曰：不赂者以赂者丧。盖失强援，不能独完。",
+      "translation": "回答说：不贿赂秦国的国家因为贿赂秦国的国家而灭亡。因为失去了强大的援助，不能独自保全。",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "盖",
+          "pos": "连词",
+          "gloss": "因为，表原因"
+        },
+        {
+          "surface": "强援",
+          "pos": "名词",
+          "gloss": "强大的援助"
+        },
+        {
+          "surface": "独完",
+          "pos": "动词",
+          "gloss": "独自保全"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-005",
+      "order": 5,
+      "text": "故曰：弊在赂秦也。",
+      "translation": "所以说：弊病在于贿赂秦国。",
+      "tokens": [
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "弊",
+          "pos": "名词",
+          "gloss": "弊病"
+        },
+        {
+          "surface": "在",
+          "pos": "动词",
+          "gloss": "在于"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-006",
+      "order": 6,
+      "text": "秦以攻取之外，小则获邑，大则得城。",
+      "translation": "秦国除了凭攻战夺取土地之外，小的方面得到城镇，大的方面得到城池。",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "凭"
+        },
+        {
+          "surface": "攻取",
+          "pos": "动词",
+          "gloss": "攻战夺取"
+        },
+        {
+          "surface": "小",
+          "pos": "形容词",
+          "gloss": "小的方面，形作名"
+        },
+        {
+          "surface": "邑",
+          "pos": "名词",
+          "gloss": "城镇"
+        },
+        {
+          "surface": "大",
+          "pos": "形容词",
+          "gloss": "大的方面，形作名"
+        },
+        {
+          "surface": "城",
+          "pos": "名词",
+          "gloss": "城池"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-007",
+      "order": 7,
+      "text": "较秦之所得，与战胜而得者，其实百倍；诸侯之所亡，与战败而亡者，其实亦百倍。",
+      "translation": "比较秦国受贿所得的土地，与战胜而得的土地，那实际上有一百倍；诸侯行贿丧失的土地，与战败而丧失的土地，那实际上也有一百倍。",
+      "tokens": [
+        {
+          "surface": "较",
+          "pos": "动词",
+          "gloss": "比较"
+        },
+        {
+          "surface": "所得",
+          "pos": "固定结构",
+          "gloss": "得到的土地"
+        },
+        {
+          "surface": "其实",
+          "pos": "名词",
+          "gloss": "那实际情况，古今异义"
+        },
+        {
+          "surface": "百倍",
+          "pos": "数量词",
+          "gloss": "相差一百倍"
+        },
+        {
+          "surface": "所亡",
+          "pos": "固定结构",
+          "gloss": "丧失的土地"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-008",
+      "order": 8,
+      "text": "则秦之所大欲，诸侯之所大患，固不在战矣。",
+      "translation": "那么秦国最大的欲望，诸侯最大的祸患，本来就不在战争上。",
+      "tokens": [
+        {
+          "surface": "则",
+          "pos": "连词",
+          "gloss": "那么"
+        },
+        {
+          "surface": "大欲",
+          "pos": "名词",
+          "gloss": "最大的欲望"
+        },
+        {
+          "surface": "患",
+          "pos": "名词",
+          "gloss": "祸患"
+        },
+        {
+          "surface": "固",
+          "pos": "副词",
+          "gloss": "本来"
+        },
+        {
+          "surface": "矣",
+          "pos": "助词",
+          "gloss": "表陈述语气"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-009",
+      "order": 9,
+      "text": "思厥先祖父，暴霜露，斩荆棘，以有尺寸之地。",
+      "translation": "想想他们的祖辈父辈，冒着霜露，砍伐荆棘，才有了很少的一点土地。",
+      "tokens": [
+        {
+          "surface": "厥",
+          "pos": "代词",
+          "gloss": "他们的"
+        },
+        {
+          "surface": "先祖父",
+          "pos": "名词",
+          "gloss": "已故的祖辈、父辈"
+        },
+        {
+          "surface": "暴",
+          "pos": "动词",
+          "gloss": "同“曝”，冒着"
+        },
+        {
+          "surface": "斩",
+          "pos": "动词",
+          "gloss": "砍伐"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "才，表结果"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-010",
+      "order": 10,
+      "text": "子孙视之不甚惜，举以予人，如弃草芥。",
+      "translation": "子孙对待这些土地很不爱惜，拿来送给别人，像丢弃小草一样。",
+      "tokens": [
+        {
+          "surface": "视",
+          "pos": "动词",
+          "gloss": "看待"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指土地"
+        },
+        {
+          "surface": "甚",
+          "pos": "副词",
+          "gloss": "很"
+        },
+        {
+          "surface": "举",
+          "pos": "动词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来，表目的"
+        },
+        {
+          "surface": "予",
+          "pos": "动词",
+          "gloss": "给"
+        },
+        {
+          "surface": "草芥",
+          "pos": "名词",
+          "gloss": "小草，喻轻微之物"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-011",
+      "order": 11,
+      "text": "今日割五城，明日割十城，然后得一夕安寝。",
+      "translation": "今天割让五座城，明天割让十座城，这样以后才能得到一夜的安稳觉。",
+      "tokens": [
+        {
+          "surface": "割",
+          "pos": "动词",
+          "gloss": "割让"
+        },
+        {
+          "surface": "然后",
+          "pos": "连词",
+          "gloss": "这样以后"
+        },
+        {
+          "surface": "一夕",
+          "pos": "数量词",
+          "gloss": "一夜"
+        },
+        {
+          "surface": "安寝",
+          "pos": "动词",
+          "gloss": "安稳睡觉"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-012",
+      "order": 12,
+      "text": "起视四境，而秦兵又至矣。",
+      "translation": "第二天起来看看四周边境，秦国的军队又到了。",
+      "tokens": [
+        {
+          "surface": "起",
+          "pos": "动词",
+          "gloss": "起身"
+        },
+        {
+          "surface": "四境",
+          "pos": "名词",
+          "gloss": "四周边境"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "又",
+          "pos": "副词",
+          "gloss": "再一次"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到来"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-013",
+      "order": 13,
+      "text": "然则诸侯之地有限，暴秦之欲无厌，奉之弥繁，侵之愈急。",
+      "translation": "既然这样，那么诸侯的土地有限，强暴的秦国的欲望没有满足的时候，送给它的越多，它侵犯诸侯就越急迫。",
+      "tokens": [
+        {
+          "surface": "然则",
+          "pos": "连词",
+          "gloss": "既然这样，那么"
+        },
+        {
+          "surface": "厌",
+          "pos": "动词",
+          "gloss": "同“餍”，满足"
+        },
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "送上，献给"
+        },
+        {
+          "surface": "弥",
+          "pos": "副词",
+          "gloss": "更加"
+        },
+        {
+          "surface": "繁",
+          "pos": "形容词",
+          "gloss": "多"
+        },
+        {
+          "surface": "侵",
+          "pos": "动词",
+          "gloss": "侵犯"
+        },
+        {
+          "surface": "愈",
+          "pos": "副词",
+          "gloss": "更加"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-014",
+      "order": 14,
+      "text": "故不战而强弱胜负已判矣。",
+      "translation": "所以不用作战，强弱胜负就已经分清了。",
+      "tokens": [
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "判",
+          "pos": "动词",
+          "gloss": "分清，决定"
+        },
+        {
+          "surface": "矣",
+          "pos": "助词",
+          "gloss": "表陈述语气"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-015",
+      "order": 15,
+      "text": "至于颠覆，理固宜然。",
+      "translation": "以至于灭亡，按道理本来就该这样。",
+      "tokens": [
+        {
+          "surface": "至于",
+          "pos": "连词",
+          "gloss": "表示发展到某种程度"
+        },
+        {
+          "surface": "颠覆",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "理",
+          "pos": "名词",
+          "gloss": "按道理"
+        },
+        {
+          "surface": "固",
+          "pos": "副词",
+          "gloss": "本来"
+        },
+        {
+          "surface": "宜",
+          "pos": "动词",
+          "gloss": "应该"
+        },
+        {
+          "surface": "然",
+          "pos": "代词",
+          "gloss": "这样"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-016",
+      "order": 16,
+      "text": "古人云：“以地事秦，犹抱薪救火，薪不尽，火不灭。”",
+      "translation": "古人说：拿土地侍奉秦国，就像抱着柴草去救火，柴草不烧完，火就不会熄灭。",
+      "tokens": [
+        {
+          "surface": "云",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "事",
+          "pos": "动词",
+          "gloss": "侍奉"
+        },
+        {
+          "surface": "犹",
+          "pos": "动词",
+          "gloss": "好像"
+        },
+        {
+          "surface": "薪",
+          "pos": "名词",
+          "gloss": "柴草"
+        },
+        {
+          "surface": "尽",
+          "pos": "动词",
+          "gloss": "烧完"
+        },
+        {
+          "surface": "灭",
+          "pos": "动词",
+          "gloss": "熄灭"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-017",
+      "order": 17,
+      "text": "此言得之。",
+      "translation": "这话说对了。",
+      "tokens": [
+        {
+          "surface": "此言",
+          "pos": "代词",
+          "gloss": "这话"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "适宜，得当"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指上文的道理"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-018",
+      "order": 18,
+      "text": "齐人未尝赂秦，终继五国迁灭，何哉？",
+      "translation": "齐国人不曾贿赂秦国，最终也随着五国灭亡了，为什么呢？",
+      "tokens": [
+        {
+          "surface": "未尝",
+          "pos": "副词",
+          "gloss": "不曾"
+        },
+        {
+          "surface": "终",
+          "pos": "副词",
+          "gloss": "最终"
+        },
+        {
+          "surface": "继",
+          "pos": "动词",
+          "gloss": "跟着"
+        },
+        {
+          "surface": "迁灭",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "何哉",
+          "pos": "固定结构",
+          "gloss": "为什么呢"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-019",
+      "order": 19,
+      "text": "与嬴而不助五国也。",
+      "translation": "是因为它亲附秦国而不帮助五国啊。",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "动词",
+          "gloss": "亲附，结交"
+        },
+        {
+          "surface": "嬴",
+          "pos": "名词",
+          "gloss": "秦国国君的姓，指秦国"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "却"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-020",
+      "order": 20,
+      "text": "五国既丧，齐亦不免矣。",
+      "translation": "五国已经灭亡，齐国也不能幸免了。",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "丧",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "免",
+          "pos": "动词",
+          "gloss": "幸免"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-021",
+      "order": 21,
+      "text": "燕赵之君，始有远略，能守其土，义不赂秦。",
+      "translation": "燕国、赵国的君主，起初有长远的谋略，能够守住他们的国土，坚持正义而不贿赂秦国。",
+      "tokens": [
+        {
+          "surface": "始",
+          "pos": "副词",
+          "gloss": "起初"
+        },
+        {
+          "surface": "远略",
+          "pos": "名词",
+          "gloss": "长远的谋略"
+        },
+        {
+          "surface": "守",
+          "pos": "动词",
+          "gloss": "守卫"
+        },
+        {
+          "surface": "义",
+          "pos": "名词",
+          "gloss": "坚持正义，名作状"
+        },
+        {
+          "surface": "赂",
+          "pos": "动词",
+          "gloss": "贿赂"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-022",
+      "order": 22,
+      "text": "是故燕虽小国而后亡，斯用兵之效也。",
+      "translation": "因此燕国虽然是小国却最后灭亡，这就是用兵抵抗的效果。",
+      "tokens": [
+        {
+          "surface": "是故",
+          "pos": "连词",
+          "gloss": "因此"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "后亡",
+          "pos": "动词",
+          "gloss": "最后灭亡"
+        },
+        {
+          "surface": "斯",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "用兵",
+          "pos": "动词",
+          "gloss": "用兵作战"
+        },
+        {
+          "surface": "效",
+          "pos": "名词",
+          "gloss": "效果"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-023",
+      "order": 23,
+      "text": "至丹以荆卿为计，始速祸焉。",
+      "translation": "到了燕太子丹把荆轲刺秦王作为计策，才招致了祸患。",
+      "tokens": [
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到了"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "把"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "作为"
+        },
+        {
+          "surface": "计",
+          "pos": "名词",
+          "gloss": "计策"
+        },
+        {
+          "surface": "始",
+          "pos": "副词",
+          "gloss": "才"
+        },
+        {
+          "surface": "速",
+          "pos": "动词",
+          "gloss": "招致"
+        },
+        {
+          "surface": "焉",
+          "pos": "助词",
+          "gloss": "句末语气词"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-024",
+      "order": 24,
+      "text": "赵尝五战于秦，二败而三胜。",
+      "translation": "赵国曾经跟秦国交战五次，两次失败三次胜利。",
+      "tokens": [
+        {
+          "surface": "尝",
+          "pos": "副词",
+          "gloss": "曾经"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "跟，引进对象"
+        },
+        {
+          "surface": "败",
+          "pos": "动词",
+          "gloss": "失败"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表并列"
+        },
+        {
+          "surface": "胜",
+          "pos": "动词",
+          "gloss": "胜利"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-025",
+      "order": 25,
+      "text": "后秦击赵者再，李牧连却之。",
+      "translation": "后来秦国两次攻打赵国，李牧接连打退了秦军。",
+      "tokens": [
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表停顿"
+        },
+        {
+          "surface": "再",
+          "pos": "数词",
+          "gloss": "两次"
+        },
+        {
+          "surface": "连",
+          "pos": "副词",
+          "gloss": "接连"
+        },
+        {
+          "surface": "却",
+          "pos": "动词",
+          "gloss": "使……退却"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-026",
+      "order": 26,
+      "text": "洎牧以谗诛，邯郸为郡，惜其用武而不终也。",
+      "translation": "等到李牧因谗言被杀，邯郸成为秦国的郡，可惜赵国用武力抵抗却不能坚持到底。",
+      "tokens": [
+        {
+          "surface": "洎",
+          "pos": "介词",
+          "gloss": "等到"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "谗",
+          "pos": "名词",
+          "gloss": "谗言"
+        },
+        {
+          "surface": "诛",
+          "pos": "动词",
+          "gloss": "被诛杀"
+        },
+        {
+          "surface": "为郡",
+          "pos": "动词",
+          "gloss": "成为郡县"
+        },
+        {
+          "surface": "惜",
+          "pos": "动词",
+          "gloss": "可惜"
+        },
+        {
+          "surface": "终",
+          "pos": "动词",
+          "gloss": "坚持到底"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-027",
+      "order": 27,
+      "text": "且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而亡，诚不得已。",
+      "translation": "况且燕、赵处在秦国把其他国家几乎消灭干净的时候，可以说是智谋和力量孤立危急，战败而亡，实在是不得已。",
+      "tokens": [
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "况且"
+        },
+        {
+          "surface": "革灭",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "殆",
+          "pos": "副词",
+          "gloss": "几乎"
+        },
+        {
+          "surface": "智力",
+          "pos": "名词",
+          "gloss": "智谋和力量，古今异义"
+        },
+        {
+          "surface": "孤危",
+          "pos": "形容词",
+          "gloss": "孤立危急"
+        },
+        {
+          "surface": "诚",
+          "pos": "副词",
+          "gloss": "确实"
+        },
+        {
+          "surface": "不得已",
+          "pos": "固定结构",
+          "gloss": "没有办法"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-028",
+      "order": 28,
+      "text": "向使三国各爱其地，齐人勿附于秦，刺客不行，良将犹在，则胜负之数，存亡之理，当与秦相较，或未易量。",
+      "translation": "假使韩、魏、楚三国各自爱惜他们的土地，齐国人不依附秦国，刺客不去行刺，良将还活着，那么胜败的命运，存亡的道理，如果与秦国相比较，或许还不容易估量。",
+      "tokens": [
+        {
+          "surface": "向使",
+          "pos": "连词",
+          "gloss": "假使"
+        },
+        {
+          "surface": "爱",
+          "pos": "动词",
+          "gloss": "爱惜"
+        },
+        {
+          "surface": "附",
+          "pos": "动词",
+          "gloss": "依附"
+        },
+        {
+          "surface": "不行",
+          "pos": "动词",
+          "gloss": "不去行刺"
+        },
+        {
+          "surface": "数",
+          "pos": "名词",
+          "gloss": "天数，命运"
+        },
+        {
+          "surface": "当",
+          "pos": "连词",
+          "gloss": "同“倘”，如果"
+        },
+        {
+          "surface": "较",
+          "pos": "动词",
+          "gloss": "较量"
+        },
+        {
+          "surface": "量",
+          "pos": "动词",
+          "gloss": "估量"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-029",
+      "order": 29,
+      "text": "呜呼！以赂秦之地封天下之谋臣，以事秦之心礼天下之奇才，并力西向，则吾恐秦人食之不得下咽也。",
+      "translation": "唉！把贿赂秦国的土地封赏给天下的谋臣，用侍奉秦国的心意礼遇天下的奇才，合力向西对付秦国，那么我恐怕秦国人连饭都咽不下去。",
+      "tokens": [
+        {
+          "surface": "呜呼",
+          "pos": "叹词",
+          "gloss": "唉，表感叹"
+        },
+        {
+          "surface": "封",
+          "pos": "动词",
+          "gloss": "封赏"
+        },
+        {
+          "surface": "礼",
+          "pos": "动词",
+          "gloss": "礼遇，名作动"
+        },
+        {
+          "surface": "并力",
+          "pos": "副词",
+          "gloss": "合力"
+        },
+        {
+          "surface": "西向",
+          "pos": "动词",
+          "gloss": "向西对付秦国"
+        },
+        {
+          "surface": "食",
+          "pos": "动词",
+          "gloss": "吃"
+        },
+        {
+          "surface": "下咽",
+          "pos": "动词",
+          "gloss": "咽下去"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-030",
+      "order": 30,
+      "text": "悲夫！有如此之势，而为秦人积威之所劫，日削月割，以趋于亡。",
+      "translation": "可悲啊！有这样的形势，却被秦国人积久的威势所胁迫，一天天削减，一月月割让，以至于走向灭亡。",
+      "tokens": [
+        {
+          "surface": "悲夫",
+          "pos": "叹词",
+          "gloss": "可悲啊"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "被"
+        },
+        {
+          "surface": "积威",
+          "pos": "名词",
+          "gloss": "积久的威势"
+        },
+        {
+          "surface": "所",
+          "pos": "助词",
+          "gloss": "与“为”构成被动"
+        },
+        {
+          "surface": "劫",
+          "pos": "动词",
+          "gloss": "胁迫"
+        },
+        {
+          "surface": "日",
+          "pos": "名词",
+          "gloss": "一天天，名作状"
+        },
+        {
+          "surface": "月",
+          "pos": "名词",
+          "gloss": "一月月，名作状"
+        },
+        {
+          "surface": "趋",
+          "pos": "动词",
+          "gloss": "走向"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-031",
+      "order": 31,
+      "text": "为国者无使为积威之所劫哉！",
+      "translation": "治理国家的人不要让自己被积久的威势所胁迫啊！",
+      "tokens": [
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "治理"
+        },
+        {
+          "surface": "无",
+          "pos": "副词",
+          "gloss": "同“毋”，不要"
+        },
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "让"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "被"
+        },
+        {
+          "surface": "积威",
+          "pos": "名词",
+          "gloss": "积久的威势"
+        },
+        {
+          "surface": "所",
+          "pos": "助词",
+          "gloss": "与“为”构成被动"
+        },
+        {
+          "surface": "哉",
+          "pos": "助词",
+          "gloss": "表感叹语气"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-032",
+      "order": 32,
+      "text": "夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而胜之之势。",
+      "translation": "六国和秦国都是诸侯，他们的势力比秦国弱，却还有可以不贿赂秦国而战胜它的形势。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都是"
+        },
+        {
+          "surface": "弱于",
+          "pos": "形容词",
+          "gloss": "比秦国弱"
+        },
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "可以",
+          "pos": "助动词",
+          "gloss": "可以凭借，古今异义"
+        },
+        {
+          "surface": "赂",
+          "pos": "动词",
+          "gloss": "贿赂"
+        },
+        {
+          "surface": "胜",
+          "pos": "动词",
+          "gloss": "战胜"
+        }
+      ]
+    },
+    {
+      "id": "liuguolun-033",
+      "order": 33,
+      "text": "苟以天下之大，而从六国破亡之故事，是又在六国下矣。",
+      "translation": "如果凭着偌大的天下，却重蹈六国灭亡的覆辙，这就又在六国之下了。",
+      "tokens": [
+        {
+          "surface": "苟",
+          "pos": "连词",
+          "gloss": "如果"
+        },
+        {
+          "surface": "天下之大",
+          "pos": "名词",
+          "gloss": "偌大的天下"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "从",
+          "pos": "动词",
+          "gloss": "跟随，重蹈"
+        },
+        {
+          "surface": "故事",
+          "pos": "名词",
+          "gloss": "旧例，前事，古今异义"
+        },
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "下",
+          "pos": "名词",
+          "gloss": "下等，地位低下"
+        }
+      ]
+    }
+  ]
+}

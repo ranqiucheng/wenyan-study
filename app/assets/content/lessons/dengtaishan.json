@@ -1,0 +1,839 @@
+{
+  "id": "dengtaishan",
+  "title": "登泰山记",
+  "author": "姚鼐",
+  "source": "《惜抱轩诗文集》",
+  "volume": "必修上册",
+  "tags": [
+    "课标",
+    "记"
+  ],
+  "reviewed": true,
+  "summary": "姚鼐记与友人在除夕前冒雪登泰山、于日观亭观日出的经过，写景简劲传神，兼具考据笔法，是桐城派山水游记的代表作。",
+  "sentences": [
+    {
+      "id": "dengtaishan-001",
+      "order": 1,
+      "text": "泰山之阳，汶水西流；其阴，济水东流。",
+      "translation": "泰山的南面，汶水向西流；它的北面，济水向东流。",
+      "tokens": [
+        {
+          "surface": "阳",
+          "pos": "名词",
+          "gloss": "山的南面"
+        },
+        {
+          "surface": "西",
+          "pos": "名词",
+          "gloss": "向西，作状语"
+        },
+        {
+          "surface": "阴",
+          "pos": "名词",
+          "gloss": "山的北面"
+        },
+        {
+          "surface": "东",
+          "pos": "名词",
+          "gloss": "向东，作状语"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-002",
+      "order": 2,
+      "text": "阳谷皆入汶，阴谷皆入济。",
+      "translation": "南面山谷的水都流入汶水，北面山谷的水都流入济水。",
+      "tokens": [
+        {
+          "surface": "阳谷",
+          "pos": "名词",
+          "gloss": "山南的谷水"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "流入"
+        },
+        {
+          "surface": "阴谷",
+          "pos": "名词",
+          "gloss": "山北的谷水"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-003",
+      "order": 3,
+      "text": "当其南北分者，古长城也。",
+      "translation": "横在南、北两面分界处的，是古长城。",
+      "tokens": [
+        {
+          "surface": "当",
+          "pos": "动词",
+          "gloss": "横在"
+        },
+        {
+          "surface": "分",
+          "pos": "动词",
+          "gloss": "分界"
+        },
+        {
+          "surface": "古长城",
+          "pos": "名词",
+          "gloss": "古长城"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-004",
+      "order": 4,
+      "text": "最高日观峰，在长城南十五里。",
+      "translation": "最高的日观峰，在长城南面十五里处。",
+      "tokens": [
+        {
+          "surface": "最高",
+          "pos": "形容词",
+          "gloss": "最高的"
+        },
+        {
+          "surface": "日观峰",
+          "pos": "名词",
+          "gloss": "日观峰"
+        },
+        {
+          "surface": "南",
+          "pos": "名词",
+          "gloss": "南面"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-005",
+      "order": 5,
+      "text": "余以乾隆三十九年十二月，自京师乘风雪，历齐河、长清，穿泰山西北谷，越长城之限，至于泰安。",
+      "translation": "我在乾隆三十九年十二月，从京城冒着风雪出发，经过齐河、长清，穿过泰山西北面的山谷，越过长城的城墙，到达泰安。",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "乘",
+          "pos": "动词",
+          "gloss": "冒着"
+        },
+        {
+          "surface": "历",
+          "pos": "动词",
+          "gloss": "经过"
+        },
+        {
+          "surface": "穿",
+          "pos": "动词",
+          "gloss": "穿过"
+        },
+        {
+          "surface": "越",
+          "pos": "动词",
+          "gloss": "越过"
+        },
+        {
+          "surface": "限",
+          "pos": "名词",
+          "gloss": "界限，指城墙"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-006",
+      "order": 6,
+      "text": "是月丁未，与知府朱孝纯子颖由南麓登。",
+      "translation": "这个月的丁未日，我和知府朱孝纯（字子颖）从南面山脚登山。",
+      "tokens": [
+        {
+          "surface": "是月",
+          "pos": "名词",
+          "gloss": "这个月"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "南麓",
+          "pos": "名词",
+          "gloss": "南面山脚"
+        },
+        {
+          "surface": "登",
+          "pos": "动词",
+          "gloss": "登山"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-007",
+      "order": 7,
+      "text": "四十五里，道皆砌石为磴，其级七千有余。",
+      "translation": "山路四十五里，路都是石头砌成的台阶，共有七千多级。",
+      "tokens": [
+        {
+          "surface": "道",
+          "pos": "名词",
+          "gloss": "路"
+        },
+        {
+          "surface": "砌石",
+          "pos": "动词",
+          "gloss": "用石头砌"
+        },
+        {
+          "surface": "磴",
+          "pos": "名词",
+          "gloss": "石阶"
+        },
+        {
+          "surface": "级",
+          "pos": "名词",
+          "gloss": "台阶"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-008",
+      "order": 8,
+      "text": "泰山正南面有三谷，中谷绕泰安城下，郦道元所谓环水也。",
+      "translation": "泰山正南面有三条山谷，中谷绕过泰安城下，就是郦道元所说的环水。",
+      "tokens": [
+        {
+          "surface": "三谷",
+          "pos": "名词",
+          "gloss": "三条山谷"
+        },
+        {
+          "surface": "中谷",
+          "pos": "名词",
+          "gloss": "中谷"
+        },
+        {
+          "surface": "绕",
+          "pos": "动词",
+          "gloss": "环绕"
+        },
+        {
+          "surface": "环水",
+          "pos": "名词",
+          "gloss": "环水"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-009",
+      "order": 9,
+      "text": "余始循以入，道少半，越中岭，复循西谷，遂至其巅。",
+      "translation": "我开始顺着中谷进去，走了不到一半路程，越过中岭，再顺着西谷走，就到了山顶。",
+      "tokens": [
+        {
+          "surface": "始",
+          "pos": "副词",
+          "gloss": "开始"
+        },
+        {
+          "surface": "循",
+          "pos": "动词",
+          "gloss": "顺着"
+        },
+        {
+          "surface": "少半",
+          "pos": "名词",
+          "gloss": "不到一半"
+        },
+        {
+          "surface": "复",
+          "pos": "副词",
+          "gloss": "又"
+        },
+        {
+          "surface": "巅",
+          "pos": "名词",
+          "gloss": "山顶"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-010",
+      "order": 10,
+      "text": "古时登山，循东谷入，道有天门。",
+      "translation": "古时候登山，是顺着东谷进去，路上有天门。",
+      "tokens": [
+        {
+          "surface": "古时",
+          "pos": "名词",
+          "gloss": "古时候"
+        },
+        {
+          "surface": "循",
+          "pos": "动词",
+          "gloss": "顺着"
+        },
+        {
+          "surface": "天门",
+          "pos": "名词",
+          "gloss": "天门"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-011",
+      "order": 11,
+      "text": "东谷者，古谓之天门溪水，余所不至也。",
+      "translation": "东谷，古人称它为天门溪水，是我没有到过的地方。",
+      "tokens": [
+        {
+          "surface": "东谷",
+          "pos": "名词",
+          "gloss": "东面的山谷"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "称"
+        },
+        {
+          "surface": "不至",
+          "pos": "动词",
+          "gloss": "没有到"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-012",
+      "order": 12,
+      "text": "今所经中岭及山巅崖限当道者，世皆谓之天门云。",
+      "translation": "现在经过的中岭和山顶上像门槛一样横在路上的山崖，世人都称它为天门。",
+      "tokens": [
+        {
+          "surface": "崖限",
+          "pos": "名词",
+          "gloss": "像门槛一样的山崖"
+        },
+        {
+          "surface": "当道",
+          "pos": "动词",
+          "gloss": "挡在路中"
+        },
+        {
+          "surface": "云",
+          "pos": "助词",
+          "gloss": "句末语气词"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-013",
+      "order": 13,
+      "text": "道中迷雾冰滑，磴几不可登。",
+      "translation": "路上大雾弥漫、冰冻路滑，石阶几乎无法攀登。",
+      "tokens": [
+        {
+          "surface": "迷雾",
+          "pos": "名词",
+          "gloss": "大雾"
+        },
+        {
+          "surface": "冰滑",
+          "pos": "形容词",
+          "gloss": "结冰路滑"
+        },
+        {
+          "surface": "几",
+          "pos": "副词",
+          "gloss": "几乎"
+        },
+        {
+          "surface": "登",
+          "pos": "动词",
+          "gloss": "攀登"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-014",
+      "order": 14,
+      "text": "及既上，苍山负雪，明烛天南。",
+      "translation": "等到已经登上山顶，只见青色的山背着积雪，雪光照亮了南面的天空。",
+      "tokens": [
+        {
+          "surface": "及",
+          "pos": "介词",
+          "gloss": "等到"
+        },
+        {
+          "surface": "上",
+          "pos": "动词",
+          "gloss": "登上"
+        },
+        {
+          "surface": "负",
+          "pos": "动词",
+          "gloss": "背着"
+        },
+        {
+          "surface": "烛",
+          "pos": "名词",
+          "gloss": "照亮，作动词"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-015",
+      "order": 15,
+      "text": "望晚日照城郭，汶水、徂徕如画，而半山居雾若带然。",
+      "translation": "远望夕阳照着城墙，汶水、徂徕山像图画一样，而半山腰停留的云雾像带子一样。",
+      "tokens": [
+        {
+          "surface": "望",
+          "pos": "动词",
+          "gloss": "远望"
+        },
+        {
+          "surface": "城郭",
+          "pos": "名词",
+          "gloss": "城墙"
+        },
+        {
+          "surface": "居",
+          "pos": "动词",
+          "gloss": "停留"
+        },
+        {
+          "surface": "若带",
+          "pos": "动词",
+          "gloss": "像带子"
+        },
+        {
+          "surface": "然",
+          "pos": "助词",
+          "gloss": "……的样子"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-016",
+      "order": 16,
+      "text": "戊申晦，五鼓，与子颖坐日观亭，待日出。",
+      "translation": "戊申日月底这一天，五更时分，我和子颖坐在日观亭里，等待日出。",
+      "tokens": [
+        {
+          "surface": "晦",
+          "pos": "名词",
+          "gloss": "农历月末"
+        },
+        {
+          "surface": "五鼓",
+          "pos": "名词",
+          "gloss": "五更"
+        },
+        {
+          "surface": "坐",
+          "pos": "动词",
+          "gloss": "坐"
+        },
+        {
+          "surface": "待",
+          "pos": "动词",
+          "gloss": "等待"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-017",
+      "order": 17,
+      "text": "大风扬积雪击面。",
+      "translation": "大风扬起积雪扑打在脸上。",
+      "tokens": [
+        {
+          "surface": "扬",
+          "pos": "动词",
+          "gloss": "扬起"
+        },
+        {
+          "surface": "击",
+          "pos": "动词",
+          "gloss": "扑打"
+        },
+        {
+          "surface": "面",
+          "pos": "名词",
+          "gloss": "脸"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-018",
+      "order": 18,
+      "text": "亭东自足下皆云漫。",
+      "translation": "日观亭东面从脚下起都是弥漫的云雾。",
+      "tokens": [
+        {
+          "surface": "足下",
+          "pos": "名词",
+          "gloss": "脚下"
+        },
+        {
+          "surface": "云漫",
+          "pos": "动词",
+          "gloss": "弥漫着云雾"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-019",
+      "order": 19,
+      "text": "稍见云中白若摴蒱数十立者，山也。",
+      "translation": "渐渐看见云雾中几十个像骰子似的白色的东西立着，那是山。",
+      "tokens": [
+        {
+          "surface": "稍",
+          "pos": "副词",
+          "gloss": "渐渐"
+        },
+        {
+          "surface": "摴蒱",
+          "pos": "名词",
+          "gloss": "古代的一种博戏用具"
+        },
+        {
+          "surface": "立",
+          "pos": "动词",
+          "gloss": "直立"
+        },
+        {
+          "surface": "山也",
+          "pos": "名词",
+          "gloss": "是山"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-020",
+      "order": 20,
+      "text": "极天云一线异色，须臾成五采。",
+      "translation": "天边的云出现一线奇异的颜色，一会儿又变成五彩。",
+      "tokens": [
+        {
+          "surface": "极天",
+          "pos": "名词",
+          "gloss": "天边"
+        },
+        {
+          "surface": "异色",
+          "pos": "名词",
+          "gloss": "奇异的颜色"
+        },
+        {
+          "surface": "须臾",
+          "pos": "名词",
+          "gloss": "片刻"
+        },
+        {
+          "surface": "五采",
+          "pos": "名词",
+          "gloss": "五彩"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-021",
+      "order": 21,
+      "text": "日上，正赤如丹，下有红光动摇承之。",
+      "translation": "太阳升起来了，纯红像朱砂一样，下面有红光晃动着托着它。",
+      "tokens": [
+        {
+          "surface": "正赤",
+          "pos": "形容词",
+          "gloss": "纯红"
+        },
+        {
+          "surface": "丹",
+          "pos": "名词",
+          "gloss": "朱砂"
+        },
+        {
+          "surface": "动摇",
+          "pos": "动词",
+          "gloss": "晃动"
+        },
+        {
+          "surface": "承",
+          "pos": "动词",
+          "gloss": "托着"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-022",
+      "order": 22,
+      "text": "或曰，此东海也。",
+      "translation": "有人说，这就是东海。",
+      "tokens": [
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有人"
+        },
+        {
+          "surface": "东海",
+          "pos": "名词",
+          "gloss": "东海"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-023",
+      "order": 23,
+      "text": "回视日观以西峰，或得日，或否，绛皓驳色，而皆若偻。",
+      "translation": "回头看日观峰以西的山峰，有的被阳光照着，有的没有，红白颜色错杂，都像弯腰鞠躬的样子。",
+      "tokens": [
+        {
+          "surface": "回视",
+          "pos": "动词",
+          "gloss": "回头看"
+        },
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有的"
+        },
+        {
+          "surface": "绛皓",
+          "pos": "形容词",
+          "gloss": "红白"
+        },
+        {
+          "surface": "驳",
+          "pos": "形容词",
+          "gloss": "错杂"
+        },
+        {
+          "surface": "偻",
+          "pos": "动词",
+          "gloss": "弯腰"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-024",
+      "order": 24,
+      "text": "亭西有岱祠，又有碧霞元君祠。",
+      "translation": "日观亭西面有东岳庙，又有碧霞元君祠。",
+      "tokens": [
+        {
+          "surface": "岱祠",
+          "pos": "名词",
+          "gloss": "东岳庙"
+        },
+        {
+          "surface": "碧霞元君祠",
+          "pos": "名词",
+          "gloss": "碧霞元君祠"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-025",
+      "order": 25,
+      "text": "皇帝行宫在碧霞元君祠东。",
+      "translation": "皇帝的行宫在碧霞元君祠的东面。",
+      "tokens": [
+        {
+          "surface": "行宫",
+          "pos": "名词",
+          "gloss": "皇帝出行居住的宫室"
+        },
+        {
+          "surface": "东",
+          "pos": "名词",
+          "gloss": "东面"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-026",
+      "order": 26,
+      "text": "是日观道中石刻，自唐显庆以来，其远古刻尽漫失。",
+      "translation": "这一天看了路上的石刻，都是唐朝显庆以后的，那些更古老的石刻都磨灭不清了。",
+      "tokens": [
+        {
+          "surface": "是日",
+          "pos": "名词",
+          "gloss": "这一天"
+        },
+        {
+          "surface": "观",
+          "pos": "动词",
+          "gloss": "观看"
+        },
+        {
+          "surface": "石刻",
+          "pos": "名词",
+          "gloss": "石刻"
+        },
+        {
+          "surface": "漫失",
+          "pos": "动词",
+          "gloss": "磨灭缺失"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-027",
+      "order": 27,
+      "text": "僻不当道者，皆不及往。",
+      "translation": "偏僻不在路边的，都来不及去看。",
+      "tokens": [
+        {
+          "surface": "僻",
+          "pos": "形容词",
+          "gloss": "偏僻"
+        },
+        {
+          "surface": "当道",
+          "pos": "动词",
+          "gloss": "在路旁"
+        },
+        {
+          "surface": "不及",
+          "pos": "动词",
+          "gloss": "来不及"
+        },
+        {
+          "surface": "往",
+          "pos": "动词",
+          "gloss": "前往"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-028",
+      "order": 28,
+      "text": "山多石，少土。",
+      "translation": "山上石头多，泥土少。",
+      "tokens": [
+        {
+          "surface": "多",
+          "pos": "动词",
+          "gloss": "多有"
+        },
+        {
+          "surface": "少",
+          "pos": "动词",
+          "gloss": "少有"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-029",
+      "order": 29,
+      "text": "石苍黑色，多平方，少圜。",
+      "translation": "石头呈青黑色，大多是方正的，很少有圆的。",
+      "tokens": [
+        {
+          "surface": "苍黑",
+          "pos": "形容词",
+          "gloss": "青黑色"
+        },
+        {
+          "surface": "平方",
+          "pos": "形容词",
+          "gloss": "方正的"
+        },
+        {
+          "surface": "圜",
+          "pos": "形容词",
+          "gloss": "同“圆”"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-030",
+      "order": 30,
+      "text": "少杂树，多松，生石罅，皆平顶。",
+      "translation": "杂树很少，松树多，生长在石头缝里，树顶都是平的。",
+      "tokens": [
+        {
+          "surface": "杂树",
+          "pos": "名词",
+          "gloss": "杂树"
+        },
+        {
+          "surface": "石罅",
+          "pos": "名词",
+          "gloss": "石头缝"
+        },
+        {
+          "surface": "平顶",
+          "pos": "名词",
+          "gloss": "平顶"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-031",
+      "order": 31,
+      "text": "冰雪，无瀑水，无鸟兽音迹。",
+      "translation": "到处是冰雪，没有瀑布，没有鸟兽的声音和足迹。",
+      "tokens": [
+        {
+          "surface": "瀑水",
+          "pos": "名词",
+          "gloss": "瀑布"
+        },
+        {
+          "surface": "音迹",
+          "pos": "名词",
+          "gloss": "声音和足迹"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-032",
+      "order": 32,
+      "text": "至日观数里内无树，而雪与人膝齐。",
+      "translation": "到日观峰几里之内没有树，雪深到与人膝盖相齐。",
+      "tokens": [
+        {
+          "surface": "数里",
+          "pos": "名词",
+          "gloss": "几里"
+        },
+        {
+          "surface": "齐",
+          "pos": "动词",
+          "gloss": "平齐"
+        }
+      ]
+    },
+    {
+      "id": "dengtaishan-033",
+      "order": 33,
+      "text": "桐城姚鼐记。",
+      "translation": "桐城人姚鼐记。",
+      "tokens": [
+        {
+          "surface": "桐城",
+          "pos": "名词",
+          "gloss": "桐城，作者籍贯"
+        },
+        {
+          "surface": "记",
+          "pos": "动词",
+          "gloss": "记写"
+        }
+      ]
+    }
+  ]
+}

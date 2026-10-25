@@ -1,0 +1,1734 @@
+{
+  "id": "guiqulaici",
+  "title": "归去来兮辞",
+  "author": "陶渊明",
+  "source": "《陶渊明集》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "辞"
+  ],
+  "reviewed": true,
+  "summary": "序述出仕与辞官之由，辞写归田之乐与人生之悟，表达委心乘化、乐天知命的情怀。",
+  "sentences": [
+    {
+      "id": "guiqulaici-001",
+      "order": 1,
+      "text": "余家贫，耕植不足以自给。",
+      "translation": "我家贫穷，耕种不足以供给自己生活。",
+      "tokens": [
+        {
+          "surface": "余",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "耕植",
+          "pos": "动词",
+          "gloss": "耕种"
+        },
+        {
+          "surface": "足以",
+          "pos": "固定结构",
+          "gloss": "足够用来"
+        },
+        {
+          "surface": "自给",
+          "pos": "动词",
+          "gloss": "供给自己"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-002",
+      "order": 2,
+      "text": "幼稚盈室，瓶无储粟，生生所资，未见其术。",
+      "translation": "孩子满屋，盛粮的瓶中没有存粮，维持生活所凭借的东西，没有找到办法。",
+      "tokens": [
+        {
+          "surface": "幼稚",
+          "pos": "名词",
+          "gloss": "小孩"
+        },
+        {
+          "surface": "盈",
+          "pos": "动词",
+          "gloss": "满"
+        },
+        {
+          "surface": "瓶",
+          "pos": "名词",
+          "gloss": "盛粮的容器"
+        },
+        {
+          "surface": "储粟",
+          "pos": "名词",
+          "gloss": "存粮"
+        },
+        {
+          "surface": "生生",
+          "pos": "动词",
+          "gloss": "维持生活"
+        },
+        {
+          "surface": "所资",
+          "pos": "名词",
+          "gloss": "所凭借的东西"
+        },
+        {
+          "surface": "术",
+          "pos": "名词",
+          "gloss": "办法"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-003",
+      "order": 3,
+      "text": "亲故多劝余为长吏，脱然有怀，求之靡途。",
+      "translation": "亲戚朋友大多劝我去做县吏，我轻快地有了想法，寻求却没有门路。",
+      "tokens": [
+        {
+          "surface": "亲故",
+          "pos": "名词",
+          "gloss": "亲戚朋友"
+        },
+        {
+          "surface": "劝",
+          "pos": "动词",
+          "gloss": "劝说"
+        },
+        {
+          "surface": "长吏",
+          "pos": "名词",
+          "gloss": "县吏"
+        },
+        {
+          "surface": "脱然",
+          "pos": "形容词",
+          "gloss": "轻快、舒展的样子"
+        },
+        {
+          "surface": "怀",
+          "pos": "名词",
+          "gloss": "想法"
+        },
+        {
+          "surface": "靡途",
+          "pos": "动词",
+          "gloss": "没有门路"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-004",
+      "order": 4,
+      "text": "会有四方之事，诸侯以惠爱为德。",
+      "translation": "恰逢有州郡征召的事情，州郡长官把恩惠仁爱当作美德。",
+      "tokens": [
+        {
+          "surface": "会",
+          "pos": "副词",
+          "gloss": "恰逢"
+        },
+        {
+          "surface": "四方之事",
+          "pos": "名词",
+          "gloss": "指州郡征召之事"
+        },
+        {
+          "surface": "诸侯",
+          "pos": "名词",
+          "gloss": "指州郡长官"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "把"
+        },
+        {
+          "surface": "惠爱",
+          "pos": "名词",
+          "gloss": "恩惠仁爱"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "当作"
+        },
+        {
+          "surface": "德",
+          "pos": "名词",
+          "gloss": "美德"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-005",
+      "order": 5,
+      "text": "家叔以余贫苦，遂见用于小邑。",
+      "translation": "叔父因为我贫穷困苦，于是我被任用为小县的官吏。",
+      "tokens": [
+        {
+          "surface": "家叔",
+          "pos": "名词",
+          "gloss": "叔父"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "贫苦",
+          "pos": "形容词",
+          "gloss": "贫穷困苦"
+        },
+        {
+          "surface": "遂",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "见",
+          "pos": "助词",
+          "gloss": "表被动"
+        },
+        {
+          "surface": "用",
+          "pos": "动词",
+          "gloss": "任用"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "小邑",
+          "pos": "名词",
+          "gloss": "小县"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-006",
+      "order": 6,
+      "text": "于时风波未静，心惮远役。",
+      "translation": "当时战乱没有平息，心里害怕到远处做官。",
+      "tokens": [
+        {
+          "surface": "于时",
+          "pos": "固定结构",
+          "gloss": "当时"
+        },
+        {
+          "surface": "风波",
+          "pos": "名词",
+          "gloss": "战乱"
+        },
+        {
+          "surface": "静",
+          "pos": "形容词",
+          "gloss": "平息"
+        },
+        {
+          "surface": "惮",
+          "pos": "动词",
+          "gloss": "害怕"
+        },
+        {
+          "surface": "远役",
+          "pos": "名词",
+          "gloss": "到远处做官"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-007",
+      "order": 7,
+      "text": "彭泽去家百里，公田之利，足以为酒，故便求之。",
+      "translation": "彭泽县离家一百里，公田的收益，足够用来酿酒，所以我就请求去那里。",
+      "tokens": [
+        {
+          "surface": "彭泽",
+          "pos": "名词",
+          "gloss": "彭泽县"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "距离"
+        },
+        {
+          "surface": "公田",
+          "pos": "名词",
+          "gloss": "公家的田"
+        },
+        {
+          "surface": "利",
+          "pos": "名词",
+          "gloss": "收益"
+        },
+        {
+          "surface": "足以",
+          "pos": "固定结构",
+          "gloss": "足够用来"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "酿造"
+        },
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "便",
+          "pos": "副词",
+          "gloss": "就"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-008",
+      "order": 8,
+      "text": "及少日，眷然有归欤之情。",
+      "translation": "到了不久，就思念着有归去的情怀。",
+      "tokens": [
+        {
+          "surface": "及",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "少日",
+          "pos": "名词",
+          "gloss": "不久"
+        },
+        {
+          "surface": "眷然",
+          "pos": "形容词",
+          "gloss": "思念的样子"
+        },
+        {
+          "surface": "归欤之情",
+          "pos": "名词",
+          "gloss": "归隐的念头"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-009",
+      "order": 9,
+      "text": "何则？质性自然，非矫厉所得。",
+      "translation": "为什么呢？本性任其自然，不是勉强造作所能做到的。",
+      "tokens": [
+        {
+          "surface": "何则",
+          "pos": "固定结构",
+          "gloss": "为什么呢"
+        },
+        {
+          "surface": "质性",
+          "pos": "名词",
+          "gloss": "本性"
+        },
+        {
+          "surface": "自然",
+          "pos": "形容词",
+          "gloss": "任其自然"
+        },
+        {
+          "surface": "非",
+          "pos": "副词",
+          "gloss": "不是"
+        },
+        {
+          "surface": "矫厉",
+          "pos": "动词",
+          "gloss": "勉强造作"
+        },
+        {
+          "surface": "所得",
+          "pos": "名词",
+          "gloss": "能做到的"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-010",
+      "order": 10,
+      "text": "饥冻虽切，违己交病。",
+      "translation": "饥饿寒冷虽然迫切，但违背自己的本性更使人痛苦。",
+      "tokens": [
+        {
+          "surface": "饥冻",
+          "pos": "名词",
+          "gloss": "饥饿寒冷"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "切",
+          "pos": "形容词",
+          "gloss": "迫切"
+        },
+        {
+          "surface": "违己",
+          "pos": "动词",
+          "gloss": "违背自己"
+        },
+        {
+          "surface": "交病",
+          "pos": "动词",
+          "gloss": "都感到痛苦"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-011",
+      "order": 11,
+      "text": "尝从人事，皆口腹自役。",
+      "translation": "曾经从事仕途人事，都是为了口腹而役使自己。",
+      "tokens": [
+        {
+          "surface": "尝",
+          "pos": "副词",
+          "gloss": "曾经"
+        },
+        {
+          "surface": "从",
+          "pos": "动词",
+          "gloss": "从事"
+        },
+        {
+          "surface": "人事",
+          "pos": "名词",
+          "gloss": "仕途人事"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "口腹",
+          "pos": "名词",
+          "gloss": "饮食"
+        },
+        {
+          "surface": "自役",
+          "pos": "动词",
+          "gloss": "役使自己"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-012",
+      "order": 12,
+      "text": "于是怅然慷慨，深愧平生之志。",
+      "translation": "于是失意感慨，深深地愧对平素的志向。",
+      "tokens": [
+        {
+          "surface": "怅然",
+          "pos": "形容词",
+          "gloss": "失意的样子"
+        },
+        {
+          "surface": "慷慨",
+          "pos": "形容词",
+          "gloss": "感慨"
+        },
+        {
+          "surface": "深",
+          "pos": "副词",
+          "gloss": "深深地"
+        },
+        {
+          "surface": "愧",
+          "pos": "动词",
+          "gloss": "惭愧"
+        },
+        {
+          "surface": "平生之志",
+          "pos": "名词",
+          "gloss": "平素的志向"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-013",
+      "order": 13,
+      "text": "犹望一稔，当敛裳宵逝。",
+      "translation": "还希望等上一年，就收拾行装连夜离去。",
+      "tokens": [
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "一稔",
+          "pos": "名词",
+          "gloss": "一年"
+        },
+        {
+          "surface": "敛裳",
+          "pos": "动词",
+          "gloss": "收拾行装"
+        },
+        {
+          "surface": "宵逝",
+          "pos": "动词",
+          "gloss": "连夜离去"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-014",
+      "order": 14,
+      "text": "寻程氏妹丧于武昌，情在骏奔，自免去职。",
+      "translation": "不久嫁到程家的妹妹在武昌去世，我急于奔丧，自己辞官离职。",
+      "tokens": [
+        {
+          "surface": "寻",
+          "pos": "副词",
+          "gloss": "不久"
+        },
+        {
+          "surface": "程氏妹",
+          "pos": "名词",
+          "gloss": "嫁到程家的妹妹"
+        },
+        {
+          "surface": "丧",
+          "pos": "动词",
+          "gloss": "去世"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "骏奔",
+          "pos": "动词",
+          "gloss": "急速奔丧"
+        },
+        {
+          "surface": "自免",
+          "pos": "动词",
+          "gloss": "自己辞官"
+        },
+        {
+          "surface": "去职",
+          "pos": "动词",
+          "gloss": "离职"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-015",
+      "order": 15,
+      "text": "仲秋至冬，在官八十余日。",
+      "translation": "从仲秋到冬天，在职八十多天。",
+      "tokens": [
+        {
+          "surface": "仲秋",
+          "pos": "名词",
+          "gloss": "农历八月"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "在官",
+          "pos": "动词",
+          "gloss": "任职"
+        },
+        {
+          "surface": "八十余日",
+          "pos": "数量词",
+          "gloss": "八十多天"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-016",
+      "order": 16,
+      "text": "因事顺心，命篇曰《归去来兮》。",
+      "translation": "顺着这件事而顺遂心意，命名此篇叫《归去来兮》。",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "介词",
+          "gloss": "顺着"
+        },
+        {
+          "surface": "事",
+          "pos": "名词",
+          "gloss": "这件事"
+        },
+        {
+          "surface": "顺心",
+          "pos": "动词",
+          "gloss": "顺遂心意"
+        },
+        {
+          "surface": "命篇",
+          "pos": "动词",
+          "gloss": "命名此篇"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "叫作"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-017",
+      "order": 17,
+      "text": "乙巳岁十一月也。",
+      "translation": "是乙巳年十一月。",
+      "tokens": [
+        {
+          "surface": "乙巳岁",
+          "pos": "名词",
+          "gloss": "乙巳年，即公元405年"
+        },
+        {
+          "surface": "十一月",
+          "pos": "名词",
+          "gloss": "农历十一月"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-018",
+      "order": 18,
+      "text": "归去来兮，田园将芜胡不归？",
+      "translation": "回去吧，田园将要荒芜了，为什么还不回去？",
+      "tokens": [
+        {
+          "surface": "归去来兮",
+          "pos": "固定结构",
+          "gloss": "回去吧"
+        },
+        {
+          "surface": "田园",
+          "pos": "名词",
+          "gloss": "田地园圃"
+        },
+        {
+          "surface": "芜",
+          "pos": "动词",
+          "gloss": "荒芜"
+        },
+        {
+          "surface": "胡",
+          "pos": "代词",
+          "gloss": "为什么"
+        },
+        {
+          "surface": "归",
+          "pos": "动词",
+          "gloss": "回去"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-019",
+      "order": 19,
+      "text": "既自以心为形役，奚惆怅而独悲？",
+      "translation": "既然自己让心灵被形体役使，为什么还伤感而独自悲伤？",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "连词",
+          "gloss": "既然"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "让"
+        },
+        {
+          "surface": "心",
+          "pos": "名词",
+          "gloss": "心灵"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "被"
+        },
+        {
+          "surface": "形役",
+          "pos": "名词",
+          "gloss": "形体的役使"
+        },
+        {
+          "surface": "奚",
+          "pos": "代词",
+          "gloss": "为什么"
+        },
+        {
+          "surface": "惆怅",
+          "pos": "形容词",
+          "gloss": "伤感"
+        },
+        {
+          "surface": "独",
+          "pos": "副词",
+          "gloss": "独自"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-020",
+      "order": 20,
+      "text": "悟已往之不谏，知来者之可追。",
+      "translation": "认识到过去的错误不可挽回，知道未来的事还可以补救。",
+      "tokens": [
+        {
+          "surface": "悟",
+          "pos": "动词",
+          "gloss": "认识到"
+        },
+        {
+          "surface": "已往",
+          "pos": "名词",
+          "gloss": "过去"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "谏",
+          "pos": "动词",
+          "gloss": "挽回"
+        },
+        {
+          "surface": "来者",
+          "pos": "名词",
+          "gloss": "未来"
+        },
+        {
+          "surface": "追",
+          "pos": "动词",
+          "gloss": "补救"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-021",
+      "order": 21,
+      "text": "实迷途其未远，觉今是而昨非。",
+      "translation": "确实走入迷途还不算远，觉悟到今天正确而昨天错误。",
+      "tokens": [
+        {
+          "surface": "实",
+          "pos": "副词",
+          "gloss": "确实"
+        },
+        {
+          "surface": "迷途",
+          "pos": "名词",
+          "gloss": "迷路"
+        },
+        {
+          "surface": "其",
+          "pos": "副词",
+          "gloss": "加强语气"
+        },
+        {
+          "surface": "未远",
+          "pos": "形容词",
+          "gloss": "不算远"
+        },
+        {
+          "surface": "觉",
+          "pos": "动词",
+          "gloss": "觉悟"
+        },
+        {
+          "surface": "是",
+          "pos": "形容词",
+          "gloss": "正确"
+        },
+        {
+          "surface": "非",
+          "pos": "形容词",
+          "gloss": "错误"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-022",
+      "order": 22,
+      "text": "舟遥遥以轻飏，风飘飘而吹衣。",
+      "translation": "船漂荡着轻快地前行，风飘飘地吹动衣裳。",
+      "tokens": [
+        {
+          "surface": "遥遥",
+          "pos": "形容词",
+          "gloss": "漂荡的样子"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "而"
+        },
+        {
+          "surface": "轻飏",
+          "pos": "动词",
+          "gloss": "轻快地飘荡"
+        },
+        {
+          "surface": "飘飘",
+          "pos": "形容词",
+          "gloss": "飘荡的样子"
+        },
+        {
+          "surface": "吹衣",
+          "pos": "动词",
+          "gloss": "吹动衣裳"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-023",
+      "order": 23,
+      "text": "问征夫以前路，恨晨光之熹微。",
+      "translation": "向行人打听前面的路，遗憾的是清晨的阳光还很微弱。",
+      "tokens": [
+        {
+          "surface": "征夫",
+          "pos": "名词",
+          "gloss": "行人"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "前路",
+          "pos": "名词",
+          "gloss": "前面的路"
+        },
+        {
+          "surface": "恨",
+          "pos": "动词",
+          "gloss": "遗憾"
+        },
+        {
+          "surface": "晨光",
+          "pos": "名词",
+          "gloss": "清晨的阳光"
+        },
+        {
+          "surface": "熹微",
+          "pos": "形容词",
+          "gloss": "微弱"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-024",
+      "order": 24,
+      "text": "乃瞻衡宇，载欣载奔。",
+      "translation": "于是望见简陋的房屋，又是欣喜又是奔跑。",
+      "tokens": [
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "瞻",
+          "pos": "动词",
+          "gloss": "望见"
+        },
+        {
+          "surface": "衡宇",
+          "pos": "名词",
+          "gloss": "简陋的房屋"
+        },
+        {
+          "surface": "载欣",
+          "pos": "固定结构",
+          "gloss": "又欣喜"
+        },
+        {
+          "surface": "载奔",
+          "pos": "固定结构",
+          "gloss": "又奔跑"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-025",
+      "order": 25,
+      "text": "僮仆欢迎，稚子候门。",
+      "translation": "仆人高兴地迎接，幼子在门口等候。",
+      "tokens": [
+        {
+          "surface": "僮仆",
+          "pos": "名词",
+          "gloss": "仆人"
+        },
+        {
+          "surface": "欢迎",
+          "pos": "动词",
+          "gloss": "高兴地迎接"
+        },
+        {
+          "surface": "稚子",
+          "pos": "名词",
+          "gloss": "幼子"
+        },
+        {
+          "surface": "候门",
+          "pos": "动词",
+          "gloss": "在门口等候"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-026",
+      "order": 26,
+      "text": "三径就荒，松菊犹存。",
+      "translation": "庭院小路快要荒芜，松树菊花还活着。",
+      "tokens": [
+        {
+          "surface": "三径",
+          "pos": "名词",
+          "gloss": "庭院中的小路"
+        },
+        {
+          "surface": "就",
+          "pos": "动词",
+          "gloss": "接近、快要"
+        },
+        {
+          "surface": "荒",
+          "pos": "动词",
+          "gloss": "荒芜"
+        },
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "存",
+          "pos": "动词",
+          "gloss": "活着"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-027",
+      "order": 27,
+      "text": "携幼入室，有酒盈樽。",
+      "translation": "牵着幼儿进屋，有酒装满酒器。",
+      "tokens": [
+        {
+          "surface": "携",
+          "pos": "动词",
+          "gloss": "牵着"
+        },
+        {
+          "surface": "幼",
+          "pos": "名词",
+          "gloss": "幼儿"
+        },
+        {
+          "surface": "入室",
+          "pos": "动词",
+          "gloss": "进屋"
+        },
+        {
+          "surface": "盈",
+          "pos": "动词",
+          "gloss": "装满"
+        },
+        {
+          "surface": "樽",
+          "pos": "名词",
+          "gloss": "酒器"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-028",
+      "order": 28,
+      "text": "引壶觞以自酌，眄庭柯以怡颜。",
+      "translation": "拿起酒壶酒杯自斟自饮，斜看庭中树枝使容颜愉悦。",
+      "tokens": [
+        {
+          "surface": "引",
+          "pos": "动词",
+          "gloss": "拿起"
+        },
+        {
+          "surface": "壶觞",
+          "pos": "名词",
+          "gloss": "酒壶酒杯"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "自酌",
+          "pos": "动词",
+          "gloss": "自斟自饮"
+        },
+        {
+          "surface": "眄",
+          "pos": "动词",
+          "gloss": "斜看"
+        },
+        {
+          "surface": "庭柯",
+          "pos": "名词",
+          "gloss": "庭院中的树枝"
+        },
+        {
+          "surface": "怡颜",
+          "pos": "动词",
+          "gloss": "使容颜愉悦"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-029",
+      "order": 29,
+      "text": "倚南窗以寄傲，审容膝之易安。",
+      "translation": "倚靠南窗寄托傲世的情怀，深知仅容双膝的小屋容易安适。",
+      "tokens": [
+        {
+          "surface": "倚",
+          "pos": "动词",
+          "gloss": "倚靠"
+        },
+        {
+          "surface": "南窗",
+          "pos": "名词",
+          "gloss": "南面的窗户"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "寄傲",
+          "pos": "动词",
+          "gloss": "寄托傲世之情"
+        },
+        {
+          "surface": "审",
+          "pos": "动词",
+          "gloss": "深知"
+        },
+        {
+          "surface": "容膝",
+          "pos": "名词",
+          "gloss": "仅容双膝的小屋"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "易安",
+          "pos": "形容词",
+          "gloss": "容易安适"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-030",
+      "order": 30,
+      "text": "园日涉以成趣，门虽设而常关。",
+      "translation": "园中每天散步成为乐趣，门虽然设置却常常关闭。",
+      "tokens": [
+        {
+          "surface": "日",
+          "pos": "副词",
+          "gloss": "每天"
+        },
+        {
+          "surface": "涉",
+          "pos": "动词",
+          "gloss": "散步"
+        },
+        {
+          "surface": "成趣",
+          "pos": "动词",
+          "gloss": "成为乐趣"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "设",
+          "pos": "动词",
+          "gloss": "设置"
+        },
+        {
+          "surface": "常关",
+          "pos": "动词",
+          "gloss": "常常关闭"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-031",
+      "order": 31,
+      "text": "策扶老以流憩，时矫首而遐观。",
+      "translation": "拄着手杖随处休息，时时抬头远望。",
+      "tokens": [
+        {
+          "surface": "策",
+          "pos": "动词",
+          "gloss": "拄着"
+        },
+        {
+          "surface": "扶老",
+          "pos": "名词",
+          "gloss": "手杖"
+        },
+        {
+          "surface": "流憩",
+          "pos": "动词",
+          "gloss": "随处休息"
+        },
+        {
+          "surface": "时",
+          "pos": "副词",
+          "gloss": "时时"
+        },
+        {
+          "surface": "矫首",
+          "pos": "动词",
+          "gloss": "抬头"
+        },
+        {
+          "surface": "遐观",
+          "pos": "动词",
+          "gloss": "远望"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-032",
+      "order": 32,
+      "text": "云无心以出岫，鸟倦飞而知还。",
+      "translation": "云气无意地从山峰飘出，鸟儿飞倦了就知道回巢。",
+      "tokens": [
+        {
+          "surface": "无心",
+          "pos": "副词",
+          "gloss": "无意地"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "而"
+        },
+        {
+          "surface": "出岫",
+          "pos": "动词",
+          "gloss": "从山峰飘出"
+        },
+        {
+          "surface": "倦飞",
+          "pos": "动词",
+          "gloss": "飞倦"
+        },
+        {
+          "surface": "知还",
+          "pos": "动词",
+          "gloss": "知道回巢"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-033",
+      "order": 33,
+      "text": "景翳翳以将入，抚孤松而盘桓。",
+      "translation": "日光昏暗将要落山，抚摸着孤松徘徊。",
+      "tokens": [
+        {
+          "surface": "景",
+          "pos": "名词",
+          "gloss": "日光"
+        },
+        {
+          "surface": "翳翳",
+          "pos": "形容词",
+          "gloss": "昏暗的样子"
+        },
+        {
+          "surface": "将入",
+          "pos": "动词",
+          "gloss": "将要落山"
+        },
+        {
+          "surface": "抚",
+          "pos": "动词",
+          "gloss": "抚摸"
+        },
+        {
+          "surface": "孤松",
+          "pos": "名词",
+          "gloss": "孤立的松树"
+        },
+        {
+          "surface": "盘桓",
+          "pos": "动词",
+          "gloss": "徘徊"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-034",
+      "order": 34,
+      "text": "归去来兮，请息交以绝游。",
+      "translation": "回去吧，请允许我停止交游、断绝游历。",
+      "tokens": [
+        {
+          "surface": "归去来兮",
+          "pos": "固定结构",
+          "gloss": "回去吧"
+        },
+        {
+          "surface": "请",
+          "pos": "副词",
+          "gloss": "请允许我"
+        },
+        {
+          "surface": "息交",
+          "pos": "动词",
+          "gloss": "停止交游"
+        },
+        {
+          "surface": "绝游",
+          "pos": "动词",
+          "gloss": "断绝游历"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-035",
+      "order": 35,
+      "text": "世与我而相违，复驾言兮焉求？",
+      "translation": "世俗与我相背离，还驾车出游追求什么呢？",
+      "tokens": [
+        {
+          "surface": "世",
+          "pos": "名词",
+          "gloss": "世俗"
+        },
+        {
+          "surface": "相违",
+          "pos": "动词",
+          "gloss": "相背离"
+        },
+        {
+          "surface": "复",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "驾言",
+          "pos": "动词",
+          "gloss": "驾车出游"
+        },
+        {
+          "surface": "焉",
+          "pos": "代词",
+          "gloss": "什么"
+        },
+        {
+          "surface": "求",
+          "pos": "动词",
+          "gloss": "追求"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-036",
+      "order": 36,
+      "text": "悦亲戚之情话，乐琴书以消忧。",
+      "translation": "以亲戚的知心话为喜悦，以弹琴读书为快乐来消除忧愁。",
+      "tokens": [
+        {
+          "surface": "悦",
+          "pos": "动词",
+          "gloss": "以……为喜悦"
+        },
+        {
+          "surface": "亲戚",
+          "pos": "名词",
+          "gloss": "亲人"
+        },
+        {
+          "surface": "情话",
+          "pos": "名词",
+          "gloss": "知心话"
+        },
+        {
+          "surface": "乐",
+          "pos": "动词",
+          "gloss": "以……为乐"
+        },
+        {
+          "surface": "琴书",
+          "pos": "名词",
+          "gloss": "弹琴读书"
+        },
+        {
+          "surface": "消忧",
+          "pos": "动词",
+          "gloss": "消除忧愁"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-037",
+      "order": 37,
+      "text": "农人告余以春及，将有事于西畴。",
+      "translation": "农夫把春天到来告诉我，将要到西边田里做农事。",
+      "tokens": [
+        {
+          "surface": "农人",
+          "pos": "名词",
+          "gloss": "农夫"
+        },
+        {
+          "surface": "告",
+          "pos": "动词",
+          "gloss": "告诉"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "把"
+        },
+        {
+          "surface": "春及",
+          "pos": "动词",
+          "gloss": "春天到来"
+        },
+        {
+          "surface": "有事",
+          "pos": "动词",
+          "gloss": "有农事"
+        },
+        {
+          "surface": "西畴",
+          "pos": "名词",
+          "gloss": "西边的田地"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-038",
+      "order": 38,
+      "text": "或命巾车，或棹孤舟。",
+      "translation": "有时驾着有帷幕的车，有时划着小船。",
+      "tokens": [
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有时"
+        },
+        {
+          "surface": "命",
+          "pos": "动词",
+          "gloss": "驾"
+        },
+        {
+          "surface": "巾车",
+          "pos": "名词",
+          "gloss": "有帷幕的车"
+        },
+        {
+          "surface": "棹",
+          "pos": "动词",
+          "gloss": "划"
+        },
+        {
+          "surface": "孤舟",
+          "pos": "名词",
+          "gloss": "小船"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-039",
+      "order": 39,
+      "text": "既窈窕以寻壑，亦崎岖而经丘。",
+      "translation": "既沿着深远曲折的路探寻山谷，又经过崎岖不平的山丘。",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "连词",
+          "gloss": "既"
+        },
+        {
+          "surface": "窈窕",
+          "pos": "形容词",
+          "gloss": "深远曲折"
+        },
+        {
+          "surface": "寻壑",
+          "pos": "动词",
+          "gloss": "探寻山谷"
+        },
+        {
+          "surface": "亦",
+          "pos": "连词",
+          "gloss": "又"
+        },
+        {
+          "surface": "崎岖",
+          "pos": "形容词",
+          "gloss": "崎岖不平"
+        },
+        {
+          "surface": "经丘",
+          "pos": "动词",
+          "gloss": "经过山丘"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-040",
+      "order": 40,
+      "text": "木欣欣以向荣，泉涓涓而始流。",
+      "translation": "树木欣欣向荣，泉水涓涓开始流淌。",
+      "tokens": [
+        {
+          "surface": "木",
+          "pos": "名词",
+          "gloss": "树木"
+        },
+        {
+          "surface": "欣欣",
+          "pos": "形容词",
+          "gloss": "兴盛的样子"
+        },
+        {
+          "surface": "向荣",
+          "pos": "动词",
+          "gloss": "趋向繁荣"
+        },
+        {
+          "surface": "涓涓",
+          "pos": "形容词",
+          "gloss": "细流不断的样子"
+        },
+        {
+          "surface": "始流",
+          "pos": "动词",
+          "gloss": "开始流淌"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-041",
+      "order": 41,
+      "text": "善万物之得时，感吾生之行休。",
+      "translation": "羡慕万物得到时令，感叹我的一生将要结束。",
+      "tokens": [
+        {
+          "surface": "善",
+          "pos": "动词",
+          "gloss": "羡慕"
+        },
+        {
+          "surface": "万物",
+          "pos": "名词",
+          "gloss": "万物"
+        },
+        {
+          "surface": "得时",
+          "pos": "动词",
+          "gloss": "得到时令"
+        },
+        {
+          "surface": "感",
+          "pos": "动词",
+          "gloss": "感叹"
+        },
+        {
+          "surface": "吾生",
+          "pos": "名词",
+          "gloss": "我的一生"
+        },
+        {
+          "surface": "行休",
+          "pos": "动词",
+          "gloss": "将要结束"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-042",
+      "order": 42,
+      "text": "已矣乎！寓形宇内复几时？",
+      "translation": "算了吧！寄托形体在天地间还能有多少时间？",
+      "tokens": [
+        {
+          "surface": "已矣乎",
+          "pos": "固定结构",
+          "gloss": "算了吧"
+        },
+        {
+          "surface": "寓形",
+          "pos": "动词",
+          "gloss": "寄托形体"
+        },
+        {
+          "surface": "宇内",
+          "pos": "名词",
+          "gloss": "天地间"
+        },
+        {
+          "surface": "复",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "几时",
+          "pos": "名词",
+          "gloss": "多少时间"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-043",
+      "order": 43,
+      "text": "曷不委心任去留？",
+      "translation": "为什么不随心所欲、任凭去留？",
+      "tokens": [
+        {
+          "surface": "曷",
+          "pos": "代词",
+          "gloss": "为什么"
+        },
+        {
+          "surface": "委心",
+          "pos": "动词",
+          "gloss": "随心"
+        },
+        {
+          "surface": "任",
+          "pos": "动词",
+          "gloss": "任凭"
+        },
+        {
+          "surface": "去留",
+          "pos": "名词",
+          "gloss": "去或留"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-044",
+      "order": 44,
+      "text": "胡为乎遑遑欲何之？",
+      "translation": "为什么匆忙不安，想要到哪里去？",
+      "tokens": [
+        {
+          "surface": "胡为",
+          "pos": "固定结构",
+          "gloss": "为什么"
+        },
+        {
+          "surface": "遑遑",
+          "pos": "形容词",
+          "gloss": "匆忙不安"
+        },
+        {
+          "surface": "何之",
+          "pos": "动词",
+          "gloss": "到哪里去"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-045",
+      "order": 45,
+      "text": "富贵非吾愿，帝乡不可期。",
+      "translation": "富贵不是我的愿望，仙境不可期望。",
+      "tokens": [
+        {
+          "surface": "富贵",
+          "pos": "名词",
+          "gloss": "富贵"
+        },
+        {
+          "surface": "非",
+          "pos": "动词",
+          "gloss": "不是"
+        },
+        {
+          "surface": "吾愿",
+          "pos": "名词",
+          "gloss": "我的愿望"
+        },
+        {
+          "surface": "帝乡",
+          "pos": "名词",
+          "gloss": "仙境"
+        },
+        {
+          "surface": "期",
+          "pos": "动词",
+          "gloss": "期望"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-046",
+      "order": 46,
+      "text": "怀良辰以孤往，或植杖而耘耔。",
+      "translation": "怀着美好时光独自前往，有时拄着手杖除草培土。",
+      "tokens": [
+        {
+          "surface": "怀",
+          "pos": "动词",
+          "gloss": "怀着"
+        },
+        {
+          "surface": "良辰",
+          "pos": "名词",
+          "gloss": "美好的时光"
+        },
+        {
+          "surface": "孤往",
+          "pos": "动词",
+          "gloss": "独自前往"
+        },
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有时"
+        },
+        {
+          "surface": "植杖",
+          "pos": "动词",
+          "gloss": "拄着手杖"
+        },
+        {
+          "surface": "耘耔",
+          "pos": "动词",
+          "gloss": "除草培土"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-047",
+      "order": 47,
+      "text": "登东皋以舒啸，临清流而赋诗。",
+      "translation": "登上东边高地放声长啸，面对清澈溪流吟诗。",
+      "tokens": [
+        {
+          "surface": "登",
+          "pos": "动词",
+          "gloss": "登上"
+        },
+        {
+          "surface": "东皋",
+          "pos": "名词",
+          "gloss": "东边的高地"
+        },
+        {
+          "surface": "舒啸",
+          "pos": "动词",
+          "gloss": "放声长啸"
+        },
+        {
+          "surface": "临",
+          "pos": "动词",
+          "gloss": "面对"
+        },
+        {
+          "surface": "清流",
+          "pos": "名词",
+          "gloss": "清澈的溪流"
+        },
+        {
+          "surface": "赋诗",
+          "pos": "动词",
+          "gloss": "吟诗"
+        }
+      ]
+    },
+    {
+      "id": "guiqulaici-048",
+      "order": 48,
+      "text": "聊乘化以归尽，乐夫天命复奚疑！",
+      "translation": "姑且顺应造化走到生命尽头，乐从天命还疑虑什么！",
+      "tokens": [
+        {
+          "surface": "聊",
+          "pos": "副词",
+          "gloss": "姑且"
+        },
+        {
+          "surface": "乘化",
+          "pos": "动词",
+          "gloss": "顺应造化"
+        },
+        {
+          "surface": "归尽",
+          "pos": "动词",
+          "gloss": "走到生命尽头"
+        },
+        {
+          "surface": "乐",
+          "pos": "动词",
+          "gloss": "以……为乐"
+        },
+        {
+          "surface": "天命",
+          "pos": "名词",
+          "gloss": "自然规律"
+        },
+        {
+          "surface": "奚疑",
+          "pos": "动词",
+          "gloss": "疑虑什么"
+        }
+      ]
+    }
+  ]
+}

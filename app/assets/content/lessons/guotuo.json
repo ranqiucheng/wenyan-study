@@ -1,0 +1,959 @@
+{
+  "id": "guotuo",
+  "title": "种树郭橐驼传",
+  "author": "柳宗元",
+  "source": "《柳宗元集》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "传记"
+  ],
+  "reviewed": true,
+  "summary": "柳宗元借郭橐驼顺应树木天性的种树之道，说明为政应顺民之性、不可烦令扰民，寓言与政论交融，寄寓作者的政治主张。",
+  "sentences": [
+    {
+      "id": "guotuo-001",
+      "order": 1,
+      "text": "郭橐驼，不知始何名。",
+      "translation": "郭橐驼，不知道他起初叫什么名字。",
+      "tokens": [
+        {
+          "surface": "橐驼",
+          "pos": "名词",
+          "gloss": "骆驼，这里指驼背"
+        },
+        {
+          "surface": "始",
+          "pos": "副词",
+          "gloss": "起初"
+        },
+        {
+          "surface": "名",
+          "pos": "名词",
+          "gloss": "名字"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-002",
+      "order": 2,
+      "text": "病偻，隆然伏行，有类橐驼者，故乡人号之“驼”。",
+      "translation": "他患脊背弯曲的病，脊背隆起俯着身子走路，有点像骆驼，所以乡里人称呼他“驼”。",
+      "tokens": [
+        {
+          "surface": "病偻",
+          "pos": "动词",
+          "gloss": "患脊背弯曲的病"
+        },
+        {
+          "surface": "隆然",
+          "pos": "形容词",
+          "gloss": "隆起的样子"
+        },
+        {
+          "surface": "伏行",
+          "pos": "动词",
+          "gloss": "俯身行走"
+        },
+        {
+          "surface": "类",
+          "pos": "动词",
+          "gloss": "像"
+        },
+        {
+          "surface": "号",
+          "pos": "动词",
+          "gloss": "称呼"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-003",
+      "order": 3,
+      "text": "驼闻之曰：“甚善，名我固当。”",
+      "translation": "他听了说：“很好，这样称呼我确实恰当。”",
+      "tokens": [
+        {
+          "surface": "闻",
+          "pos": "动词",
+          "gloss": "听说"
+        },
+        {
+          "surface": "甚善",
+          "pos": "形容词",
+          "gloss": "很好"
+        },
+        {
+          "surface": "名",
+          "pos": "动词",
+          "gloss": "称呼"
+        },
+        {
+          "surface": "固当",
+          "pos": "形容词",
+          "gloss": "确实恰当"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-004",
+      "order": 4,
+      "text": "因舍其名，亦自谓“橐驼”云。",
+      "translation": "于是他舍弃原来的名字，也自称“橐驼”。",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "连词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "舍",
+          "pos": "动词",
+          "gloss": "舍弃"
+        },
+        {
+          "surface": "自谓",
+          "pos": "动词",
+          "gloss": "自称"
+        },
+        {
+          "surface": "云",
+          "pos": "助词",
+          "gloss": "句末语气词"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-005",
+      "order": 5,
+      "text": "其乡曰丰乐乡，在长安西。",
+      "translation": "他的家乡叫丰乐乡，在长安西边。",
+      "tokens": [
+        {
+          "surface": "乡",
+          "pos": "名词",
+          "gloss": "家乡"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "叫"
+        },
+        {
+          "surface": "西",
+          "pos": "名词",
+          "gloss": "西边"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-006",
+      "order": 6,
+      "text": "驼业种树，凡长安豪家富人为观游及卖果者，皆争迎取养。",
+      "translation": "他以种树为业，凡是长安城里的豪富人家，无论是为了观赏游玩还是为了卖果子，都争着迎接他、雇用他。",
+      "tokens": [
+        {
+          "surface": "业",
+          "pos": "动词",
+          "gloss": "以……为业"
+        },
+        {
+          "surface": "凡",
+          "pos": "副词",
+          "gloss": "凡是"
+        },
+        {
+          "surface": "观游",
+          "pos": "动词",
+          "gloss": "观赏游玩"
+        },
+        {
+          "surface": "争迎",
+          "pos": "动词",
+          "gloss": "争着迎接"
+        },
+        {
+          "surface": "取养",
+          "pos": "动词",
+          "gloss": "雇用"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-007",
+      "order": 7,
+      "text": "视驼所种树，或移徙，无不活；",
+      "translation": "看他种的树，有的经过移植，没有不成活的；",
+      "tokens": [
+        {
+          "surface": "视",
+          "pos": "动词",
+          "gloss": "看"
+        },
+        {
+          "surface": "移徙",
+          "pos": "动词",
+          "gloss": "移植"
+        },
+        {
+          "surface": "无不",
+          "pos": "副词",
+          "gloss": "没有不"
+        },
+        {
+          "surface": "活",
+          "pos": "动词",
+          "gloss": "成活"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-008",
+      "order": 8,
+      "text": "且硕茂，早实以蕃。",
+      "translation": "而且高大茂盛，结果早而且多。",
+      "tokens": [
+        {
+          "surface": "硕茂",
+          "pos": "形容词",
+          "gloss": "高大茂盛"
+        },
+        {
+          "surface": "早实",
+          "pos": "动词",
+          "gloss": "早结果"
+        },
+        {
+          "surface": "蕃",
+          "pos": "形容词",
+          "gloss": "多"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-009",
+      "order": 9,
+      "text": "他植者虽窥伺效慕，莫能如也。",
+      "translation": "别的种树人即使暗中观察、仿效羡慕，也没有人能赶上他。",
+      "tokens": [
+        {
+          "surface": "他植者",
+          "pos": "名词",
+          "gloss": "别的种树人"
+        },
+        {
+          "surface": "窥伺",
+          "pos": "动词",
+          "gloss": "暗中观察"
+        },
+        {
+          "surface": "效慕",
+          "pos": "动词",
+          "gloss": "仿效仰慕"
+        },
+        {
+          "surface": "莫",
+          "pos": "副词",
+          "gloss": "没有谁"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-010",
+      "order": 10,
+      "text": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。",
+      "translation": "有人问他，他回答说：“我郭橐驼并不是能使树木活得长久、繁殖得多，只是能顺应树木的自然规律，来让它充分发展本性罢了。",
+      "tokens": [
+        {
+          "surface": "对",
+          "pos": "动词",
+          "gloss": "回答"
+        },
+        {
+          "surface": "寿",
+          "pos": "动词",
+          "gloss": "活得长久"
+        },
+        {
+          "surface": "孳",
+          "pos": "动词",
+          "gloss": "繁殖"
+        },
+        {
+          "surface": "天",
+          "pos": "名词",
+          "gloss": "自然规律"
+        },
+        {
+          "surface": "致",
+          "pos": "动词",
+          "gloss": "使达到"
+        },
+        {
+          "surface": "性",
+          "pos": "名词",
+          "gloss": "本性"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-011",
+      "order": 11,
+      "text": "凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。",
+      "translation": "大凡种树的特性是：树根要舒展，培土要平匀，土要用原有的，捣土要细密。",
+      "tokens": [
+        {
+          "surface": "植",
+          "pos": "动词",
+          "gloss": "种植"
+        },
+        {
+          "surface": "本",
+          "pos": "名词",
+          "gloss": "树根"
+        },
+        {
+          "surface": "舒",
+          "pos": "动词",
+          "gloss": "舒展"
+        },
+        {
+          "surface": "培",
+          "pos": "动词",
+          "gloss": "培土"
+        },
+        {
+          "surface": "故",
+          "pos": "形容词",
+          "gloss": "原有的"
+        },
+        {
+          "surface": "筑",
+          "pos": "动词",
+          "gloss": "捣土"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-012",
+      "order": 12,
+      "text": "既然已，勿动勿虑，去不复顾。",
+      "translation": "已经这样做了，就不要去动它，不要担心它，离开后不再回头看。",
+      "tokens": [
+        {
+          "surface": "既然",
+          "pos": "副词",
+          "gloss": "已经这样"
+        },
+        {
+          "surface": "虑",
+          "pos": "动词",
+          "gloss": "担忧"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "离开"
+        },
+        {
+          "surface": "顾",
+          "pos": "动词",
+          "gloss": "回头看"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-013",
+      "order": 13,
+      "text": "其莳也若子，其置也若弃，则其天者全而其性得矣。",
+      "translation": "栽种的时候像对待孩子一样，栽好后像丢弃了一样，那么树木的天性就保全了，它的本性也就得到了发展。",
+      "tokens": [
+        {
+          "surface": "莳",
+          "pos": "动词",
+          "gloss": "栽种"
+        },
+        {
+          "surface": "若子",
+          "pos": "动词",
+          "gloss": "像对待孩子"
+        },
+        {
+          "surface": "置",
+          "pos": "动词",
+          "gloss": "放置"
+        },
+        {
+          "surface": "全",
+          "pos": "动词",
+          "gloss": "保全"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "得到发展"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-014",
+      "order": 14,
+      "text": "故吾不害其长而已，非有能硕茂之也；",
+      "translation": "所以我只是不妨害它生长罢了，并不是有能力使它高大茂盛；",
+      "tokens": [
+        {
+          "surface": "害",
+          "pos": "动词",
+          "gloss": "妨害"
+        },
+        {
+          "surface": "长",
+          "pos": "动词",
+          "gloss": "生长"
+        },
+        {
+          "surface": "硕茂",
+          "pos": "形容词",
+          "gloss": "使……高大茂盛"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-015",
+      "order": 15,
+      "text": "不抑耗其实而已，非有能早而蕃之也。",
+      "translation": "只是不抑制损耗它的果实罢了，并不是有能力使它结果早、结果多。",
+      "tokens": [
+        {
+          "surface": "抑耗",
+          "pos": "动词",
+          "gloss": "抑制损耗"
+        },
+        {
+          "surface": "实",
+          "pos": "名词",
+          "gloss": "果实"
+        },
+        {
+          "surface": "早",
+          "pos": "形容词",
+          "gloss": "使……早熟"
+        },
+        {
+          "surface": "蕃",
+          "pos": "形容词",
+          "gloss": "使……增多"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-016",
+      "order": 16,
+      "text": "他植者则不然。",
+      "translation": "别的种树人就不是这样。",
+      "tokens": [
+        {
+          "surface": "他植者",
+          "pos": "名词",
+          "gloss": "别的种树人"
+        },
+        {
+          "surface": "则",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "不然",
+          "pos": "代词",
+          "gloss": "不是这样"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-017",
+      "order": 17,
+      "text": "根拳而土易，其培之也，若不过焉则不及。",
+      "translation": "树根蜷曲并且换了新土，他们培土的时候，如果不是过多就是不够。",
+      "tokens": [
+        {
+          "surface": "拳",
+          "pos": "动词",
+          "gloss": "蜷曲"
+        },
+        {
+          "surface": "易",
+          "pos": "动词",
+          "gloss": "更换"
+        },
+        {
+          "surface": "若",
+          "pos": "连词",
+          "gloss": "如果"
+        },
+        {
+          "surface": "过",
+          "pos": "动词",
+          "gloss": "过分"
+        },
+        {
+          "surface": "不及",
+          "pos": "动词",
+          "gloss": "不够"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-018",
+      "order": 18,
+      "text": "苟有能反是者，则又爱之太恩，忧之太勤。",
+      "translation": "如果有能与此相反的，却又爱护得太深切，担忧得太频繁。",
+      "tokens": [
+        {
+          "surface": "苟",
+          "pos": "连词",
+          "gloss": "如果"
+        },
+        {
+          "surface": "反是",
+          "pos": "动词",
+          "gloss": "与此相反"
+        },
+        {
+          "surface": "恩",
+          "pos": "形容词",
+          "gloss": "情深"
+        },
+        {
+          "surface": "勤",
+          "pos": "形容词",
+          "gloss": "多，频繁"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-019",
+      "order": 19,
+      "text": "旦视而暮抚，已去而复顾。",
+      "translation": "早晨去看看，晚上去摸摸，已经离开了又回来看。",
+      "tokens": [
+        {
+          "surface": "旦",
+          "pos": "名词",
+          "gloss": "早晨，作状语"
+        },
+        {
+          "surface": "视",
+          "pos": "动词",
+          "gloss": "看"
+        },
+        {
+          "surface": "暮",
+          "pos": "名词",
+          "gloss": "晚上，作状语"
+        },
+        {
+          "surface": "抚",
+          "pos": "动词",
+          "gloss": "抚摸"
+        },
+        {
+          "surface": "顾",
+          "pos": "动词",
+          "gloss": "回头看"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-020",
+      "order": 20,
+      "text": "甚者，爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。",
+      "translation": "更严重的，用指甲抓破树皮来检验它是活是死，摇动树根来观察培土是松是紧，因而树木的本性就一天天丧失了。",
+      "tokens": [
+        {
+          "surface": "爪",
+          "pos": "名词",
+          "gloss": "用指甲抓，作动词"
+        },
+        {
+          "surface": "肤",
+          "pos": "名词",
+          "gloss": "树皮"
+        },
+        {
+          "surface": "验",
+          "pos": "动词",
+          "gloss": "检验"
+        },
+        {
+          "surface": "生枯",
+          "pos": "动词",
+          "gloss": "死活"
+        },
+        {
+          "surface": "疏密",
+          "pos": "名词",
+          "gloss": "松紧"
+        },
+        {
+          "surface": "日以",
+          "pos": "副词",
+          "gloss": "一天天地"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-021",
+      "order": 21,
+      "text": "虽曰爱之，其实害之；虽曰忧之，其实仇之。",
+      "translation": "虽说爱护它，其实是伤害它；虽说担忧它，其实是仇视它。",
+      "tokens": [
+        {
+          "surface": "爱",
+          "pos": "动词",
+          "gloss": "爱护"
+        },
+        {
+          "surface": "其实",
+          "pos": "副词",
+          "gloss": "实际上"
+        },
+        {
+          "surface": "害",
+          "pos": "动词",
+          "gloss": "伤害"
+        },
+        {
+          "surface": "仇",
+          "pos": "动词",
+          "gloss": "仇视"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-022",
+      "order": 22,
+      "text": "故不我若也。吾又何能为哉？”",
+      "translation": "所以他们不如我。我又能做什么呢？”",
+      "tokens": [
+        {
+          "surface": "不我若",
+          "pos": "动词",
+          "gloss": "不如我，宾语前置"
+        },
+        {
+          "surface": "何能为",
+          "pos": "固定结构",
+          "gloss": "能做什么呢"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-023",
+      "order": 23,
+      "text": "问者曰：“以子之道，移之官理，可乎？”",
+      "translation": "问他的人说：“把你种树的道理，移用到做官治民上，可以吗？”",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "道",
+          "pos": "名词",
+          "gloss": "道理，方法"
+        },
+        {
+          "surface": "移",
+          "pos": "动词",
+          "gloss": "移用"
+        },
+        {
+          "surface": "官理",
+          "pos": "名词",
+          "gloss": "为官治民"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-024",
+      "order": 24,
+      "text": "驼曰：“我知种树而已，官理，非吾业也。",
+      "translation": "郭橐驼说：“我只知道种树罢了，做官治民，不是我的本业。",
+      "tokens": [
+        {
+          "surface": "而已",
+          "pos": "助词",
+          "gloss": "罢了"
+        },
+        {
+          "surface": "官理",
+          "pos": "名词",
+          "gloss": "做官治民"
+        },
+        {
+          "surface": "业",
+          "pos": "名词",
+          "gloss": "职业"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-025",
+      "order": 25,
+      "text": "然吾居乡，见长人者好烦其令，若甚怜焉，而卒以祸。",
+      "translation": "但是我住在乡里，看见做官的人喜欢使自己的政令繁多，好像很怜爱百姓，结果却因此造成祸害。",
+      "tokens": [
+        {
+          "surface": "长人者",
+          "pos": "名词",
+          "gloss": "做官的人"
+        },
+        {
+          "surface": "烦",
+          "pos": "形容词",
+          "gloss": "使……繁多"
+        },
+        {
+          "surface": "怜",
+          "pos": "动词",
+          "gloss": "怜爱"
+        },
+        {
+          "surface": "卒",
+          "pos": "副词",
+          "gloss": "最终"
+        },
+        {
+          "surface": "祸",
+          "pos": "动词",
+          "gloss": "造成祸害"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-026",
+      "order": 26,
+      "text": "旦暮吏来而呼曰：‘官命促尔耕，勖尔植，督尔获，",
+      "translation": "早晚差役来呼喊说：‘官府命令催促你们耕田，勉励你们种植，督促你们收获，",
+      "tokens": [
+        {
+          "surface": "旦暮",
+          "pos": "名词",
+          "gloss": "早晚，作状语"
+        },
+        {
+          "surface": "促",
+          "pos": "动词",
+          "gloss": "催促"
+        },
+        {
+          "surface": "勖",
+          "pos": "动词",
+          "gloss": "勉励"
+        },
+        {
+          "surface": "督",
+          "pos": "动词",
+          "gloss": "督促"
+        },
+        {
+          "surface": "获",
+          "pos": "动词",
+          "gloss": "收获"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-027",
+      "order": 27,
+      "text": "早缫而绪，早织而缕，字而幼孩，遂而鸡豚。’",
+      "translation": "早些煮茧抽丝，早些织你们的布，养育你们的小孩，养大你们的鸡猪。’",
+      "tokens": [
+        {
+          "surface": "缫",
+          "pos": "动词",
+          "gloss": "煮茧抽丝"
+        },
+        {
+          "surface": "而",
+          "pos": "代词",
+          "gloss": "你们的"
+        },
+        {
+          "surface": "字",
+          "pos": "动词",
+          "gloss": "养育"
+        },
+        {
+          "surface": "遂",
+          "pos": "动词",
+          "gloss": "养大"
+        },
+        {
+          "surface": "豚",
+          "pos": "名词",
+          "gloss": "小猪"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-028",
+      "order": 28,
+      "text": "鸣鼓而聚之，击木而召之。",
+      "translation": "击鼓召集他们，敲梆子召唤他们。",
+      "tokens": [
+        {
+          "surface": "鸣鼓",
+          "pos": "动词",
+          "gloss": "击鼓"
+        },
+        {
+          "surface": "聚",
+          "pos": "动词",
+          "gloss": "聚集"
+        },
+        {
+          "surface": "击木",
+          "pos": "动词",
+          "gloss": "敲梆子"
+        },
+        {
+          "surface": "召",
+          "pos": "动词",
+          "gloss": "召唤"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-029",
+      "order": 29,
+      "text": "吾小人辍飧饔以劳吏者，且不得暇，又何以蕃吾生而安吾性耶？",
+      "translation": "我们小民停下饭食来慰劳差役，尚且没有空闲，又怎么能使我们的生息繁衍、使我们的心性安定呢？",
+      "tokens": [
+        {
+          "surface": "小人",
+          "pos": "名词",
+          "gloss": "小民"
+        },
+        {
+          "surface": "辍",
+          "pos": "动词",
+          "gloss": "停止"
+        },
+        {
+          "surface": "飧饔",
+          "pos": "名词",
+          "gloss": "饭食"
+        },
+        {
+          "surface": "劳",
+          "pos": "动词",
+          "gloss": "慰劳"
+        },
+        {
+          "surface": "蕃",
+          "pos": "动词",
+          "gloss": "使……繁衍"
+        },
+        {
+          "surface": "安",
+          "pos": "动词",
+          "gloss": "使……安定"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-030",
+      "order": 30,
+      "text": "故病且怠。",
+      "translation": "所以困苦并且疲倦。",
+      "tokens": [
+        {
+          "surface": "病",
+          "pos": "形容词",
+          "gloss": "困苦"
+        },
+        {
+          "surface": "怠",
+          "pos": "形容词",
+          "gloss": "疲倦"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-031",
+      "order": 31,
+      "text": "若是，则与吾业者其亦有类乎？”",
+      "translation": "像这样，那么和我种树的道理大概也有相似之处吧？”",
+      "tokens": [
+        {
+          "surface": "若是",
+          "pos": "代词",
+          "gloss": "像这样"
+        },
+        {
+          "surface": "业",
+          "pos": "名词",
+          "gloss": "职业"
+        },
+        {
+          "surface": "类",
+          "pos": "动词",
+          "gloss": "相似"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-032",
+      "order": 32,
+      "text": "问者曰：“嘻，不亦善夫！吾问养树，得养人术。”",
+      "translation": "问他的人说：“嘻，这不是很好吗！我问养树，得到了治民的方法。”",
+      "tokens": [
+        {
+          "surface": "善",
+          "pos": "形容词",
+          "gloss": "好"
+        },
+        {
+          "surface": "养树",
+          "pos": "动词",
+          "gloss": "养树"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "得到"
+        },
+        {
+          "surface": "养人术",
+          "pos": "名词",
+          "gloss": "治民的方法"
+        }
+      ]
+    },
+    {
+      "id": "guotuo-033",
+      "order": 33,
+      "text": "传其事以为官戒。",
+      "translation": "记下这件事，把它作为做官的鉴戒。",
+      "tokens": [
+        {
+          "surface": "传",
+          "pos": "动词",
+          "gloss": "记载"
+        },
+        {
+          "surface": "以为",
+          "pos": "动词",
+          "gloss": "把它作为"
+        },
+        {
+          "surface": "官戒",
+          "pos": "名词",
+          "gloss": "为官的鉴戒"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "wuyi",
+  "title": "无衣",
+  "author": "佚名",
+  "source": "《诗经》",
+  "volume": "选择性必修上册",
+  "tags": [
+    "课标",
+    "诗"
+  ],
+  "reviewed": true,
+  "summary": "以重章叠句写将士同仇敌忾、共赴国难的战歌，表现秦地军民团结御侮、慷慨从军的尚武精神。",
+  "sentences": [
+    {
+      "id": "wuyi-001",
+      "order": 1,
+      "text": "岂曰无衣？",
+      "translation": "怎么能说没有衣裳？",
+      "tokens": [
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "难道，怎么"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "无衣",
+          "pos": "动词",
+          "gloss": "没有衣裳"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-002",
+      "order": 2,
+      "text": "与子同袍。",
+      "translation": "我和你共用一件战袍。",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "同袍",
+          "pos": "动词",
+          "gloss": "共穿战袍"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-003",
+      "order": 3,
+      "text": "王于兴师，",
+      "translation": "君王出兵打仗，",
+      "tokens": [
+        {
+          "surface": "王",
+          "pos": "名词",
+          "gloss": "君王"
+        },
+        {
+          "surface": "于",
+          "pos": "助词",
+          "gloss": "句中助词，无实义"
+        },
+        {
+          "surface": "兴师",
+          "pos": "动词",
+          "gloss": "出兵"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-004",
+      "order": 4,
+      "text": "修我戈矛。",
+      "translation": "修整我们的戈和矛。",
+      "tokens": [
+        {
+          "surface": "修",
+          "pos": "动词",
+          "gloss": "修理，整治"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我们的"
+        },
+        {
+          "surface": "戈矛",
+          "pos": "名词",
+          "gloss": "戈和矛，兵器"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-005",
+      "order": 5,
+      "text": "与子同仇！",
+      "translation": "和你共同对付仇敌！",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "同仇",
+          "pos": "动词",
+          "gloss": "共同对敌"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-006",
+      "order": 6,
+      "text": "岂曰无衣？",
+      "translation": "怎么能说没有衣裳？",
+      "tokens": [
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "难道，怎么"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "无衣",
+          "pos": "动词",
+          "gloss": "没有衣裳"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-007",
+      "order": 7,
+      "text": "与子同泽。",
+      "translation": "我和你共用一件内衣。",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "同泽",
+          "pos": "动词",
+          "gloss": "共穿内衣，泽通“襗”"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-008",
+      "order": 8,
+      "text": "王于兴师，",
+      "translation": "君王出兵打仗，",
+      "tokens": [
+        {
+          "surface": "王",
+          "pos": "名词",
+          "gloss": "君王"
+        },
+        {
+          "surface": "于",
+          "pos": "助词",
+          "gloss": "句中助词，无实义"
+        },
+        {
+          "surface": "兴师",
+          "pos": "动词",
+          "gloss": "出兵"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-009",
+      "order": 9,
+      "text": "修我矛戟。",
+      "translation": "修整我们的矛和戟。",
+      "tokens": [
+        {
+          "surface": "修",
+          "pos": "动词",
+          "gloss": "修理，整治"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我们的"
+        },
+        {
+          "surface": "矛戟",
+          "pos": "名词",
+          "gloss": "矛和戟，兵器"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-010",
+      "order": 10,
+      "text": "与子偕作！",
+      "translation": "和你一同行动起来！",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "偕作",
+          "pos": "动词",
+          "gloss": "一同行动"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-011",
+      "order": 11,
+      "text": "岂曰无衣？",
+      "translation": "怎么能说没有衣裳？",
+      "tokens": [
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "难道，怎么"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "无衣",
+          "pos": "动词",
+          "gloss": "没有衣裳"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-012",
+      "order": 12,
+      "text": "与子同裳。",
+      "translation": "我和你共用一件下衣。",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "同裳",
+          "pos": "动词",
+          "gloss": "共穿下衣"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-013",
+      "order": 13,
+      "text": "王于兴师，",
+      "translation": "君王出兵打仗，",
+      "tokens": [
+        {
+          "surface": "王",
+          "pos": "名词",
+          "gloss": "君王"
+        },
+        {
+          "surface": "于",
+          "pos": "助词",
+          "gloss": "句中助词，无实义"
+        },
+        {
+          "surface": "兴师",
+          "pos": "动词",
+          "gloss": "出兵"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-014",
+      "order": 14,
+      "text": "修我甲兵。",
+      "translation": "修整我们的铠甲和兵器。",
+      "tokens": [
+        {
+          "surface": "修",
+          "pos": "动词",
+          "gloss": "修理，整治"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我们的"
+        },
+        {
+          "surface": "甲兵",
+          "pos": "名词",
+          "gloss": "铠甲和兵器"
+        }
+      ]
+    },
+    {
+      "id": "wuyi-015",
+      "order": 15,
+      "text": "与子偕行！",
+      "translation": "和你一同前进！",
+      "tokens": [
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "你，指战友"
+        },
+        {
+          "surface": "偕行",
+          "pos": "动词",
+          "gloss": "一同前行"
+        }
+      ]
+    }
+  ]
+}

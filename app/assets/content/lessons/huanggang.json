@@ -1,0 +1,718 @@
+{
+  "id": "huanggang",
+  "title": "黄冈竹楼记",
+  "author": "王禹偁",
+  "source": "《小畜集》",
+  "volume": "选修推荐",
+  "tags": [
+    "推荐",
+    "记"
+  ],
+  "reviewed": true,
+  "summary": "王禹偁记黄冈竹楼的建造、竹楼中的谪居生活与听雨听雪之趣，由竹瓦易朽生发身世之慨，抒写随遇而安、寄望后继者的情怀。",
+  "sentences": [
+    {
+      "id": "huanggang-001",
+      "order": 1,
+      "text": "黄冈之地多竹，大者如椽。",
+      "translation": "黄冈这个地方多竹子，大的像房椽一样。",
+      "tokens": [
+        {
+          "surface": "多",
+          "pos": "动词",
+          "gloss": "多产"
+        },
+        {
+          "surface": "大者",
+          "pos": "名词",
+          "gloss": "大的竹子"
+        },
+        {
+          "surface": "椽",
+          "pos": "名词",
+          "gloss": "房椽"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-002",
+      "order": 2,
+      "text": "竹工破之，刳去其节，用代陶瓦。",
+      "translation": "竹匠把它剖开，挖去竹节，用来代替陶瓦。",
+      "tokens": [
+        {
+          "surface": "破",
+          "pos": "动词",
+          "gloss": "剖开"
+        },
+        {
+          "surface": "刳",
+          "pos": "动词",
+          "gloss": "挖去"
+        },
+        {
+          "surface": "节",
+          "pos": "名词",
+          "gloss": "竹节"
+        },
+        {
+          "surface": "代",
+          "pos": "动词",
+          "gloss": "代替"
+        },
+        {
+          "surface": "陶瓦",
+          "pos": "名词",
+          "gloss": "陶制的瓦"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-003",
+      "order": 3,
+      "text": "比屋皆然，以其价廉而工省也。",
+      "translation": "家家户户都这样，因为竹瓦价钱便宜又省工。",
+      "tokens": [
+        {
+          "surface": "比屋",
+          "pos": "名词",
+          "gloss": "家家户户"
+        },
+        {
+          "surface": "然",
+          "pos": "代词",
+          "gloss": "这样"
+        },
+        {
+          "surface": "价廉",
+          "pos": "形容词",
+          "gloss": "价钱便宜"
+        },
+        {
+          "surface": "工省",
+          "pos": "形容词",
+          "gloss": "省工"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-004",
+      "order": 4,
+      "text": "子城西北隅，雉堞圮毁，蓁莽荒秽，",
+      "translation": "子城的西北角，城墙垛口坍塌毁坏，草木丛生，荒芜肮脏，",
+      "tokens": [
+        {
+          "surface": "子城",
+          "pos": "名词",
+          "gloss": "城外的月城"
+        },
+        {
+          "surface": "隅",
+          "pos": "名词",
+          "gloss": "角落"
+        },
+        {
+          "surface": "雉堞",
+          "pos": "名词",
+          "gloss": "城墙垛口"
+        },
+        {
+          "surface": "圮毁",
+          "pos": "动词",
+          "gloss": "坍塌毁坏"
+        },
+        {
+          "surface": "蓁莽",
+          "pos": "名词",
+          "gloss": "丛生的草木"
+        },
+        {
+          "surface": "荒秽",
+          "pos": "形容词",
+          "gloss": "荒芜肮脏"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-005",
+      "order": 5,
+      "text": "因作小楼二间，与月波楼通。",
+      "translation": "于是建了两间小楼，和月波楼相通。",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "连词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "作",
+          "pos": "动词",
+          "gloss": "建造"
+        },
+        {
+          "surface": "通",
+          "pos": "动词",
+          "gloss": "相通"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-006",
+      "order": 6,
+      "text": "远吞山光，平挹江濑，幽阒辽夐，不可具状。",
+      "translation": "远处可以尽览山色，平视可以舀取江流，幽静辽阔，不能一一描述。",
+      "tokens": [
+        {
+          "surface": "吞",
+          "pos": "动词",
+          "gloss": "容纳，尽览"
+        },
+        {
+          "surface": "挹",
+          "pos": "动词",
+          "gloss": "舀取"
+        },
+        {
+          "surface": "江濑",
+          "pos": "名词",
+          "gloss": "江流"
+        },
+        {
+          "surface": "幽阒",
+          "pos": "形容词",
+          "gloss": "幽静"
+        },
+        {
+          "surface": "辽夐",
+          "pos": "形容词",
+          "gloss": "辽阔"
+        },
+        {
+          "surface": "具状",
+          "pos": "动词",
+          "gloss": "详细描述"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-007",
+      "order": 7,
+      "text": "夏宜急雨，有瀑布声；冬宜密雪，有碎玉声。",
+      "translation": "夏天适宜听急雨，有瀑布的声音；冬天适宜听密雪，有碎玉的声音。",
+      "tokens": [
+        {
+          "surface": "宜",
+          "pos": "动词",
+          "gloss": "适宜"
+        },
+        {
+          "surface": "急雨",
+          "pos": "名词",
+          "gloss": "急骤的雨"
+        },
+        {
+          "surface": "密雪",
+          "pos": "名词",
+          "gloss": "细密的雪"
+        },
+        {
+          "surface": "碎玉",
+          "pos": "名词",
+          "gloss": "碎玉，喻雪声"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-008",
+      "order": 8,
+      "text": "宜鼓琴，琴调虚畅；宜咏诗，诗韵清绝；",
+      "translation": "适宜弹琴，琴声清虚流畅；适宜吟诗，诗韵清雅至极；",
+      "tokens": [
+        {
+          "surface": "鼓琴",
+          "pos": "动词",
+          "gloss": "弹琴"
+        },
+        {
+          "surface": "虚畅",
+          "pos": "形容词",
+          "gloss": "清虚流畅"
+        },
+        {
+          "surface": "咏诗",
+          "pos": "动词",
+          "gloss": "吟诗"
+        },
+        {
+          "surface": "清绝",
+          "pos": "形容词",
+          "gloss": "清雅至极"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-009",
+      "order": 9,
+      "text": "宜围棋，子声丁丁然；宜投壶，矢声铮铮然：",
+      "translation": "适宜下围棋，棋子落下的声音丁丁作响；适宜投壶，箭入壶的声音铮铮作响：",
+      "tokens": [
+        {
+          "surface": "围棋",
+          "pos": "动词",
+          "gloss": "下围棋"
+        },
+        {
+          "surface": "丁丁",
+          "pos": "拟声词",
+          "gloss": "落子声"
+        },
+        {
+          "surface": "投壶",
+          "pos": "动词",
+          "gloss": "古代投壶游戏"
+        },
+        {
+          "surface": "铮铮",
+          "pos": "拟声词",
+          "gloss": "箭入壶声"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-010",
+      "order": 10,
+      "text": "皆竹楼之所助也。",
+      "translation": "这些都是竹楼助成的。",
+      "tokens": [
+        {
+          "surface": "竹楼",
+          "pos": "名词",
+          "gloss": "竹楼"
+        },
+        {
+          "surface": "助",
+          "pos": "动词",
+          "gloss": "助成"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-011",
+      "order": 11,
+      "text": "公退之暇，披鹤氅，戴华阳巾，",
+      "translation": "办完公事回来的空闲时间，披着鹤氅，戴着华阳巾，",
+      "tokens": [
+        {
+          "surface": "公退",
+          "pos": "动词",
+          "gloss": "办完公事回来"
+        },
+        {
+          "surface": "暇",
+          "pos": "名词",
+          "gloss": "空闲"
+        },
+        {
+          "surface": "披",
+          "pos": "动词",
+          "gloss": "披着"
+        },
+        {
+          "surface": "鹤氅",
+          "pos": "名词",
+          "gloss": "鸟羽制的道袍"
+        },
+        {
+          "surface": "华阳巾",
+          "pos": "名词",
+          "gloss": "道士所戴的头巾"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-012",
+      "order": 12,
+      "text": "手执《周易》一卷，焚香默坐，消遣世虑。",
+      "translation": "手里拿着一卷《周易》，焚香静坐，排遣世俗的思虑。",
+      "tokens": [
+        {
+          "surface": "执",
+          "pos": "动词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "默坐",
+          "pos": "动词",
+          "gloss": "静坐"
+        },
+        {
+          "surface": "消遣",
+          "pos": "动词",
+          "gloss": "排遣"
+        },
+        {
+          "surface": "世虑",
+          "pos": "名词",
+          "gloss": "世俗的思虑"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-013",
+      "order": 13,
+      "text": "江山之外，第见风帆沙鸟、烟云竹树而已。",
+      "translation": "江山之外，只看见风帆、沙鸥、烟云、竹树罢了。",
+      "tokens": [
+        {
+          "surface": "第",
+          "pos": "副词",
+          "gloss": "只"
+        },
+        {
+          "surface": "风帆",
+          "pos": "名词",
+          "gloss": "风帆"
+        },
+        {
+          "surface": "沙鸟",
+          "pos": "名词",
+          "gloss": "沙鸥"
+        },
+        {
+          "surface": "而已",
+          "pos": "助词",
+          "gloss": "罢了"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-014",
+      "order": 14,
+      "text": "待其酒力醒，茶烟歇，送夕阳，迎素月，亦谪居之胜概也。",
+      "translation": "等到酒力醒来，煮茶的烟火消散，送走夕阳，迎来明月，这也是贬谪生活中的美景。",
+      "tokens": [
+        {
+          "surface": "待",
+          "pos": "动词",
+          "gloss": "等到"
+        },
+        {
+          "surface": "歇",
+          "pos": "动词",
+          "gloss": "消散"
+        },
+        {
+          "surface": "素月",
+          "pos": "名词",
+          "gloss": "明月"
+        },
+        {
+          "surface": "谪居",
+          "pos": "动词",
+          "gloss": "贬谪居住"
+        },
+        {
+          "surface": "胜概",
+          "pos": "名词",
+          "gloss": "美好的景致"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-015",
+      "order": 15,
+      "text": "彼齐云、落星，高则高矣；",
+      "translation": "那齐云楼、落星楼，高是高了；",
+      "tokens": [
+        {
+          "surface": "齐云",
+          "pos": "名词",
+          "gloss": "齐云楼"
+        },
+        {
+          "surface": "落星",
+          "pos": "名词",
+          "gloss": "落星楼"
+        },
+        {
+          "surface": "则",
+          "pos": "连词",
+          "gloss": "是"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-016",
+      "order": 16,
+      "text": "井干、丽谯，华则华矣。",
+      "translation": "井干楼、丽谯楼，华美是华美了。",
+      "tokens": [
+        {
+          "surface": "井干",
+          "pos": "名词",
+          "gloss": "井干楼"
+        },
+        {
+          "surface": "丽谯",
+          "pos": "名词",
+          "gloss": "丽谯楼"
+        },
+        {
+          "surface": "华",
+          "pos": "形容词",
+          "gloss": "华美"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-017",
+      "order": 17,
+      "text": "止于贮妓女，藏歌舞，非骚人之事，吾所不取。",
+      "translation": "只不过用来藏妓女、蓄歌舞，这不是诗人雅士该做的事，我不取这种。",
+      "tokens": [
+        {
+          "surface": "止",
+          "pos": "副词",
+          "gloss": "只"
+        },
+        {
+          "surface": "贮",
+          "pos": "动词",
+          "gloss": "藏"
+        },
+        {
+          "surface": "骚人",
+          "pos": "名词",
+          "gloss": "诗人"
+        },
+        {
+          "surface": "取",
+          "pos": "动词",
+          "gloss": "取法"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-018",
+      "order": 18,
+      "text": "吾闻竹工云：“竹之为瓦，仅十稔；",
+      "translation": "我听竹匠说：“竹子做瓦，只能用十年；",
+      "tokens": [
+        {
+          "surface": "闻",
+          "pos": "动词",
+          "gloss": "听说"
+        },
+        {
+          "surface": "为瓦",
+          "pos": "动词",
+          "gloss": "做瓦"
+        },
+        {
+          "surface": "仅",
+          "pos": "副词",
+          "gloss": "只"
+        },
+        {
+          "surface": "十稔",
+          "pos": "名词",
+          "gloss": "十年"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-019",
+      "order": 19,
+      "text": "若重覆之，得二十稔。”",
+      "translation": "如果重新覆盖一层，就能用二十年。”",
+      "tokens": [
+        {
+          "surface": "重覆",
+          "pos": "动词",
+          "gloss": "重新覆盖"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "能够"
+        },
+        {
+          "surface": "二十稔",
+          "pos": "名词",
+          "gloss": "二十年"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-020",
+      "order": 20,
+      "text": "噫！吾以至道乙未岁，自翰林出滁上，",
+      "translation": "唉！我在至道乙未年，从翰林院出任滁州，",
+      "tokens": [
+        {
+          "surface": "噫",
+          "pos": "叹词",
+          "gloss": "唉"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "出京任职"
+        },
+        {
+          "surface": "滁上",
+          "pos": "名词",
+          "gloss": "滁州"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-021",
+      "order": 21,
+      "text": "丙申移广陵，丁酉又入西掖，",
+      "translation": "丙申年调任广陵，丁酉年又入中书省，",
+      "tokens": [
+        {
+          "surface": "移",
+          "pos": "动词",
+          "gloss": "调任"
+        },
+        {
+          "surface": "广陵",
+          "pos": "名词",
+          "gloss": "扬州"
+        },
+        {
+          "surface": "西掖",
+          "pos": "名词",
+          "gloss": "中书省"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-022",
+      "order": 22,
+      "text": "戊戌岁除日，有齐安之命，己亥闰三月到郡。",
+      "translation": "戊戌年除夕，又有齐安的任命，己亥年闰三月到任。",
+      "tokens": [
+        {
+          "surface": "岁除",
+          "pos": "名词",
+          "gloss": "除夕"
+        },
+        {
+          "surface": "命",
+          "pos": "名词",
+          "gloss": "任命"
+        },
+        {
+          "surface": "到郡",
+          "pos": "动词",
+          "gloss": "到任"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-023",
+      "order": 23,
+      "text": "四年之间，奔走不暇，未知明年又在何处，",
+      "translation": "四年之间，奔波不停，不知明年又在哪里，",
+      "tokens": [
+        {
+          "surface": "奔走",
+          "pos": "动词",
+          "gloss": "奔波"
+        },
+        {
+          "surface": "不暇",
+          "pos": "动词",
+          "gloss": "没有空闲"
+        },
+        {
+          "surface": "何处",
+          "pos": "代词",
+          "gloss": "什么地方"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-024",
+      "order": 24,
+      "text": "岂惧竹楼之易朽乎？",
+      "translation": "哪里怕竹楼容易朽坏呢？",
+      "tokens": [
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "难道"
+        },
+        {
+          "surface": "易朽",
+          "pos": "形容词",
+          "gloss": "容易朽坏"
+        },
+        {
+          "surface": "乎",
+          "pos": "助词",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-025",
+      "order": 25,
+      "text": "幸后之人与我同志，嗣而葺之，庶斯楼之不朽也。",
+      "translation": "希望后来的人和我志趣相同，接着修补它，或许这座楼就不会朽坏了。",
+      "tokens": [
+        {
+          "surface": "幸",
+          "pos": "动词",
+          "gloss": "希望"
+        },
+        {
+          "surface": "同志",
+          "pos": "名词",
+          "gloss": "志趣相同"
+        },
+        {
+          "surface": "嗣",
+          "pos": "动词",
+          "gloss": "接续"
+        },
+        {
+          "surface": "葺",
+          "pos": "动词",
+          "gloss": "修补"
+        },
+        {
+          "surface": "庶",
+          "pos": "副词",
+          "gloss": "或许"
+        }
+      ]
+    },
+    {
+      "id": "huanggang-026",
+      "order": 26,
+      "text": "咸平二年八月十五日记。",
+      "translation": "咸平二年八月十五日作记。",
+      "tokens": [
+        {
+          "surface": "咸平",
+          "pos": "名词",
+          "gloss": "宋真宗年号"
+        },
+        {
+          "surface": "记",
+          "pos": "动词",
+          "gloss": "记写"
+        }
+      ]
+    }
+  ]
+}

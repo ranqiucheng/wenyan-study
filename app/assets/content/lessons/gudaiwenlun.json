@@ -1,0 +1,642 @@
+{
+  "id": "gudaiwenlun",
+  "title": "古代文论选段",
+  "author": "多人",
+  "source": "《文心雕龙》等",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "文论"
+  ],
+  "reviewed": true,
+  "summary": "选录《毛诗序》《典论·论文》《诗品序》《文心雕龙·知音》论诗论文的经典段落，涉及诗的本质与功用、文体风格、创作感兴与知音鉴赏。",
+  "sentences": [
+    {
+      "id": "gudaiwenlun-001",
+      "order": 1,
+      "text": "诗者，志之所之也。",
+      "translation": "诗，是人的志向所指向的地方。",
+      "tokens": [
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表停顿"
+        },
+        {
+          "surface": "志",
+          "pos": "名词",
+          "gloss": "志向，思想感情"
+        },
+        {
+          "surface": "所之",
+          "pos": "固定结构",
+          "gloss": "所指向的地方"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-002",
+      "order": 2,
+      "text": "在心为志，发言为诗。",
+      "translation": "在心里就是志向，用语言表达出来就是诗。",
+      "tokens": [
+        {
+          "surface": "在",
+          "pos": "动词",
+          "gloss": "存于"
+        },
+        {
+          "surface": "志",
+          "pos": "名词",
+          "gloss": "志向"
+        },
+        {
+          "surface": "发言",
+          "pos": "动词",
+          "gloss": "用语言表达，古今异义"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "是"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-003",
+      "order": 3,
+      "text": "情动于中而形于言，言之不足，故嗟叹之；",
+      "translation": "情感在心中萌动而表现在语言上，语言不足以表达，所以叹息吟咏它；",
+      "tokens": [
+        {
+          "surface": "动",
+          "pos": "动词",
+          "gloss": "萌动"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "中",
+          "pos": "名词",
+          "gloss": "内心"
+        },
+        {
+          "surface": "形",
+          "pos": "动词",
+          "gloss": "表现"
+        },
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "嗟叹",
+          "pos": "动词",
+          "gloss": "叹息吟咏"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-004",
+      "order": 4,
+      "text": "嗟叹之不足，故永歌之；",
+      "translation": "叹息吟咏还不足以表达，所以放声长歌；",
+      "tokens": [
+        {
+          "surface": "嗟叹",
+          "pos": "动词",
+          "gloss": "叹息吟咏"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指情志"
+        },
+        {
+          "surface": "永歌",
+          "pos": "动词",
+          "gloss": "长声歌唱"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-005",
+      "order": 5,
+      "text": "永歌之不足，不知手之舞之，足之蹈之也。",
+      "translation": "长歌还不足以表达，就不知不觉地手舞足蹈起来。",
+      "tokens": [
+        {
+          "surface": "永歌",
+          "pos": "动词",
+          "gloss": "长声歌唱"
+        },
+        {
+          "surface": "不知",
+          "pos": "动词",
+          "gloss": "不知不觉"
+        },
+        {
+          "surface": "舞",
+          "pos": "动词",
+          "gloss": "舞动"
+        },
+        {
+          "surface": "蹈",
+          "pos": "动词",
+          "gloss": "顿足，踏"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-006",
+      "order": 6,
+      "text": "情发于声，声成文谓之音。",
+      "translation": "情感表现为声音，声音组成和谐的文采就叫做音。",
+      "tokens": [
+        {
+          "surface": "发",
+          "pos": "动词",
+          "gloss": "表现，发出"
+        },
+        {
+          "surface": "文",
+          "pos": "名词",
+          "gloss": "文采，和谐的节奏"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "叫做"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指声成文"
+        },
+        {
+          "surface": "音",
+          "pos": "名词",
+          "gloss": "音律，乐曲"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-007",
+      "order": 7,
+      "text": "文人相轻，自古而然。",
+      "translation": "文人互相轻视，从古以来就是这样。",
+      "tokens": [
+        {
+          "surface": "文人",
+          "pos": "名词",
+          "gloss": "读书作文的人"
+        },
+        {
+          "surface": "相轻",
+          "pos": "动词",
+          "gloss": "互相轻视"
+        },
+        {
+          "surface": "自古",
+          "pos": "副词",
+          "gloss": "从古以来"
+        },
+        {
+          "surface": "然",
+          "pos": "代词",
+          "gloss": "这样"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-008",
+      "order": 8,
+      "text": "夫文本同而末异，盖奏议宜雅，书论宜理，铭诔尚实，诗赋欲丽。",
+      "translation": "文章的根本相同而枝节不同，奏议应该典雅，书论应该有条理，铭诔崇尚质实，诗赋追求华丽。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "本",
+          "pos": "名词",
+          "gloss": "根本"
+        },
+        {
+          "surface": "末",
+          "pos": "名词",
+          "gloss": "枝节，末节"
+        },
+        {
+          "surface": "盖",
+          "pos": "连词",
+          "gloss": "表提起"
+        },
+        {
+          "surface": "雅",
+          "pos": "形容词",
+          "gloss": "典雅"
+        },
+        {
+          "surface": "理",
+          "pos": "形容词",
+          "gloss": "有条理"
+        },
+        {
+          "surface": "丽",
+          "pos": "形容词",
+          "gloss": "华丽"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-009",
+      "order": 9,
+      "text": "此四科不同，故能之者偏也；唯通才能备其体。",
+      "translation": "这四种科目不同，所以擅长的人各有偏长；只有通才才能兼备各体。",
+      "tokens": [
+        {
+          "surface": "科",
+          "pos": "名词",
+          "gloss": "科目，种类"
+        },
+        {
+          "surface": "能",
+          "pos": "动词",
+          "gloss": "擅长"
+        },
+        {
+          "surface": "偏",
+          "pos": "形容词",
+          "gloss": "偏于一方面"
+        },
+        {
+          "surface": "唯",
+          "pos": "副词",
+          "gloss": "只有"
+        },
+        {
+          "surface": "通才",
+          "pos": "名词",
+          "gloss": "各方面都精通的人"
+        },
+        {
+          "surface": "备",
+          "pos": "动词",
+          "gloss": "具备"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-010",
+      "order": 10,
+      "text": "文以气为主，气之清浊有体，不可力强而致。",
+      "translation": "文章以气为主，气的清浊各有定体，不能靠人力勉强求得。",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "拿，把"
+        },
+        {
+          "surface": "气",
+          "pos": "名词",
+          "gloss": "气质，才气"
+        },
+        {
+          "surface": "主",
+          "pos": "名词",
+          "gloss": "主宰"
+        },
+        {
+          "surface": "清浊",
+          "pos": "名词",
+          "gloss": "清与浊"
+        },
+        {
+          "surface": "强",
+          "pos": "动词",
+          "gloss": "勉强"
+        },
+        {
+          "surface": "致",
+          "pos": "动词",
+          "gloss": "求得，达到"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-011",
+      "order": 11,
+      "text": "盖文章，经国之大业，不朽之盛事。",
+      "translation": "文章是治理国家的重大事业，是永不磨灭的盛大事功。",
+      "tokens": [
+        {
+          "surface": "盖",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "经国",
+          "pos": "动词",
+          "gloss": "治理国家"
+        },
+        {
+          "surface": "大业",
+          "pos": "名词",
+          "gloss": "重大事业"
+        },
+        {
+          "surface": "不朽",
+          "pos": "形容词",
+          "gloss": "永不磨灭"
+        },
+        {
+          "surface": "盛事",
+          "pos": "名词",
+          "gloss": "盛大的事功"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-012",
+      "order": 12,
+      "text": "气之动物，物之感人，故摇荡性情，形诸舞咏。",
+      "translation": "节气使万物萌动，万物感动人心，所以性情受到激荡，就表现在舞蹈和歌咏中。",
+      "tokens": [
+        {
+          "surface": "气",
+          "pos": "名词",
+          "gloss": "节气，天气"
+        },
+        {
+          "surface": "动",
+          "pos": "动词",
+          "gloss": "使……萌动"
+        },
+        {
+          "surface": "感",
+          "pos": "动词",
+          "gloss": "感动"
+        },
+        {
+          "surface": "摇荡",
+          "pos": "动词",
+          "gloss": "使……激荡"
+        },
+        {
+          "surface": "形",
+          "pos": "动词",
+          "gloss": "表现"
+        },
+        {
+          "surface": "诸",
+          "pos": "兼词",
+          "gloss": "之于"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-013",
+      "order": 13,
+      "text": "若乃春风春鸟，秋月秋蝉，夏云暑雨，冬月祁寒，斯四候之感诸诗者也。",
+      "translation": "至于春风春鸟、秋月秋蝉、夏云暑雨、冬月严寒，这是四季气候感动诗人的地方。",
+      "tokens": [
+        {
+          "surface": "若乃",
+          "pos": "连词",
+          "gloss": "至于"
+        },
+        {
+          "surface": "祁寒",
+          "pos": "名词",
+          "gloss": "严寒"
+        },
+        {
+          "surface": "斯",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "四候",
+          "pos": "名词",
+          "gloss": "四季"
+        },
+        {
+          "surface": "感",
+          "pos": "动词",
+          "gloss": "感动"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-014",
+      "order": 14,
+      "text": "嘉会寄诗以亲，离群托诗以怨。",
+      "translation": "美好的聚会借诗表达亲情，离群索居借诗抒发怨情。",
+      "tokens": [
+        {
+          "surface": "嘉会",
+          "pos": "名词",
+          "gloss": "美好的聚会"
+        },
+        {
+          "surface": "寄",
+          "pos": "动词",
+          "gloss": "寄托"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "亲",
+          "pos": "名词",
+          "gloss": "亲情"
+        },
+        {
+          "surface": "托",
+          "pos": "动词",
+          "gloss": "依托"
+        },
+        {
+          "surface": "怨",
+          "pos": "名词",
+          "gloss": "怨情"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-015",
+      "order": 15,
+      "text": "知音其难哉！音实难知，知实难逢，逢其知音，千载其一乎！",
+      "translation": "知音多么困难啊！音乐实在难以理解，知音实在难以遇到，遇到真正的知音，千年才有一个吧！",
+      "tokens": [
+        {
+          "surface": "知音",
+          "pos": "名词",
+          "gloss": "懂得音乐、理解作品的人"
+        },
+        {
+          "surface": "其",
+          "pos": "助词",
+          "gloss": "加强语气"
+        },
+        {
+          "surface": "逢",
+          "pos": "动词",
+          "gloss": "遇到"
+        },
+        {
+          "surface": "千载",
+          "pos": "名词",
+          "gloss": "千年"
+        },
+        {
+          "surface": "其一",
+          "pos": "固定结构",
+          "gloss": "其中一个"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-016",
+      "order": 16,
+      "text": "夫缀文者情动而辞发，观文者披文以入情，沿波讨源，虽幽必显。",
+      "translation": "写文章的人情感萌动而文辞发出，读文章的人披阅文辞而进入情感，沿着水波追溯源头，即使幽深也一定能显现。",
+      "tokens": [
+        {
+          "surface": "缀文",
+          "pos": "动词",
+          "gloss": "写作文章"
+        },
+        {
+          "surface": "辞发",
+          "pos": "动词",
+          "gloss": "文辞发出"
+        },
+        {
+          "surface": "披文",
+          "pos": "动词",
+          "gloss": "披阅文辞"
+        },
+        {
+          "surface": "沿波讨源",
+          "pos": "固定结构",
+          "gloss": "沿波追溯源头"
+        },
+        {
+          "surface": "幽",
+          "pos": "形容词",
+          "gloss": "隐微幽深"
+        },
+        {
+          "surface": "显",
+          "pos": "动词",
+          "gloss": "显现"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-017",
+      "order": 17,
+      "text": "世远莫见其面，觇文辄见其心。",
+      "translation": "时代久远不能见到作者的面，但看他的文章就能见到他的内心。",
+      "tokens": [
+        {
+          "surface": "世远",
+          "pos": "名词",
+          "gloss": "时代久远"
+        },
+        {
+          "surface": "觇",
+          "pos": "动词",
+          "gloss": "窥视，观看"
+        },
+        {
+          "surface": "辄",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "心",
+          "pos": "名词",
+          "gloss": "内心"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-018",
+      "order": 18,
+      "text": "凡操千曲而后晓声，观千剑而后识器。",
+      "translation": "大凡弹奏千首曲子才能懂得声音，观察千把剑才能识别器物。",
+      "tokens": [
+        {
+          "surface": "操",
+          "pos": "动词",
+          "gloss": "弹奏"
+        },
+        {
+          "surface": "晓",
+          "pos": "动词",
+          "gloss": "通晓，懂得"
+        },
+        {
+          "surface": "声",
+          "pos": "名词",
+          "gloss": "声音，乐理"
+        },
+        {
+          "surface": "识",
+          "pos": "动词",
+          "gloss": "识别"
+        },
+        {
+          "surface": "器",
+          "pos": "名词",
+          "gloss": "器物，剑器"
+        }
+      ]
+    },
+    {
+      "id": "gudaiwenlun-019",
+      "order": 19,
+      "text": "故圆照之象，务先博观。",
+      "translation": "所以要达到全面周遍的观照，务必先广泛地观察。",
+      "tokens": [
+        {
+          "surface": "圆照",
+          "pos": "名词",
+          "gloss": "全面周遍的观照"
+        },
+        {
+          "surface": "象",
+          "pos": "名词",
+          "gloss": "迹象，境界"
+        },
+        {
+          "surface": "务",
+          "pos": "副词",
+          "gloss": "务必"
+        },
+        {
+          "surface": "博观",
+          "pos": "动词",
+          "gloss": "广泛观察"
+        }
+      ]
+    }
+  ]
+}

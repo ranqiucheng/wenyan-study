@@ -1,0 +1,1131 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "shuoci",
+      "title": "熟词生义",
+      "description": "常见字在文言中的特殊含义",
+      "items": [
+        {
+          "id": "shuoci-001",
+          "word": "绝",
+          "example": "假舟楫者，非能水也，而绝江河",
+          "source": "《劝学》",
+          "familiar": "断绝；停止",
+          "contextual": "横渡"
+        },
+        {
+          "id": "shuoci-002",
+          "word": "疾",
+          "example": "顺风而呼，声非加疾也",
+          "source": "《劝学》",
+          "familiar": "疾病",
+          "contextual": "强，这里指声音洪亮"
+        },
+        {
+          "id": "shuoci-003",
+          "word": "假",
+          "example": "君子生非异也，善假于物也",
+          "source": "《劝学》",
+          "familiar": "虚假；不真实",
+          "contextual": "借助，凭借"
+        },
+        {
+          "id": "shuoci-004",
+          "word": "就",
+          "example": "金就砺则利",
+          "source": "《劝学》",
+          "familiar": "就是；立刻",
+          "contextual": "靠近，接近"
+        },
+        {
+          "id": "shuoci-005",
+          "word": "无",
+          "example": "无贵无贱，无长无少",
+          "source": "《师说》",
+          "familiar": "没有",
+          "contextual": "无论，不分"
+        },
+        {
+          "id": "shuoci-006",
+          "word": "出",
+          "example": "其出人也远矣",
+          "source": "《师说》",
+          "familiar": "出来；向外",
+          "contextual": "超出，超过"
+        },
+        {
+          "id": "shuoci-007",
+          "word": "攻",
+          "example": "术业有专攻",
+          "source": "《师说》",
+          "familiar": "攻打；进攻",
+          "contextual": "学习，研究"
+        },
+        {
+          "id": "shuoci-008",
+          "word": "传",
+          "example": "六艺经传皆通习之",
+          "source": "《师说》",
+          "familiar": "传递；传授",
+          "contextual": "古代解释经书的著作"
+        },
+        {
+          "id": "shuoci-009",
+          "word": "属",
+          "example": "举酒属客",
+          "source": "《赤壁赋》",
+          "familiar": "属于；归属",
+          "contextual": "劝人饮酒"
+        },
+        {
+          "id": "shuoci-010",
+          "word": "少",
+          "example": "少焉，月出于东山之上",
+          "source": "《赤壁赋》",
+          "familiar": "数量小；年轻",
+          "contextual": "一会儿，不久"
+        },
+        {
+          "id": "shuoci-011",
+          "word": "危",
+          "example": "正襟危坐",
+          "source": "《赤壁赋》",
+          "familiar": "危险",
+          "contextual": "端正"
+        },
+        {
+          "id": "shuoci-012",
+          "word": "望",
+          "example": "七月既望",
+          "source": "《赤壁赋》",
+          "familiar": "看；希望",
+          "contextual": "农历每月十五日"
+        },
+        {
+          "id": "shuoci-013",
+          "word": "鄙",
+          "example": "越国以鄙远",
+          "source": "《烛之武退秦师》",
+          "familiar": "卑鄙；粗俗",
+          "contextual": "把……当作边邑"
+        },
+        {
+          "id": "shuoci-014",
+          "word": "陪",
+          "example": "焉用亡郑以陪邻",
+          "source": "《烛之武退秦师》",
+          "familiar": "陪伴",
+          "contextual": "增加"
+        },
+        {
+          "id": "shuoci-015",
+          "word": "薄",
+          "example": "邻之厚，君之薄也",
+          "source": "《烛之武退秦师》",
+          "familiar": "单薄；不厚",
+          "contextual": "削弱，变薄"
+        },
+        {
+          "id": "shuoci-016",
+          "word": "微",
+          "example": "微夫人之力不及此",
+          "source": "《烛之武退秦师》",
+          "familiar": "细小；轻微",
+          "contextual": "没有，如果没有"
+        },
+        {
+          "id": "shuoci-017",
+          "word": "军",
+          "example": "沛公军霸上",
+          "source": "《鸿门宴》",
+          "familiar": "军队",
+          "contextual": "驻军，驻扎"
+        },
+        {
+          "id": "shuoci-018",
+          "word": "王",
+          "example": "沛公欲王关中",
+          "source": "《鸿门宴》",
+          "familiar": "君王；国王",
+          "contextual": "称王，做王"
+        },
+        {
+          "id": "shuoci-019",
+          "word": "幸",
+          "example": "妇女无所幸",
+          "source": "《鸿门宴》",
+          "familiar": "幸运；幸福",
+          "contextual": "宠幸，宠爱"
+        },
+        {
+          "id": "shuoci-020",
+          "word": "谢",
+          "example": "旦日不可不蚤自来谢项王",
+          "source": "《鸿门宴》",
+          "familiar": "感谢",
+          "contextual": "道歉，谢罪"
+        },
+        {
+          "id": "shuoci-021",
+          "word": "爱",
+          "example": "秦爱纷奢，人亦念其家",
+          "source": "《阿房宫赋》",
+          "familiar": "喜爱",
+          "contextual": "吝惜，舍不得"
+        },
+        {
+          "id": "shuoci-022",
+          "word": "落",
+          "example": "矗不知其几千万落",
+          "source": "《阿房宫赋》",
+          "familiar": "落下；掉落",
+          "contextual": "座，所（量词）"
+        },
+        {
+          "id": "shuoci-023",
+          "word": "举",
+          "example": "函谷举",
+          "source": "《阿房宫赋》",
+          "familiar": "举起；抬起",
+          "contextual": "被攻占，被攻下"
+        },
+        {
+          "id": "shuoci-024",
+          "word": "率",
+          "example": "六国互丧，率赂秦耶",
+          "source": "《六国论》",
+          "familiar": "带领；率领",
+          "contextual": "全都，一概"
+        },
+        {
+          "id": "shuoci-025",
+          "word": "完",
+          "example": "盖失强援，不能独完",
+          "source": "《六国论》",
+          "familiar": "完成；完毕",
+          "contextual": "保全"
+        },
+        {
+          "id": "shuoci-026",
+          "word": "速",
+          "example": "至丹以荆卿为计，始速祸焉",
+          "source": "《六国论》",
+          "familiar": "迅速；快",
+          "contextual": "招致，招来"
+        },
+        {
+          "id": "shuoci-027",
+          "word": "与",
+          "example": "与嬴而不助五国也",
+          "source": "《六国论》",
+          "familiar": "和；跟",
+          "contextual": "亲附，结交"
+        },
+        {
+          "id": "shuoci-028",
+          "word": "修",
+          "example": "此地有崇山峻岭，茂林修竹",
+          "source": "《兰亭集序》",
+          "familiar": "修理；修建",
+          "contextual": "高，长"
+        },
+        {
+          "id": "shuoci-029",
+          "word": "期",
+          "example": "况修短随化，终期于尽",
+          "source": "《兰亭集序》",
+          "familiar": "期限；日期",
+          "contextual": "至，及"
+        },
+        {
+          "id": "shuoci-030",
+          "word": "信",
+          "example": "信可乐也",
+          "source": "《兰亭集序》",
+          "familiar": "信任；书信",
+          "contextual": "实在，确实"
+        },
+        {
+          "id": "shuoci-031",
+          "word": "趣",
+          "example": "虽趣舍万殊，静躁不同",
+          "source": "《兰亭集序》",
+          "familiar": "兴趣；趣味",
+          "contextual": "通“取”，取向，取择"
+        },
+        {
+          "id": "shuoci-032",
+          "word": "序",
+          "example": "时维九月，序属三秋",
+          "source": "《滕王阁序》",
+          "familiar": "序言；次序",
+          "contextual": "时序，季节"
+        },
+        {
+          "id": "shuoci-033",
+          "word": "穷",
+          "example": "穷且益坚，不坠青云之志",
+          "source": "《滕王阁序》",
+          "familiar": "贫穷；缺钱",
+          "contextual": "处境困厄，不得志"
+        },
+        {
+          "id": "shuoci-034",
+          "word": "胜",
+          "example": "十旬休假，胜友如云",
+          "source": "《滕王阁序》",
+          "familiar": "胜利；战胜",
+          "contextual": "才华出众的，美好的"
+        },
+        {
+          "id": "shuoci-035",
+          "word": "寻",
+          "example": "寻程氏妹丧于武昌",
+          "source": "《归去来兮辞》",
+          "familiar": "寻找",
+          "contextual": "不久"
+        },
+        {
+          "id": "shuoci-036",
+          "word": "策",
+          "example": "策扶老以流憩",
+          "source": "《归去来兮辞》",
+          "familiar": "策略；计策",
+          "contextual": "拄着"
+        },
+        {
+          "id": "shuoci-037",
+          "word": "审",
+          "example": "倚南窗以寄傲，审容膝之易安",
+          "source": "《归去来兮辞》",
+          "familiar": "审查；审问",
+          "contextual": "明白，知道"
+        },
+        {
+          "id": "shuoci-038",
+          "word": "除",
+          "example": "寻蒙国恩，除臣洗马",
+          "source": "《陈情表》",
+          "familiar": "除去；去掉",
+          "contextual": "授予官职"
+        },
+        {
+          "id": "shuoci-039",
+          "word": "察",
+          "example": "前太守臣逵察臣孝廉",
+          "source": "《陈情表》",
+          "familiar": "观察；察看",
+          "contextual": "推举，选拔"
+        },
+        {
+          "id": "shuoci-040",
+          "word": "婴",
+          "example": "而刘夙婴疾病",
+          "source": "《陈情表》",
+          "familiar": "婴儿",
+          "contextual": "缠绕"
+        }
+      ]
+    },
+    {
+      "id": "yici",
+      "title": "一词多义",
+      "description": "同一个字在不同语境中的多个义项",
+      "items": [
+        {
+          "id": "yici-001",
+          "word": "道",
+          "example": "从郦山下，道芷阳间行",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "取道，经过",
+              "example": "从郦山下，道芷阳间行"
+            },
+            {
+              "gloss": "道路",
+              "example": "会天大雨，道不通"
+            },
+            {
+              "gloss": "道理，规律",
+              "example": "其闻道也固先乎吾"
+            },
+            {
+              "gloss": "说，讲",
+              "example": "不足为外人道也"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "id": "yici-002",
+          "word": "兵",
+          "example": "项羽兵四十万，在新丰鸿门",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "军队",
+              "example": "项羽兵四十万，在新丰鸿门"
+            },
+            {
+              "gloss": "兵器，武器",
+              "example": "收天下之兵，聚之咸阳"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "id": "yici-003",
+          "word": "亡",
+          "example": "是故燕虽小国而后亡",
+          "source": "《六国论》",
+          "senses": [
+            {
+              "gloss": "逃跑",
+              "example": "今亡亦死，举大计亦死"
+            },
+            {
+              "gloss": "灭亡",
+              "example": "是故燕虽小国而后亡"
+            },
+            {
+              "gloss": "丢失，失去",
+              "example": "秦无亡矢遗镞之费"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-004",
+          "word": "顾",
+          "example": "大行不顾细谨",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "回头看",
+              "example": "荆轲顾笑武阳"
+            },
+            {
+              "gloss": "顾及，考虑",
+              "example": "大行不顾细谨"
+            },
+            {
+              "gloss": "拜访",
+              "example": "三顾臣于草庐之中"
+            },
+            {
+              "gloss": "只是，不过",
+              "example": "顾吾念之，强秦之所以不敢加兵于赵者"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-005",
+          "word": "数",
+          "example": "范增数目项王",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "命运，定数",
+              "example": "识盈虚之有数"
+            },
+            {
+              "gloss": "屡次，多次",
+              "example": "范增数目项王"
+            },
+            {
+              "gloss": "细密",
+              "example": "数罟不入洿池"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-006",
+          "word": "间",
+          "example": "谗人间之，可谓穷矣",
+          "source": "《屈原列传》",
+          "senses": [
+            {
+              "gloss": "中间，期间",
+              "example": "奉命于危难之间"
+            },
+            {
+              "gloss": "参与",
+              "example": "肉食者谋之，又何间焉"
+            },
+            {
+              "gloss": "离间",
+              "example": "谗人间之，可谓穷矣"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-007",
+          "word": "当",
+          "example": "猥以微贱，当侍东宫",
+          "source": "《陈情表》",
+          "senses": [
+            {
+              "gloss": "应当",
+              "example": "当奖率三军"
+            },
+            {
+              "gloss": "担任，充当",
+              "example": "猥以微贱，当侍东宫"
+            },
+            {
+              "gloss": "抵挡",
+              "example": "料大王士卒足以当项王乎"
+            },
+            {
+              "gloss": "面对",
+              "example": "当窗理云鬓"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-008",
+          "word": "见",
+          "example": "生孩六月，慈父见背",
+          "source": "《陈情表》",
+          "senses": [
+            {
+              "gloss": "看见",
+              "example": "见渔人，乃大惊"
+            },
+            {
+              "gloss": "用在动词前，表示对自己怎么样",
+              "example": "生孩六月，慈父见背"
+            },
+            {
+              "gloss": "被，受到（表被动）",
+              "example": "信而见疑，忠而被谤"
+            },
+            {
+              "gloss": "拜见",
+              "example": "于是入朝见威王"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-009",
+          "word": "使",
+          "example": "向使三国各爱其地",
+          "source": "《六国论》",
+          "senses": [
+            {
+              "gloss": "使者",
+              "example": "大王遣一介之使至赵"
+            },
+            {
+              "gloss": "出使",
+              "example": "求人可使报秦者"
+            },
+            {
+              "gloss": "假使，如果",
+              "example": "向使三国各爱其地"
+            },
+            {
+              "gloss": "让，命令",
+              "example": "使毕使于前"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-010",
+          "word": "从",
+          "example": "沛公旦日从百余骑来见项王",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "听从",
+              "example": "臣从其计，大王亦幸赦臣"
+            },
+            {
+              "gloss": "由，自",
+              "example": "从此道至吾军"
+            },
+            {
+              "gloss": "使……跟从，带领",
+              "example": "沛公旦日从百余骑来见项王"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-011",
+          "word": "至",
+          "example": "沛公至军，立诛杀曹无伤",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "极，最",
+              "example": "今臣亡国贱俘，至微至陋"
+            },
+            {
+              "gloss": "到，到达",
+              "example": "沛公至军，立诛杀曹无伤"
+            },
+            {
+              "gloss": "周到",
+              "example": "色愈恭，礼愈至"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-012",
+          "word": "致",
+          "example": "假舆马者，非利足也，而致千里",
+          "source": "《劝学》",
+          "senses": [
+            {
+              "gloss": "情趣，情致",
+              "example": "所以兴怀，其致一也"
+            },
+            {
+              "gloss": "到达",
+              "example": "假舆马者，非利足也，而致千里"
+            },
+            {
+              "gloss": "招纳，招致",
+              "example": "以致天下之士"
+            },
+            {
+              "gloss": "表达",
+              "example": "听妇前致词"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-013",
+          "word": "适",
+          "example": "而吾与子之所共适",
+          "source": "《赤壁赋》",
+          "senses": [
+            {
+              "gloss": "适合，顺从",
+              "example": "处分适兄意"
+            },
+            {
+              "gloss": "享有",
+              "example": "而吾与子之所共适"
+            },
+            {
+              "gloss": "到，往",
+              "example": "适莽苍者，三餐而反"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-014",
+          "word": "或",
+          "example": "或因寄所托，放浪形骸之外",
+          "source": "《兰亭集序》",
+          "senses": [
+            {
+              "gloss": "有时",
+              "example": "或王命急宣，有时朝发白帝"
+            },
+            {
+              "gloss": "或许，也许",
+              "example": "或异二者之为"
+            },
+            {
+              "gloss": "有的人",
+              "example": "或因寄所托，放浪形骸之外"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-015",
+          "word": "因",
+          "example": "因人之力而敝之",
+          "source": "《烛之武退秦师》",
+          "senses": [
+            {
+              "gloss": "于是，就",
+              "example": "因击沛公于坐"
+            },
+            {
+              "gloss": "依靠，凭借",
+              "example": "因人之力而敝之"
+            },
+            {
+              "gloss": "趁着",
+              "example": "因利乘便，宰割天下"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-016",
+          "word": "尽",
+          "example": "一肌一容，尽态极妍",
+          "source": "《阿房宫赋》",
+          "senses": [
+            {
+              "gloss": "到尽头，消失",
+              "example": "林尽水源，便得一山"
+            },
+            {
+              "gloss": "极尽",
+              "example": "一肌一容，尽态极妍"
+            },
+            {
+              "gloss": "穷尽，用尽",
+              "example": "尽吾志也而不能至者"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-017",
+          "word": "固",
+          "example": "固一世之雄也",
+          "source": "《赤壁赋》",
+          "senses": [
+            {
+              "gloss": "顽固",
+              "example": "独夫之心，日益骄固"
+            },
+            {
+              "gloss": "险固的地势",
+              "example": "秦孝公据崤函之固"
+            },
+            {
+              "gloss": "本来",
+              "example": "固一世之雄也"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-018",
+          "word": "善",
+          "example": "素善留侯张良",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "擅长，善于",
+              "example": "京中有善口技者"
+            },
+            {
+              "gloss": "与……交好，亲善",
+              "example": "素善留侯张良"
+            },
+            {
+              "gloss": "羡慕，喜好",
+              "example": "善万物之得时"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-019",
+          "word": "辞",
+          "example": "辞曰：“臣之壮也，犹不如人”",
+          "source": "《烛之武退秦师》",
+          "senses": [
+            {
+              "gloss": "告辞，辞别",
+              "example": "今者出，未辞也，为之奈何"
+            },
+            {
+              "gloss": "推辞",
+              "example": "辞曰：“臣之壮也，犹不如人”"
+            },
+            {
+              "gloss": "计较，讲究",
+              "example": "大礼不辞小让"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "yici-020",
+          "word": "得",
+          "example": "此言得之",
+          "source": "《六国论》",
+          "senses": [
+            {
+              "gloss": "得到",
+              "example": "岂得之难而失之易欤"
+            },
+            {
+              "gloss": "能够",
+              "example": "沛公军霸上，未得与项羽相见"
+            },
+            {
+              "gloss": "适宜，得当",
+              "example": "此言得之"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-021",
+          "word": "诚",
+          "example": "战败而亡，诚不得已",
+          "source": "《六国论》",
+          "senses": [
+            {
+              "gloss": "果真，如果",
+              "example": "诚能见可欲则思知足以自戒"
+            },
+            {
+              "gloss": "诚心",
+              "example": "竭诚则胡越为一体"
+            },
+            {
+              "gloss": "确实，实在",
+              "example": "战败而亡，诚不得已"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-022",
+          "word": "引",
+          "example": "引以为流觞曲水",
+          "source": "《兰亭集序》",
+          "senses": [
+            {
+              "gloss": "伸长",
+              "example": "则天下之民皆引领而望之矣"
+            },
+            {
+              "gloss": "连接",
+              "example": "控蛮荆而引瓯越"
+            },
+            {
+              "gloss": "引来，疏导",
+              "example": "引以为流觞曲水"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-023",
+          "word": "乘",
+          "example": "聊乘化以归尽",
+          "source": "《归去来兮辞》",
+          "senses": [
+            {
+              "gloss": "趁着",
+              "example": "因利乘便，宰割天下"
+            },
+            {
+              "gloss": "登上",
+              "example": "乘彼垝垣，以望复关"
+            },
+            {
+              "gloss": "顺应",
+              "example": "聊乘化以归尽"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-024",
+          "word": "坐",
+          "example": "因击沛公于坐",
+          "source": "《鸿门宴》",
+          "senses": [
+            {
+              "gloss": "犯罪，获罪",
+              "example": "王曰：“何坐？”曰：“坐盗”"
+            },
+            {
+              "gloss": "因为",
+              "example": "停车坐爱枫林晚"
+            },
+            {
+              "gloss": "座位",
+              "example": "因击沛公于坐"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "id": "yici-025",
+          "word": "听",
+          "example": "愿陛下矜悯愚诚，听臣微志",
+          "source": "《陈情表》",
+          "senses": [
+            {
+              "gloss": "听见",
+              "example": "听妇前致词"
+            },
+            {
+              "gloss": "听从",
+              "example": "安陵君不听寡人，何也"
+            },
+            {
+              "gloss": "听任，允许",
+              "example": "愿陛下矜悯愚诚，听臣微志"
+            }
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "gujin",
+      "title": "古今异义",
+      "description": "字形相同而古今意义不同的词语",
+      "items": [
+        {
+          "id": "gujin-001",
+          "word": "博学",
+          "example": "君子博学而日参省乎己",
+          "source": "《劝学》",
+          "ancient": "广泛地学习",
+          "modern": "学问广博、学识渊博"
+        },
+        {
+          "id": "gujin-002",
+          "word": "用心",
+          "example": "上食埃土，下饮黄泉，用心一也",
+          "source": "《劝学》",
+          "ancient": "因为心思（用，因为；心，心思）",
+          "modern": "读书用功；存心，居心"
+        },
+        {
+          "id": "gujin-003",
+          "word": "爪牙",
+          "example": "蚓无爪牙之利",
+          "source": "《劝学》",
+          "ancient": "爪子和牙齿",
+          "modern": "坏人的帮凶、走狗"
+        },
+        {
+          "id": "gujin-004",
+          "word": "学者",
+          "example": "古之学者必有师",
+          "source": "《师说》",
+          "ancient": "求学的人",
+          "modern": "有学问的人；在学术上有一定成就的人"
+        },
+        {
+          "id": "gujin-005",
+          "word": "从而",
+          "example": "吾从而师之",
+          "source": "《师说》",
+          "ancient": "跟从（他）并且",
+          "modern": "因此，就（表因果的连词）"
+        },
+        {
+          "id": "gujin-006",
+          "word": "小学",
+          "example": "小学而大遗",
+          "source": "《师说》",
+          "ancient": "小的方面学习",
+          "modern": "实施初等教育的学校"
+        },
+        {
+          "id": "gujin-007",
+          "word": "白露",
+          "example": "白露横江，水光接天",
+          "source": "《赤壁赋》",
+          "ancient": "白茫茫的水汽",
+          "modern": "二十四节气之一"
+        },
+        {
+          "id": "gujin-008",
+          "word": "茫然",
+          "example": "凌万顷之茫然",
+          "source": "《赤壁赋》",
+          "ancient": "旷远的样子",
+          "modern": "完全不知道、不知所措的样子"
+        },
+        {
+          "id": "gujin-009",
+          "word": "美人",
+          "example": "望美人兮天一方",
+          "source": "《赤壁赋》",
+          "ancient": "内心所思慕的人（这里喻指君主、理想）",
+          "modern": "美貌的女子"
+        },
+        {
+          "id": "gujin-010",
+          "word": "东道主",
+          "example": "若舍郑以为东道主",
+          "source": "《烛之武退秦师》",
+          "ancient": "东方道路上的主人（也泛指招待宾客的主人）",
+          "modern": "请客的主人；活动的主办方"
+        },
+        {
+          "id": "gujin-011",
+          "word": "行李",
+          "example": "行李之往来，共其乏困",
+          "source": "《烛之武退秦师》",
+          "ancient": "外交使者",
+          "modern": "出门时所带的包裹、箱子等"
+        },
+        {
+          "id": "gujin-012",
+          "word": "夫人",
+          "example": "微夫人之力不及此",
+          "source": "《烛之武退秦师》",
+          "ancient": "那个人",
+          "modern": "男子的配偶"
+        },
+        {
+          "id": "gujin-013",
+          "word": "婚姻",
+          "example": "沛公奉卮酒为寿，约为婚姻",
+          "source": "《鸿门宴》",
+          "ancient": "儿女亲家",
+          "modern": "结婚的事；夫妻关系"
+        },
+        {
+          "id": "gujin-014",
+          "word": "非常",
+          "example": "所以遣将守关者，备他盗之出入与非常也",
+          "source": "《鸿门宴》",
+          "ancient": "意外的变故",
+          "modern": "很，十分（程度副词）"
+        },
+        {
+          "id": "gujin-015",
+          "word": "山东",
+          "example": "沛公居山东时",
+          "source": "《鸿门宴》",
+          "ancient": "崤山以东，泛指六国之地",
+          "modern": "山东省"
+        },
+        {
+          "id": "gujin-016",
+          "word": "可怜",
+          "example": "楚人一炬，可怜焦土",
+          "source": "《阿房宫赋》",
+          "ancient": "可惜",
+          "modern": "值得怜悯"
+        },
+        {
+          "id": "gujin-017",
+          "word": "经营",
+          "example": "燕赵之收藏，韩魏之经营",
+          "source": "《阿房宫赋》",
+          "ancient": "搜集保存的金玉珍宝",
+          "modern": "筹划、管理（企业等）"
+        },
+        {
+          "id": "gujin-018",
+          "word": "明星",
+          "example": "明星荧荧，开妆镜也",
+          "source": "《阿房宫赋》",
+          "ancient": "明亮的星光",
+          "modern": "有名的演员、歌手等"
+        },
+        {
+          "id": "gujin-019",
+          "word": "其实",
+          "example": "较秦之所得，与战胜而得者，其实百倍",
+          "source": "《六国论》",
+          "ancient": "那实际情况（它的实际数目）",
+          "modern": "实际上（副词）"
+        },
+        {
+          "id": "gujin-020",
+          "word": "祖父",
+          "example": "思厥先祖父，暴霜露，斩荆棘",
+          "source": "《六国论》",
+          "ancient": "祖辈和父辈",
+          "modern": "父亲的父亲"
+        },
+        {
+          "id": "gujin-021",
+          "word": "再",
+          "example": "后秦击赵者再",
+          "source": "《六国论》",
+          "ancient": "两次",
+          "modern": "又一次"
+        },
+        {
+          "id": "gujin-022",
+          "word": "其次",
+          "example": "引以为流觞曲水，列坐其次",
+          "source": "《兰亭集序》",
+          "ancient": "它的旁边，水边",
+          "modern": "次要的地位；第二"
+        },
+        {
+          "id": "gujin-023",
+          "word": "怀抱",
+          "example": "或取诸怀抱，悟言一室之内",
+          "source": "《兰亭集序》",
+          "ancient": "胸怀抱负，内心",
+          "modern": "抱在怀里"
+        },
+        {
+          "id": "gujin-024",
+          "word": "逢迎",
+          "example": "千里逢迎，高朋满座",
+          "source": "《滕王阁序》",
+          "ancient": "迎接",
+          "modern": "故意迎合别人的心意"
+        },
+        {
+          "id": "gujin-025",
+          "word": "幼稚",
+          "example": "幼稚盈室，瓶无储粟",
+          "source": "《归去来兮辞》",
+          "ancient": "小孩，儿童",
+          "modern": "不成熟；年幼无知"
+        },
+        {
+          "id": "gujin-026",
+          "word": "亲戚",
+          "example": "悦亲戚之情话，乐琴书以消忧",
+          "source": "《归去来兮辞》",
+          "ancient": "内外亲属（包括父母兄弟）",
+          "modern": "跟自己家庭有婚姻关系或血统关系的亲属（一般不含父母兄弟）"
+        },
+        {
+          "id": "gujin-027",
+          "word": "人事",
+          "example": "尝从人事，皆口腹自役",
+          "source": "《归去来兮辞》",
+          "ancient": "做官，仕途之事",
+          "modern": "人情世故；人员的任免、调动等事"
+        },
+        {
+          "id": "gujin-028",
+          "word": "成立",
+          "example": "零丁孤苦，至于成立",
+          "source": "《陈情表》",
+          "ancient": "成人自立",
+          "modern": "组织、机构等建立；（论点等）有根据"
+        },
+        {
+          "id": "gujin-029",
+          "word": "辛苦",
+          "example": "臣之辛苦，非独蜀之人士及二州牧伯所见明知",
+          "source": "《陈情表》",
+          "ancient": "辛酸苦楚",
+          "modern": "身心劳累"
+        },
+        {
+          "id": "gujin-030",
+          "word": "告诉",
+          "example": "臣欲奉诏奔驰，则刘病日笃；欲苟顺私情，则告诉不许",
+          "source": "《陈情表》",
+          "ancient": "报告申诉",
+          "modern": "说给别人听，使人知道"
+        }
+      ]
+    }
+  ]
+}

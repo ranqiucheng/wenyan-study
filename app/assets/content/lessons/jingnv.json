@@ -1,0 +1,311 @@
+{
+  "id": "jingnv",
+  "title": "静女",
+  "author": "佚名",
+  "source": "《诗经》",
+  "volume": "必修上册",
+  "tags": [
+    "课标",
+    "诗"
+  ],
+  "reviewed": true,
+  "summary": "写男子与静女相约城隅、赠物定情的场景，以细腻的动作与心理描写表现青年男女纯真热烈的爱情。",
+  "sentences": [
+    {
+      "id": "jingnv-001",
+      "order": 1,
+      "text": "静女其姝，",
+      "translation": "娴静的姑娘多么美丽，",
+      "tokens": [
+        {
+          "surface": "静女",
+          "pos": "名词",
+          "gloss": "娴静的姑娘"
+        },
+        {
+          "surface": "其",
+          "pos": "助词",
+          "gloss": "形容词词头，起加强作用"
+        },
+        {
+          "surface": "姝",
+          "pos": "形容词",
+          "gloss": "美丽"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-002",
+      "order": 2,
+      "text": "俟我于城隅。",
+      "translation": "她在城墙的角落等我。",
+      "tokens": [
+        {
+          "surface": "俟",
+          "pos": "动词",
+          "gloss": "等待"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "城隅",
+          "pos": "名词",
+          "gloss": "城墙角落"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-003",
+      "order": 3,
+      "text": "爱而不见，",
+      "translation": "她隐藏起来不出现，",
+      "tokens": [
+        {
+          "surface": "爱",
+          "pos": "动词",
+          "gloss": "通“薆”，隐藏"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表转折"
+        },
+        {
+          "surface": "不见",
+          "pos": "动词",
+          "gloss": "不出现，见通“现”"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-004",
+      "order": 4,
+      "text": "搔首踟蹰。",
+      "translation": "我挠着头徘徊不定。",
+      "tokens": [
+        {
+          "surface": "搔",
+          "pos": "动词",
+          "gloss": "用手指挠"
+        },
+        {
+          "surface": "首",
+          "pos": "名词",
+          "gloss": "头"
+        },
+        {
+          "surface": "踟蹰",
+          "pos": "动词",
+          "gloss": "徘徊不前"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-005",
+      "order": 5,
+      "text": "静女其娈，",
+      "translation": "娴静的姑娘多么美好，",
+      "tokens": [
+        {
+          "surface": "静女",
+          "pos": "名词",
+          "gloss": "娴静的姑娘"
+        },
+        {
+          "surface": "其",
+          "pos": "助词",
+          "gloss": "形容词词头，起加强作用"
+        },
+        {
+          "surface": "娈",
+          "pos": "形容词",
+          "gloss": "美好"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-006",
+      "order": 6,
+      "text": "贻我彤管。",
+      "translation": "她送给我一支红色的管箫。",
+      "tokens": [
+        {
+          "surface": "贻",
+          "pos": "动词",
+          "gloss": "赠送"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "彤管",
+          "pos": "名词",
+          "gloss": "红色的管乐器"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-007",
+      "order": 7,
+      "text": "彤管有炜，",
+      "translation": "红色的管箫光泽鲜明，",
+      "tokens": [
+        {
+          "surface": "彤管",
+          "pos": "名词",
+          "gloss": "红色的管乐器"
+        },
+        {
+          "surface": "有",
+          "pos": "助词",
+          "gloss": "形容词词头"
+        },
+        {
+          "surface": "炜",
+          "pos": "形容词",
+          "gloss": "色彩鲜明有光泽"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-008",
+      "order": 8,
+      "text": "说怿女美。",
+      "translation": "我喜爱你（彤管）的美丽。",
+      "tokens": [
+        {
+          "surface": "说",
+          "pos": "动词",
+          "gloss": "通“悦”，喜爱"
+        },
+        {
+          "surface": "怿",
+          "pos": "动词",
+          "gloss": "喜悦"
+        },
+        {
+          "surface": "女",
+          "pos": "代词",
+          "gloss": "通“汝”，你，指彤管"
+        },
+        {
+          "surface": "美",
+          "pos": "形容词",
+          "gloss": "美丽"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-009",
+      "order": 9,
+      "text": "自牧归荑，",
+      "translation": "她从郊外送来茅草芽，",
+      "tokens": [
+        {
+          "surface": "牧",
+          "pos": "名词",
+          "gloss": "郊外田野"
+        },
+        {
+          "surface": "归",
+          "pos": "动词",
+          "gloss": "通“馈”，赠送"
+        },
+        {
+          "surface": "荑",
+          "pos": "名词",
+          "gloss": "初生的茅草"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-010",
+      "order": 10,
+      "text": "洵美且异。",
+      "translation": "实在美丽而且奇特。",
+      "tokens": [
+        {
+          "surface": "洵",
+          "pos": "副词",
+          "gloss": "实在，确实"
+        },
+        {
+          "surface": "美",
+          "pos": "形容词",
+          "gloss": "美丽"
+        },
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "并且"
+        },
+        {
+          "surface": "异",
+          "pos": "形容词",
+          "gloss": "奇特"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-011",
+      "order": 11,
+      "text": "匪女之为美，",
+      "translation": "不是你（茅草芽）本身美，",
+      "tokens": [
+        {
+          "surface": "匪",
+          "pos": "副词",
+          "gloss": "通“非”，不是"
+        },
+        {
+          "surface": "女",
+          "pos": "代词",
+          "gloss": "通“汝”，你，指荑"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "算是"
+        },
+        {
+          "surface": "美",
+          "pos": "形容词",
+          "gloss": "美"
+        }
+      ]
+    },
+    {
+      "id": "jingnv-012",
+      "order": 12,
+      "text": "美人之贻。",
+      "translation": "是因为美人赠送的。",
+      "tokens": [
+        {
+          "surface": "美人",
+          "pos": "名词",
+          "gloss": "美人，指静女"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "用于主谓之间"
+        },
+        {
+          "surface": "贻",
+          "pos": "动词",
+          "gloss": "赠送的东西"
+        }
+      ]
+    }
+  ]
+}

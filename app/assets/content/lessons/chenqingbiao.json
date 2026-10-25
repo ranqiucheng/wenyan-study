@@ -1,0 +1,1042 @@
+{
+  "id": "chenqingbiao",
+  "title": "陈情表",
+  "author": "李密",
+  "source": "《文选》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "表"
+  ],
+  "reviewed": true,
+  "summary": "李密以祖母年老无人奉养为由，陈情婉拒晋武帝征召，情辞恳切，是古代表文的典范。",
+  "sentences": [
+    {
+      "id": "chenqingbiao-001",
+      "order": 1,
+      "text": "臣密言：臣以险衅，夙遭闵凶。",
+      "translation": "臣李密上言：我因为命运不好，幼年就遭受忧患凶丧。",
+      "tokens": [
+        {
+          "surface": "言",
+          "pos": "动词",
+          "gloss": "陈说，上言"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "险衅",
+          "pos": "名词",
+          "gloss": "艰难祸患，指命运不好"
+        },
+        {
+          "surface": "夙",
+          "pos": "副词",
+          "gloss": "早年"
+        },
+        {
+          "surface": "闵凶",
+          "pos": "名词",
+          "gloss": "忧患凶丧之事，指父丧"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-002",
+      "order": 2,
+      "text": "生孩六月，慈父见背；行年四岁，舅夺母志。",
+      "translation": "我生下来才六个月，慈爱的父亲就去世了；到了四岁，舅舅强迫母亲改嫁。",
+      "tokens": [
+        {
+          "surface": "慈父",
+          "pos": "名词",
+          "gloss": "慈爱的父亲"
+        },
+        {
+          "surface": "见背",
+          "pos": "动词",
+          "gloss": "离开我，指去世"
+        },
+        {
+          "surface": "行年",
+          "pos": "名词",
+          "gloss": "经历的年岁，指年纪"
+        },
+        {
+          "surface": "夺",
+          "pos": "动词",
+          "gloss": "强行改变"
+        },
+        {
+          "surface": "志",
+          "pos": "名词",
+          "gloss": "守节的志愿"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-003",
+      "order": 3,
+      "text": "祖母刘愍臣孤弱，躬亲抚养。",
+      "translation": "祖母刘氏怜惜我孤单弱小，亲自抚养我。",
+      "tokens": [
+        {
+          "surface": "祖母刘",
+          "pos": "名词",
+          "gloss": "祖母刘氏"
+        },
+        {
+          "surface": "愍",
+          "pos": "动词",
+          "gloss": "怜惜"
+        },
+        {
+          "surface": "孤弱",
+          "pos": "形容词",
+          "gloss": "孤单弱小"
+        },
+        {
+          "surface": "躬亲",
+          "pos": "副词",
+          "gloss": "亲自"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-004",
+      "order": 4,
+      "text": "臣少多疾病，九岁不行，零丁孤苦，至于成立。",
+      "translation": "我小时候经常生病，九岁还不会走路，孤苦无依，直到长大成人。",
+      "tokens": [
+        {
+          "surface": "少",
+          "pos": "名词",
+          "gloss": "年幼时"
+        },
+        {
+          "surface": "疾病",
+          "pos": "名词",
+          "gloss": "病"
+        },
+        {
+          "surface": "不行",
+          "pos": "动词",
+          "gloss": "不会走路"
+        },
+        {
+          "surface": "零丁",
+          "pos": "形容词",
+          "gloss": "孤独无依"
+        },
+        {
+          "surface": "成立",
+          "pos": "动词",
+          "gloss": "长大成人"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-005",
+      "order": 5,
+      "text": "既无伯叔，终鲜兄弟，门衰祚薄，晚有儿息。",
+      "translation": "既没有伯父叔父，又缺少兄弟，门庭衰微、福分浅薄，很晚才有儿子。",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "连词",
+          "gloss": "既……又"
+        },
+        {
+          "surface": "终",
+          "pos": "副词",
+          "gloss": "终究，又"
+        },
+        {
+          "surface": "鲜",
+          "pos": "动词",
+          "gloss": "少，这里指没有"
+        },
+        {
+          "surface": "祚",
+          "pos": "名词",
+          "gloss": "福分"
+        },
+        {
+          "surface": "儿息",
+          "pos": "名词",
+          "gloss": "儿子"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-006",
+      "order": 6,
+      "text": "外无期功强近之亲，内无应门五尺之僮，茕茕孑立，形影相吊。",
+      "translation": "外面没有关系较近的亲属，家里没有照应门户的童仆，孤孤单单，只有形体和影子互相安慰。",
+      "tokens": [
+        {
+          "surface": "期功",
+          "pos": "名词",
+          "gloss": "古代丧服名称，指近亲"
+        },
+        {
+          "surface": "强近",
+          "pos": "形容词",
+          "gloss": "勉强算得上的近亲"
+        },
+        {
+          "surface": "应门",
+          "pos": "动词",
+          "gloss": "照应门户"
+        },
+        {
+          "surface": "僮",
+          "pos": "名词",
+          "gloss": "童仆"
+        },
+        {
+          "surface": "茕茕",
+          "pos": "形容词",
+          "gloss": "孤单的样子"
+        },
+        {
+          "surface": "孑立",
+          "pos": "动词",
+          "gloss": "孤单地站立"
+        },
+        {
+          "surface": "形影相吊",
+          "pos": "固定结构",
+          "gloss": "只有形体和影子互相安慰"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-007",
+      "order": 7,
+      "text": "而刘夙婴疾病，常在床蓐，臣侍汤药，未曾废离。",
+      "translation": "而祖母刘氏早已被疾病缠身，常年卧床不起，我侍奉汤药，从未离开过。",
+      "tokens": [
+        {
+          "surface": "夙",
+          "pos": "副词",
+          "gloss": "很早"
+        },
+        {
+          "surface": "婴",
+          "pos": "动词",
+          "gloss": "缠绕，这里指被……缠身"
+        },
+        {
+          "surface": "床蓐",
+          "pos": "名词",
+          "gloss": "床铺"
+        },
+        {
+          "surface": "侍",
+          "pos": "动词",
+          "gloss": "侍奉"
+        },
+        {
+          "surface": "废离",
+          "pos": "动词",
+          "gloss": "停止侍奉而离开"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-008",
+      "order": 8,
+      "text": "逮奉圣朝，沐浴清化。",
+      "translation": "到了晋朝建立，我蒙受清明的教化。",
+      "tokens": [
+        {
+          "surface": "逮",
+          "pos": "介词",
+          "gloss": "到了"
+        },
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "承奉，这里指遇上"
+        },
+        {
+          "surface": "沐浴",
+          "pos": "动词",
+          "gloss": "蒙受"
+        },
+        {
+          "surface": "清化",
+          "pos": "名词",
+          "gloss": "清明的教化"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-009",
+      "order": 9,
+      "text": "前太守臣逵察臣孝廉，后刺史臣荣举臣秀才。",
+      "translation": "先前太守逵推举我为孝廉，后来刺史荣推举我为秀才。",
+      "tokens": [
+        {
+          "surface": "太守",
+          "pos": "名词",
+          "gloss": "郡的最高长官"
+        },
+        {
+          "surface": "察",
+          "pos": "动词",
+          "gloss": "考察后予以推举"
+        },
+        {
+          "surface": "孝廉",
+          "pos": "名词",
+          "gloss": "汉代荐举人才的科目"
+        },
+        {
+          "surface": "刺史",
+          "pos": "名词",
+          "gloss": "州的最高长官"
+        },
+        {
+          "surface": "举",
+          "pos": "动词",
+          "gloss": "推举"
+        },
+        {
+          "surface": "秀才",
+          "pos": "名词",
+          "gloss": "汉代荐举人才的科目"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-010",
+      "order": 10,
+      "text": "臣以供养无主，辞不赴命。",
+      "translation": "我因为祖母无人供养，推辞没有接受任命。",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "供养",
+          "pos": "动词",
+          "gloss": "奉养"
+        },
+        {
+          "surface": "主",
+          "pos": "名词",
+          "gloss": "主持，指负责供养的人"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "推辞"
+        },
+        {
+          "surface": "赴命",
+          "pos": "动词",
+          "gloss": "接受任命"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-011",
+      "order": 11,
+      "text": "诏书特下，拜臣郎中，寻蒙国恩，除臣洗马。",
+      "translation": "诏书特地下来，任命我为郎中，不久又蒙受国恩，任命我为洗马。",
+      "tokens": [
+        {
+          "surface": "特",
+          "pos": "副词",
+          "gloss": "特地"
+        },
+        {
+          "surface": "拜",
+          "pos": "动词",
+          "gloss": "授官"
+        },
+        {
+          "surface": "寻",
+          "pos": "副词",
+          "gloss": "不久"
+        },
+        {
+          "surface": "蒙",
+          "pos": "动词",
+          "gloss": "蒙受"
+        },
+        {
+          "surface": "除",
+          "pos": "动词",
+          "gloss": "授官"
+        },
+        {
+          "surface": "洗马",
+          "pos": "名词",
+          "gloss": "太子侍从官"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-012",
+      "order": 12,
+      "text": "猥以微贱，当侍东宫，非臣陨首所能上报。",
+      "translation": "我凭借卑微低贱的身份，担任侍奉太子的职务，这不是我牺牲生命所能报答的。",
+      "tokens": [
+        {
+          "surface": "猥",
+          "pos": "副词",
+          "gloss": "谦辞，承蒙"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "凭借"
+        },
+        {
+          "surface": "微贱",
+          "pos": "形容词",
+          "gloss": "卑微低贱"
+        },
+        {
+          "surface": "当",
+          "pos": "动词",
+          "gloss": "担任"
+        },
+        {
+          "surface": "东宫",
+          "pos": "名词",
+          "gloss": "太子居所，指太子"
+        },
+        {
+          "surface": "陨首",
+          "pos": "动词",
+          "gloss": "牺牲生命"
+        },
+        {
+          "surface": "上报",
+          "pos": "动词",
+          "gloss": "报答"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-013",
+      "order": 13,
+      "text": "臣具以表闻，辞不就职。",
+      "translation": "我详细地用奏表禀告，推辞不去就职。",
+      "tokens": [
+        {
+          "surface": "具",
+          "pos": "副词",
+          "gloss": "详细地"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "用"
+        },
+        {
+          "surface": "闻",
+          "pos": "动词",
+          "gloss": "使……知道，禀告"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "推辞"
+        },
+        {
+          "surface": "就职",
+          "pos": "动词",
+          "gloss": "到任"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-014",
+      "order": 14,
+      "text": "诏书切峻，责臣逋慢。",
+      "translation": "诏书言辞急切严厉，责备我逃避命令、态度傲慢。",
+      "tokens": [
+        {
+          "surface": "切峻",
+          "pos": "形容词",
+          "gloss": "急切严厉"
+        },
+        {
+          "surface": "责",
+          "pos": "动词",
+          "gloss": "责备"
+        },
+        {
+          "surface": "逋慢",
+          "pos": "动词",
+          "gloss": "逃避命令，态度傲慢"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-015",
+      "order": 15,
+      "text": "郡县逼迫，催臣上道；州司临门，急于星火。",
+      "translation": "郡县长官催逼，催促我上路；州官登门督促，比流星的光还急。",
+      "tokens": [
+        {
+          "surface": "逼迫",
+          "pos": "动词",
+          "gloss": "催逼"
+        },
+        {
+          "surface": "上道",
+          "pos": "动词",
+          "gloss": "上路"
+        },
+        {
+          "surface": "州司",
+          "pos": "名词",
+          "gloss": "州官"
+        },
+        {
+          "surface": "临门",
+          "pos": "动词",
+          "gloss": "登门"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "比"
+        },
+        {
+          "surface": "星火",
+          "pos": "名词",
+          "gloss": "流星的光"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-016",
+      "order": 16,
+      "text": "臣欲奉诏奔驰，则刘病日笃；欲苟顺私情，则告诉不许。",
+      "translation": "我想奉命急速赴任，但祖母的病一天天沉重；想暂且顺从私情，但申诉又不被允许。",
+      "tokens": [
+        {
+          "surface": "奔驰",
+          "pos": "动词",
+          "gloss": "奔走效劳"
+        },
+        {
+          "surface": "则",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "日笃",
+          "pos": "动词",
+          "gloss": "一天天沉重"
+        },
+        {
+          "surface": "苟",
+          "pos": "副词",
+          "gloss": "暂且"
+        },
+        {
+          "surface": "告诉",
+          "pos": "动词",
+          "gloss": "申诉"
+        },
+        {
+          "surface": "不许",
+          "pos": "动词",
+          "gloss": "不被允许"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-017",
+      "order": 17,
+      "text": "臣之进退，实为狼狈。",
+      "translation": "我的处境进退两难，实在狼狈。",
+      "tokens": [
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "进退",
+          "pos": "动词",
+          "gloss": "进退两难"
+        },
+        {
+          "surface": "狼狈",
+          "pos": "形容词",
+          "gloss": "困苦窘迫"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-018",
+      "order": 18,
+      "text": "伏惟圣朝以孝治天下，凡在故老，犹蒙矜育，况臣孤苦，特为尤甚。",
+      "translation": "我俯伏思量圣朝以孝道治理天下，凡是年老有功德的旧臣，尚且蒙受怜惜养育，何况我孤单困苦，更加厉害。",
+      "tokens": [
+        {
+          "surface": "伏惟",
+          "pos": "动词",
+          "gloss": "俯伏思量，下对上的敬辞"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "用"
+        },
+        {
+          "surface": "故老",
+          "pos": "名词",
+          "gloss": "年老而有功德的旧臣"
+        },
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "尚且"
+        },
+        {
+          "surface": "蒙",
+          "pos": "动词",
+          "gloss": "蒙受"
+        },
+        {
+          "surface": "矜育",
+          "pos": "动词",
+          "gloss": "怜惜养育"
+        },
+        {
+          "surface": "况",
+          "pos": "连词",
+          "gloss": "何况"
+        },
+        {
+          "surface": "尤甚",
+          "pos": "形容词",
+          "gloss": "更加厉害"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-019",
+      "order": 19,
+      "text": "且臣少仕伪朝，历职郎署，本图宦达，不矜名节。",
+      "translation": "况且我年轻时在伪朝做官，历任郎官衙署的职务，本来就希望仕途显达，并不看重名声节操。",
+      "tokens": [
+        {
+          "surface": "仕",
+          "pos": "动词",
+          "gloss": "做官"
+        },
+        {
+          "surface": "伪朝",
+          "pos": "名词",
+          "gloss": "指蜀汉"
+        },
+        {
+          "surface": "历职",
+          "pos": "动词",
+          "gloss": "历任官职"
+        },
+        {
+          "surface": "郎署",
+          "pos": "名词",
+          "gloss": "郎官的衙署"
+        },
+        {
+          "surface": "图",
+          "pos": "动词",
+          "gloss": "希望"
+        },
+        {
+          "surface": "宦达",
+          "pos": "动词",
+          "gloss": "仕途显达"
+        },
+        {
+          "surface": "矜",
+          "pos": "动词",
+          "gloss": "看重"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-020",
+      "order": 20,
+      "text": "今臣亡国贱俘，至微至陋，过蒙拔擢，宠命优渥，岂敢盘桓，有所希冀。",
+      "translation": "如今我是亡国的卑贱俘虏，极其卑微浅陋，过分蒙受提拔，恩宠优厚，怎么敢徘徊不前，另有企求。",
+      "tokens": [
+        {
+          "surface": "贱俘",
+          "pos": "名词",
+          "gloss": "卑贱的俘虏"
+        },
+        {
+          "surface": "至",
+          "pos": "副词",
+          "gloss": "极其"
+        },
+        {
+          "surface": "陋",
+          "pos": "形容词",
+          "gloss": "浅陋"
+        },
+        {
+          "surface": "过",
+          "pos": "副词",
+          "gloss": "过分地"
+        },
+        {
+          "surface": "拔擢",
+          "pos": "动词",
+          "gloss": "提拔"
+        },
+        {
+          "surface": "优渥",
+          "pos": "形容词",
+          "gloss": "优厚"
+        },
+        {
+          "surface": "盘桓",
+          "pos": "动词",
+          "gloss": "徘徊不前"
+        },
+        {
+          "surface": "希冀",
+          "pos": "动词",
+          "gloss": "企求"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-021",
+      "order": 21,
+      "text": "但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。",
+      "translation": "只是因为祖母刘氏像太阳将落西山，气息微弱，生命垂危，朝不保夕。",
+      "tokens": [
+        {
+          "surface": "但",
+          "pos": "副词",
+          "gloss": "只"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "薄",
+          "pos": "动词",
+          "gloss": "迫近"
+        },
+        {
+          "surface": "奄奄",
+          "pos": "形容词",
+          "gloss": "气息微弱的样子"
+        },
+        {
+          "surface": "危浅",
+          "pos": "形容词",
+          "gloss": "危急浅短"
+        },
+        {
+          "surface": "朝不虑夕",
+          "pos": "固定结构",
+          "gloss": "早晨不能预料晚上，指朝不保夕"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-022",
+      "order": 22,
+      "text": "臣无祖母，无以至今日；祖母无臣，无以终余年。",
+      "translation": "我没有祖母，就活不到今天；祖母没有我，就无法度过余生。",
+      "tokens": [
+        {
+          "surface": "无以",
+          "pos": "固定结构",
+          "gloss": "没有办法"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "终",
+          "pos": "动词",
+          "gloss": "度过"
+        },
+        {
+          "surface": "余年",
+          "pos": "名词",
+          "gloss": "余生"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-023",
+      "order": 23,
+      "text": "母、孙二人，更相为命，是以区区不能废远。",
+      "translation": "我们祖孙二人，相依为命，因此我的一点私心不能废止奉养而远离。",
+      "tokens": [
+        {
+          "surface": "更相",
+          "pos": "副词",
+          "gloss": "互相"
+        },
+        {
+          "surface": "为命",
+          "pos": "动词",
+          "gloss": "维持生命"
+        },
+        {
+          "surface": "是以",
+          "pos": "连词",
+          "gloss": "因此"
+        },
+        {
+          "surface": "区区",
+          "pos": "名词",
+          "gloss": "拳拳之心，指私情"
+        },
+        {
+          "surface": "废远",
+          "pos": "动词",
+          "gloss": "废止奉养而远离"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-024",
+      "order": 24,
+      "text": "臣密今年四十有四，祖母今年九十有六，是臣尽节于陛下之日长，报养刘之日短也。",
+      "translation": "我今年四十四岁，祖母今年九十六岁，这样看来我尽忠陛下的日子长，报答奉养祖母的日子短。",
+      "tokens": [
+        {
+          "surface": "有",
+          "pos": "连词",
+          "gloss": "通“又”，用于整数与零数之间"
+        },
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这样看来"
+        },
+        {
+          "surface": "尽节",
+          "pos": "动词",
+          "gloss": "尽忠"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "对"
+        },
+        {
+          "surface": "陛下",
+          "pos": "名词",
+          "gloss": "对皇帝的尊称"
+        },
+        {
+          "surface": "报养",
+          "pos": "动词",
+          "gloss": "报答奉养"
+        },
+        {
+          "surface": "短",
+          "pos": "形容词",
+          "gloss": "短"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-025",
+      "order": 25,
+      "text": "乌鸟私情，愿乞终养。",
+      "translation": "我怀着乌鸦反哺般的私情，请求允许我奉养祖母到终老。",
+      "tokens": [
+        {
+          "surface": "乌鸟私情",
+          "pos": "固定结构",
+          "gloss": "乌鸦反哺之情，喻孝心"
+        },
+        {
+          "surface": "愿",
+          "pos": "动词",
+          "gloss": "希望"
+        },
+        {
+          "surface": "乞",
+          "pos": "动词",
+          "gloss": "请求"
+        },
+        {
+          "surface": "终养",
+          "pos": "动词",
+          "gloss": "奉养到终老"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-026",
+      "order": 26,
+      "text": "臣之辛苦，非独蜀之人士及二州牧伯所见明知，皇天后土实所共鉴。",
+      "translation": "我的辛酸苦楚，不只是蜀地人士和两州长官所看见、了解的，天地神明实在都共同明察。",
+      "tokens": [
+        {
+          "surface": "辛苦",
+          "pos": "名词",
+          "gloss": "辛酸苦楚"
+        },
+        {
+          "surface": "非独",
+          "pos": "连词",
+          "gloss": "不只是"
+        },
+        {
+          "surface": "牧伯",
+          "pos": "名词",
+          "gloss": "州郡长官"
+        },
+        {
+          "surface": "所见明知",
+          "pos": "固定结构",
+          "gloss": "所看见、所了解的"
+        },
+        {
+          "surface": "皇天后土",
+          "pos": "名词",
+          "gloss": "天地神明"
+        },
+        {
+          "surface": "鉴",
+          "pos": "动词",
+          "gloss": "明察"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-027",
+      "order": 27,
+      "text": "愿陛下矜悯愚诚，听臣微志，庶刘侥幸，保卒余年。",
+      "translation": "希望陛下怜惜我愚昧的诚心，听从我微小的志愿，或许祖母能侥幸地保全余生。",
+      "tokens": [
+        {
+          "surface": "矜悯",
+          "pos": "动词",
+          "gloss": "怜惜"
+        },
+        {
+          "surface": "愚诚",
+          "pos": "名词",
+          "gloss": "愚昧的诚心"
+        },
+        {
+          "surface": "听",
+          "pos": "动词",
+          "gloss": "听从，允许"
+        },
+        {
+          "surface": "微志",
+          "pos": "名词",
+          "gloss": "微小的心愿"
+        },
+        {
+          "surface": "庶",
+          "pos": "副词",
+          "gloss": "或许"
+        },
+        {
+          "surface": "侥幸",
+          "pos": "形容词",
+          "gloss": "幸运"
+        },
+        {
+          "surface": "保卒",
+          "pos": "动词",
+          "gloss": "保全到终"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-028",
+      "order": 28,
+      "text": "臣生当陨首，死当结草。",
+      "translation": "我活着应当牺牲生命报效，死了也要结草报恩。",
+      "tokens": [
+        {
+          "surface": "生",
+          "pos": "名词",
+          "gloss": "活着"
+        },
+        {
+          "surface": "陨首",
+          "pos": "动词",
+          "gloss": "牺牲生命"
+        },
+        {
+          "surface": "死",
+          "pos": "动词",
+          "gloss": "死后"
+        },
+        {
+          "surface": "结草",
+          "pos": "动词",
+          "gloss": "结草报恩（典故）"
+        }
+      ]
+    },
+    {
+      "id": "chenqingbiao-029",
+      "order": 29,
+      "text": "臣不胜犬马怖惧之情，谨拜表以闻。",
+      "translation": "我怀着如同犬马般不胜恐惧的心情，恭敬地呈上此表禀告。",
+      "tokens": [
+        {
+          "surface": "不胜",
+          "pos": "动词",
+          "gloss": "禁受不住"
+        },
+        {
+          "surface": "犬马",
+          "pos": "名词",
+          "gloss": "谦辞，指自己"
+        },
+        {
+          "surface": "怖惧",
+          "pos": "动词",
+          "gloss": "恐惧"
+        },
+        {
+          "surface": "谨",
+          "pos": "副词",
+          "gloss": "恭敬地"
+        },
+        {
+          "surface": "拜表",
+          "pos": "动词",
+          "gloss": "呈上奏表"
+        },
+        {
+          "surface": "以闻",
+          "pos": "固定结构",
+          "gloss": "用来禀告"
+        }
+      ]
+    }
+  ]
+}

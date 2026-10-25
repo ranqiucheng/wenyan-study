@@ -1,0 +1,872 @@
+{
+  "id": "qulieyuan",
+  "title": "屈原列传（节选）",
+  "author": "司马迁",
+  "source": "《史记》",
+  "volume": "选择性必修中册",
+  "tags": [
+    "课标",
+    "史传"
+  ],
+  "reviewed": true,
+  "summary": "记述屈原的生平遭遇与《离骚》的创作缘由，赞颂其正道直行、志洁行廉的品格。",
+  "sentences": [
+    {
+      "id": "qulieyuan-001",
+      "order": 1,
+      "text": "屈原者，名平，楚之同姓也。",
+      "translation": "屈原，名平，是楚国王族的同姓。",
+      "tokens": [
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "用在主语后表停顿"
+        },
+        {
+          "surface": "名",
+          "pos": "名词",
+          "gloss": "名字"
+        },
+        {
+          "surface": "同姓",
+          "pos": "名词",
+          "gloss": "同宗族的人"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-002",
+      "order": 2,
+      "text": "为楚怀王左徒。",
+      "translation": "担任楚怀王的左徒。",
+      "tokens": [
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "担任"
+        },
+        {
+          "surface": "左徒",
+          "pos": "名词",
+          "gloss": "官名，参与议论国事、发布号令"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-003",
+      "order": 3,
+      "text": "博闻强志，明于治乱，娴于辞令。",
+      "translation": "见闻广博，记忆力强，通晓国家治乱的道理，擅长外交辞令。",
+      "tokens": [
+        {
+          "surface": "博闻",
+          "pos": "形容词",
+          "gloss": "见闻广博"
+        },
+        {
+          "surface": "强志",
+          "pos": "形容词",
+          "gloss": "记忆力强"
+        },
+        {
+          "surface": "明",
+          "pos": "动词",
+          "gloss": "通晓"
+        },
+        {
+          "surface": "治乱",
+          "pos": "名词",
+          "gloss": "国家治乱的道理"
+        },
+        {
+          "surface": "娴",
+          "pos": "动词",
+          "gloss": "熟练、擅长"
+        },
+        {
+          "surface": "辞令",
+          "pos": "名词",
+          "gloss": "应对的言辞"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-004",
+      "order": 4,
+      "text": "入则与王图议国事，以出号令；",
+      "translation": "在朝廷内与楚王商议国事，发布号令；",
+      "tokens": [
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "指在朝廷内"
+        },
+        {
+          "surface": "图议",
+          "pos": "动词",
+          "gloss": "谋划商议"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "发布"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-005",
+      "order": 5,
+      "text": "出则接遇宾客，应对诸侯。",
+      "translation": "对外接待宾客，应酬诸侯。",
+      "tokens": [
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "指对外"
+        },
+        {
+          "surface": "接遇",
+          "pos": "动词",
+          "gloss": "接待"
+        },
+        {
+          "surface": "应对",
+          "pos": "动词",
+          "gloss": "应酬"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-006",
+      "order": 6,
+      "text": "王甚任之。",
+      "translation": "楚王非常信任他。",
+      "tokens": [
+        {
+          "surface": "甚",
+          "pos": "副词",
+          "gloss": "很、非常"
+        },
+        {
+          "surface": "任",
+          "pos": "动词",
+          "gloss": "信任"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指屈原"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-007",
+      "order": 7,
+      "text": "上官大夫与之同列，争宠而心害其能。",
+      "translation": "上官大夫与屈原同朝做官，争夺宠幸，心里嫉妒屈原的才能。",
+      "tokens": [
+        {
+          "surface": "同列",
+          "pos": "动词",
+          "gloss": "同朝为官"
+        },
+        {
+          "surface": "争宠",
+          "pos": "动词",
+          "gloss": "争夺宠幸"
+        },
+        {
+          "surface": "害",
+          "pos": "动词",
+          "gloss": "嫉妒"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "他的，指屈原"
+        },
+        {
+          "surface": "能",
+          "pos": "名词",
+          "gloss": "才能"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-008",
+      "order": 8,
+      "text": "怀王使屈原造为宪令，屈平属草稿未定。",
+      "translation": "楚怀王让屈原制定国家法令，屈原起草的稿子还没有定稿。",
+      "tokens": [
+        {
+          "surface": "造为",
+          "pos": "动词",
+          "gloss": "制定"
+        },
+        {
+          "surface": "宪令",
+          "pos": "名词",
+          "gloss": "国家法令"
+        },
+        {
+          "surface": "属",
+          "pos": "动词",
+          "gloss": "撰写"
+        },
+        {
+          "surface": "草稿",
+          "pos": "名词",
+          "gloss": "初稿"
+        },
+        {
+          "surface": "未定",
+          "pos": "动词",
+          "gloss": "没有定稿"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-009",
+      "order": 9,
+      "text": "上官大夫见而欲夺之，屈平不与。",
+      "translation": "上官大夫看见了想要抢夺它，屈原不肯给他。",
+      "tokens": [
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "看见"
+        },
+        {
+          "surface": "夺",
+          "pos": "动词",
+          "gloss": "抢夺"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指草稿"
+        },
+        {
+          "surface": "与",
+          "pos": "动词",
+          "gloss": "给"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-010",
+      "order": 10,
+      "text": "因谗之曰：“王使屈平为令，众莫不知。",
+      "translation": "于是（上官大夫）在楚王面前诋毁屈原说：“大王让屈原制定法令，众人没有谁不知道。",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "连词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "谗",
+          "pos": "动词",
+          "gloss": "说坏话诋毁"
+        },
+        {
+          "surface": "为令",
+          "pos": "动词",
+          "gloss": "制定法令"
+        },
+        {
+          "surface": "莫",
+          "pos": "代词",
+          "gloss": "没有谁"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-011",
+      "order": 11,
+      "text": "每一令出，平伐其功，曰以为‘非我莫能为’也。”",
+      "translation": "每颁布一条法令，屈原就夸耀自己的功劳，说‘除了我没有人能制定出来’。",
+      "tokens": [
+        {
+          "surface": "每",
+          "pos": "副词",
+          "gloss": "每当"
+        },
+        {
+          "surface": "伐",
+          "pos": "动词",
+          "gloss": "夸耀"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "自己的"
+        },
+        {
+          "surface": "功",
+          "pos": "名词",
+          "gloss": "功劳"
+        },
+        {
+          "surface": "莫",
+          "pos": "代词",
+          "gloss": "没有人"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "制定"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-012",
+      "order": 12,
+      "text": "王怒而疏屈平。",
+      "translation": "楚王发怒，因而疏远了屈原。",
+      "tokens": [
+        {
+          "surface": "怒",
+          "pos": "动词",
+          "gloss": "发怒"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "因而"
+        },
+        {
+          "surface": "疏",
+          "pos": "动词",
+          "gloss": "疏远"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-013",
+      "order": 13,
+      "text": "屈平疾王听之不聪也，谗谄之蔽明也，邪曲之害公也，方正之不容也，故忧愁幽思而作《离骚》。",
+      "translation": "屈原痛心楚王听信谗言不能明辨是非，谄媚小人蒙蔽了君王的明察，邪恶之人损害公正，端方正直的人不被容纳，所以忧愁深思而写下了《离骚》。",
+      "tokens": [
+        {
+          "surface": "疾",
+          "pos": "动词",
+          "gloss": "痛心"
+        },
+        {
+          "surface": "听",
+          "pos": "名词",
+          "gloss": "听觉，指听信谗言"
+        },
+        {
+          "surface": "不聪",
+          "pos": "形容词",
+          "gloss": "不明察"
+        },
+        {
+          "surface": "谗谄",
+          "pos": "名词",
+          "gloss": "谄媚的小人"
+        },
+        {
+          "surface": "蔽明",
+          "pos": "动词",
+          "gloss": "蒙蔽明察"
+        },
+        {
+          "surface": "邪曲",
+          "pos": "名词",
+          "gloss": "邪恶不正的人"
+        },
+        {
+          "surface": "方正",
+          "pos": "名词",
+          "gloss": "端方正直的人"
+        },
+        {
+          "surface": "作",
+          "pos": "动词",
+          "gloss": "写作"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-014",
+      "order": 14,
+      "text": "“离骚”者，犹离忧也。",
+      "translation": "“离骚”，就是遭遇忧愁的意思。",
+      "tokens": [
+        {
+          "surface": "犹",
+          "pos": "动词",
+          "gloss": "如同、就是"
+        },
+        {
+          "surface": "离忧",
+          "pos": "动词",
+          "gloss": "遭遇忧愁，“离”通“罹”"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-015",
+      "order": 15,
+      "text": "夫天者，人之始也；父母者，人之本也。",
+      "translation": "上天，是人的起源；父母，是人的根本。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "始",
+          "pos": "名词",
+          "gloss": "起源"
+        },
+        {
+          "surface": "本",
+          "pos": "名词",
+          "gloss": "根本"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-016",
+      "order": 16,
+      "text": "人穷则反本，故劳苦倦极，未尝不呼天也；",
+      "translation": "人处境困窘就会追念根本，所以劳累辛苦疲倦到极点时，没有不呼喊上天的；",
+      "tokens": [
+        {
+          "surface": "穷",
+          "pos": "形容词",
+          "gloss": "处境困窘"
+        },
+        {
+          "surface": "反",
+          "pos": "动词",
+          "gloss": "通“返”，回归"
+        },
+        {
+          "surface": "本",
+          "pos": "名词",
+          "gloss": "根本"
+        },
+        {
+          "surface": "倦极",
+          "pos": "形容词",
+          "gloss": "疲倦到极点"
+        },
+        {
+          "surface": "未尝",
+          "pos": "副词",
+          "gloss": "不曾"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-017",
+      "order": 17,
+      "text": "疾痛惨怛，未尝不呼父母也。",
+      "translation": "生病疼痛、忧伤悲痛时，没有不呼喊父母的。",
+      "tokens": [
+        {
+          "surface": "疾痛",
+          "pos": "名词",
+          "gloss": "疾病疼痛"
+        },
+        {
+          "surface": "惨怛",
+          "pos": "形容词",
+          "gloss": "忧伤悲痛"
+        },
+        {
+          "surface": "未尝",
+          "pos": "副词",
+          "gloss": "不曾"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-018",
+      "order": 18,
+      "text": "屈平正道直行，竭忠尽智，以事其君，谗人间之，可谓穷矣。",
+      "translation": "屈原行为正直，竭尽忠心和智慧来侍奉他的君王，却被谗佞小人离间，可以说是处境困窘了。",
+      "tokens": [
+        {
+          "surface": "正道直行",
+          "pos": "动词",
+          "gloss": "行为正直"
+        },
+        {
+          "surface": "竭忠尽智",
+          "pos": "动词",
+          "gloss": "竭尽忠心和智慧"
+        },
+        {
+          "surface": "事",
+          "pos": "动词",
+          "gloss": "侍奉"
+        },
+        {
+          "surface": "间",
+          "pos": "动词",
+          "gloss": "离间"
+        },
+        {
+          "surface": "穷",
+          "pos": "形容词",
+          "gloss": "处境困窘"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-019",
+      "order": 19,
+      "text": "信而见疑，忠而被谤，能无怨乎？",
+      "translation": "诚信却被怀疑，忠诚却被诽谤，能没有怨恨吗？",
+      "tokens": [
+        {
+          "surface": "信",
+          "pos": "形容词",
+          "gloss": "诚信"
+        },
+        {
+          "surface": "见",
+          "pos": "助词",
+          "gloss": "表被动"
+        },
+        {
+          "surface": "谤",
+          "pos": "动词",
+          "gloss": "诽谤"
+        },
+        {
+          "surface": "乎",
+          "pos": "助词",
+          "gloss": "表疑问语气"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-020",
+      "order": 20,
+      "text": "屈平之作《离骚》，盖自怨生也。",
+      "translation": "屈原创作《离骚》，大概是由怨恨而生的。",
+      "tokens": [
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "盖",
+          "pos": "副词",
+          "gloss": "大概"
+        },
+        {
+          "surface": "自",
+          "pos": "介词",
+          "gloss": "从"
+        },
+        {
+          "surface": "生",
+          "pos": "动词",
+          "gloss": "产生"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-021",
+      "order": 21,
+      "text": "《国风》好色而不淫，《小雅》怨诽而不乱。",
+      "translation": "《国风》写男女之情而不过分，《小雅》有怨恨讥刺而不悖乱。",
+      "tokens": [
+        {
+          "surface": "好色",
+          "pos": "动词",
+          "gloss": "喜爱美色，指写男女之情"
+        },
+        {
+          "surface": "淫",
+          "pos": "形容词",
+          "gloss": "过分"
+        },
+        {
+          "surface": "怨诽",
+          "pos": "动词",
+          "gloss": "怨恨讥刺"
+        },
+        {
+          "surface": "乱",
+          "pos": "形容词",
+          "gloss": "悖乱"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-022",
+      "order": 22,
+      "text": "若《离骚》者，可谓兼之矣。",
+      "translation": "像《离骚》这样的作品，可以说是兼有两者之长了。",
+      "tokens": [
+        {
+          "surface": "若",
+          "pos": "动词",
+          "gloss": "像"
+        },
+        {
+          "surface": "兼",
+          "pos": "动词",
+          "gloss": "兼有"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指两者之长"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-023",
+      "order": 23,
+      "text": "上称帝喾，下道齐桓，中述汤、武，以刺世事。",
+      "translation": "往上称述帝喾，往下称道齐桓公，中间称述商汤、周武王，用来讥刺当世政事。",
+      "tokens": [
+        {
+          "surface": "称",
+          "pos": "动词",
+          "gloss": "称述"
+        },
+        {
+          "surface": "道",
+          "pos": "动词",
+          "gloss": "称道"
+        },
+        {
+          "surface": "述",
+          "pos": "动词",
+          "gloss": "称述"
+        },
+        {
+          "surface": "刺",
+          "pos": "动词",
+          "gloss": "讥刺"
+        },
+        {
+          "surface": "世事",
+          "pos": "名词",
+          "gloss": "当世政事"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-024",
+      "order": 24,
+      "text": "明道德之广崇，治乱之条贯，靡不毕见。",
+      "translation": "阐明道德的广大崇高、治乱的条理，没有不完全显现的。",
+      "tokens": [
+        {
+          "surface": "明",
+          "pos": "动词",
+          "gloss": "阐明"
+        },
+        {
+          "surface": "广崇",
+          "pos": "形容词",
+          "gloss": "广大崇高"
+        },
+        {
+          "surface": "条贯",
+          "pos": "名词",
+          "gloss": "条理"
+        },
+        {
+          "surface": "靡",
+          "pos": "代词",
+          "gloss": "没有"
+        },
+        {
+          "surface": "毕见",
+          "pos": "动词",
+          "gloss": "完全显现，“见”通“现”"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-025",
+      "order": 25,
+      "text": "其文约，其辞微，其志洁，其行廉。",
+      "translation": "他的文辞简约，他的言辞含蓄，他的志趣高洁，他的品行端正。",
+      "tokens": [
+        {
+          "surface": "约",
+          "pos": "形容词",
+          "gloss": "简约"
+        },
+        {
+          "surface": "微",
+          "pos": "形容词",
+          "gloss": "含蓄"
+        },
+        {
+          "surface": "洁",
+          "pos": "形容词",
+          "gloss": "高洁"
+        },
+        {
+          "surface": "廉",
+          "pos": "形容词",
+          "gloss": "正直、端正"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-026",
+      "order": 26,
+      "text": "其称文小而其指极大，举类迩而见义远。",
+      "translation": "他用的文字简短而旨意极大，列举的事例浅近而表达的意义深远。",
+      "tokens": [
+        {
+          "surface": "称文",
+          "pos": "动词",
+          "gloss": "运用文字"
+        },
+        {
+          "surface": "指",
+          "pos": "名词",
+          "gloss": "通“旨”，旨意"
+        },
+        {
+          "surface": "举类",
+          "pos": "动词",
+          "gloss": "列举事物"
+        },
+        {
+          "surface": "迩",
+          "pos": "形容词",
+          "gloss": "近"
+        },
+        {
+          "surface": "见义",
+          "pos": "动词",
+          "gloss": "表达意义"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-027",
+      "order": 27,
+      "text": "其志洁，故其称物芳；其行廉，故死而不容。",
+      "translation": "他的志趣高洁，所以称许的事物芬芳；他的品行端正，所以至死不被世俗容纳。",
+      "tokens": [
+        {
+          "surface": "洁",
+          "pos": "形容词",
+          "gloss": "高洁"
+        },
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "称物芳",
+          "pos": "动词",
+          "gloss": "所称之物芬芳"
+        },
+        {
+          "surface": "不容",
+          "pos": "动词",
+          "gloss": "不被容纳"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-028",
+      "order": 28,
+      "text": "自疏濯淖污泥之中，蝉蜕于浊秽，以浮游尘埃之外，不获世之滋垢，皭然泥而不滓者也。",
+      "translation": "他自觉远离污泥浊水，像蝉脱壳于污秽之中，浮游于尘埃之外，不沾染世俗的污垢，洁白干净，虽在泥中而不被污染。",
+      "tokens": [
+        {
+          "surface": "自疏",
+          "pos": "动词",
+          "gloss": "自我远离"
+        },
+        {
+          "surface": "濯淖",
+          "pos": "名词",
+          "gloss": "污浊"
+        },
+        {
+          "surface": "蝉蜕",
+          "pos": "动词",
+          "gloss": "像蝉脱壳"
+        },
+        {
+          "surface": "浮游",
+          "pos": "动词",
+          "gloss": "漫游"
+        },
+        {
+          "surface": "获",
+          "pos": "动词",
+          "gloss": "沾染"
+        },
+        {
+          "surface": "滋垢",
+          "pos": "名词",
+          "gloss": "污垢"
+        },
+        {
+          "surface": "皭然",
+          "pos": "形容词",
+          "gloss": "洁白的样子"
+        },
+        {
+          "surface": "滓",
+          "pos": "动词",
+          "gloss": "污染"
+        }
+      ]
+    },
+    {
+      "id": "qulieyuan-029",
+      "order": 29,
+      "text": "推此志也，虽与日月争光可也。",
+      "translation": "推论他这种志趣，即使与日月争光也是可以的。",
+      "tokens": [
+        {
+          "surface": "推",
+          "pos": "动词",
+          "gloss": "推论"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "即使"
+        },
+        {
+          "surface": "争光",
+          "pos": "动词",
+          "gloss": "比光辉"
+        }
+      ]
+    }
+  ]
+}

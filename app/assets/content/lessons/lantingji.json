@@ -1,0 +1,936 @@
+{
+  "id": "lantingji",
+  "title": "兰亭集序",
+  "author": "王羲之",
+  "source": "《晋书》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "序"
+  ],
+  "reviewed": true,
+  "summary": "记永和九年兰亭修禊之乐，由乐转悲，抒写死生无常、古今同慨的深沉感慨。",
+  "sentences": [
+    {
+      "id": "lantingji-001",
+      "order": 1,
+      "text": "永和九年，岁在癸丑，暮春之初，会于会稽山阴之兰亭，修禊事也。",
+      "translation": "永和九年，也就是癸丑年，暮春三月初，我们在会稽郡山阴县的兰亭聚会，举行修禊活动。",
+      "tokens": [
+        {
+          "surface": "永和九年",
+          "pos": "名词",
+          "gloss": "东晋穆帝年号"
+        },
+        {
+          "surface": "癸丑",
+          "pos": "名词",
+          "gloss": "干支纪年，即公元353年"
+        },
+        {
+          "surface": "暮春",
+          "pos": "名词",
+          "gloss": "农历三月"
+        },
+        {
+          "surface": "会",
+          "pos": "动词",
+          "gloss": "聚会"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "会稽山阴",
+          "pos": "名词",
+          "gloss": "会稽郡山阴县"
+        },
+        {
+          "surface": "修禊",
+          "pos": "动词",
+          "gloss": "举行修禊，在水边洗濯以除不祥"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-002",
+      "order": 2,
+      "text": "群贤毕至，少长咸集。",
+      "translation": "众多贤士全都到来，年长的、年轻的都聚集在一起。",
+      "tokens": [
+        {
+          "surface": "群贤",
+          "pos": "名词",
+          "gloss": "众多贤士"
+        },
+        {
+          "surface": "毕",
+          "pos": "副词",
+          "gloss": "全、都"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "少长",
+          "pos": "名词",
+          "gloss": "年轻的、年长的"
+        },
+        {
+          "surface": "咸",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "集",
+          "pos": "动词",
+          "gloss": "聚集"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-003",
+      "order": 3,
+      "text": "此地有崇山峻岭，茂林修竹，又有清流激湍，映带左右。",
+      "translation": "这里有高峻的山岭、茂密的树林和修长的竹子，又有清澈的溪流和湍急的水流，辉映环绕在四周。",
+      "tokens": [
+        {
+          "surface": "崇山峻岭",
+          "pos": "名词",
+          "gloss": "高峻的山岭"
+        },
+        {
+          "surface": "修竹",
+          "pos": "名词",
+          "gloss": "长长的竹子"
+        },
+        {
+          "surface": "清流",
+          "pos": "名词",
+          "gloss": "清澈的溪流"
+        },
+        {
+          "surface": "激湍",
+          "pos": "名词",
+          "gloss": "流势急的水"
+        },
+        {
+          "surface": "映带",
+          "pos": "动词",
+          "gloss": "辉映环绕"
+        },
+        {
+          "surface": "左右",
+          "pos": "名词",
+          "gloss": "四周"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-004",
+      "order": 4,
+      "text": "引以为流觞曲水，列坐其次。",
+      "translation": "把溪水引来作为漂流酒杯的曲折水渠，大家排列坐在水边。",
+      "tokens": [
+        {
+          "surface": "引",
+          "pos": "动词",
+          "gloss": "引来"
+        },
+        {
+          "surface": "以为",
+          "pos": "固定结构",
+          "gloss": "把……作为"
+        },
+        {
+          "surface": "流觞曲水",
+          "pos": "名词",
+          "gloss": "漂流酒杯的曲折水渠"
+        },
+        {
+          "surface": "列坐",
+          "pos": "动词",
+          "gloss": "排列而坐"
+        },
+        {
+          "surface": "其次",
+          "pos": "名词",
+          "gloss": "它的旁边，指水边"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-005",
+      "order": 5,
+      "text": "虽无丝竹管弦之盛，一觞一咏，亦足以畅叙幽情。",
+      "translation": "虽然没有音乐演奏的盛况，但喝一杯酒、吟一首诗，也足够用来尽情抒发深远的情怀。",
+      "tokens": [
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "丝竹管弦",
+          "pos": "名词",
+          "gloss": "泛指音乐"
+        },
+        {
+          "surface": "盛",
+          "pos": "名词",
+          "gloss": "盛况"
+        },
+        {
+          "surface": "一觞一咏",
+          "pos": "固定结构",
+          "gloss": "喝一杯酒、吟一首诗"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "足以",
+          "pos": "固定结构",
+          "gloss": "足够用来"
+        },
+        {
+          "surface": "畅叙",
+          "pos": "动词",
+          "gloss": "尽情抒发"
+        },
+        {
+          "surface": "幽情",
+          "pos": "名词",
+          "gloss": "深远的情怀"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-006",
+      "order": 6,
+      "text": "是日也，天朗气清，惠风和畅。",
+      "translation": "这一天，天空晴朗，空气清新，和风温和舒畅。",
+      "tokens": [
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "天朗气清",
+          "pos": "形容词",
+          "gloss": "天空晴朗，空气清新"
+        },
+        {
+          "surface": "惠风",
+          "pos": "名词",
+          "gloss": "和风"
+        },
+        {
+          "surface": "和畅",
+          "pos": "形容词",
+          "gloss": "温和舒畅"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-007",
+      "order": 7,
+      "text": "仰观宇宙之大，俯察品类之盛，所以游目骋怀，足以极视听之娱，信可乐也。",
+      "translation": "抬头观看宇宙的广大，低头察看万物的繁盛，用来纵目观赏、舒展胸怀，足够用来穷尽视听的乐趣，实在值得快乐。",
+      "tokens": [
+        {
+          "surface": "仰",
+          "pos": "动词",
+          "gloss": "抬头"
+        },
+        {
+          "surface": "宇宙",
+          "pos": "名词",
+          "gloss": "天地四方"
+        },
+        {
+          "surface": "俯",
+          "pos": "动词",
+          "gloss": "低头"
+        },
+        {
+          "surface": "品类",
+          "pos": "名词",
+          "gloss": "万物"
+        },
+        {
+          "surface": "所以",
+          "pos": "固定结构",
+          "gloss": "用来……的（方式）"
+        },
+        {
+          "surface": "游目骋怀",
+          "pos": "固定结构",
+          "gloss": "纵目观赏，舒展胸怀"
+        },
+        {
+          "surface": "极",
+          "pos": "动词",
+          "gloss": "穷尽"
+        },
+        {
+          "surface": "信",
+          "pos": "副词",
+          "gloss": "实在"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-008",
+      "order": 8,
+      "text": "夫人之相与，俯仰一世。",
+      "translation": "人们相互交往，一俯一仰之间便度过一生。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "人",
+          "pos": "名词",
+          "gloss": "人们"
+        },
+        {
+          "surface": "相与",
+          "pos": "动词",
+          "gloss": "交往"
+        },
+        {
+          "surface": "俯仰",
+          "pos": "名词",
+          "gloss": "一俯一仰之间，形容时间短暂"
+        },
+        {
+          "surface": "一世",
+          "pos": "名词",
+          "gloss": "一生"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-009",
+      "order": 9,
+      "text": "或取诸怀抱，悟言一室之内；或因寄所托，放浪形骸之外。",
+      "translation": "有的人从胸怀中取出抱负，在室内面对面交谈；有的人依凭所寄托的事物，在形体之外放纵不羁。",
+      "tokens": [
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有的人"
+        },
+        {
+          "surface": "诸",
+          "pos": "兼词",
+          "gloss": "之于"
+        },
+        {
+          "surface": "怀抱",
+          "pos": "名词",
+          "gloss": "胸怀抱负"
+        },
+        {
+          "surface": "悟言",
+          "pos": "动词",
+          "gloss": "面对面交谈"
+        },
+        {
+          "surface": "因",
+          "pos": "介词",
+          "gloss": "依凭"
+        },
+        {
+          "surface": "寄",
+          "pos": "动词",
+          "gloss": "寄托"
+        },
+        {
+          "surface": "放浪",
+          "pos": "动词",
+          "gloss": "放纵不羁"
+        },
+        {
+          "surface": "形骸",
+          "pos": "名词",
+          "gloss": "身体"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-010",
+      "order": 10,
+      "text": "虽趣舍万殊，静躁不同。",
+      "translation": "虽然取舍千差万别，安静与浮躁各不相同。",
+      "tokens": [
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "趣舍",
+          "pos": "名词",
+          "gloss": "取舍"
+        },
+        {
+          "surface": "万殊",
+          "pos": "形容词",
+          "gloss": "千差万别"
+        },
+        {
+          "surface": "静躁",
+          "pos": "名词",
+          "gloss": "安静与浮躁"
+        },
+        {
+          "surface": "不同",
+          "pos": "形容词",
+          "gloss": "不一样"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-011",
+      "order": 11,
+      "text": "当其欣于所遇，暂得于己，快然自足，不知老之将至。",
+      "translation": "当他们对所遇到的事物感到欣喜，暂时在自己身上得到满足，高兴地自我满足，不知道老年将要到来。",
+      "tokens": [
+        {
+          "surface": "当",
+          "pos": "介词",
+          "gloss": "当……时"
+        },
+        {
+          "surface": "欣",
+          "pos": "动词",
+          "gloss": "欣喜"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "对"
+        },
+        {
+          "surface": "所遇",
+          "pos": "名词",
+          "gloss": "遇到的事物"
+        },
+        {
+          "surface": "暂",
+          "pos": "副词",
+          "gloss": "一时"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "得到满足"
+        },
+        {
+          "surface": "快然",
+          "pos": "形容词",
+          "gloss": "高兴的样子"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-012",
+      "order": 12,
+      "text": "及其所之既倦，情随事迁，感慨系之矣。",
+      "translation": "等到他们所追求的事物已经厌倦，感情随着事情变化，感慨就随之产生了。",
+      "tokens": [
+        {
+          "surface": "及",
+          "pos": "连词",
+          "gloss": "等到"
+        },
+        {
+          "surface": "所之",
+          "pos": "名词",
+          "gloss": "所追求的事物"
+        },
+        {
+          "surface": "既",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "倦",
+          "pos": "动词",
+          "gloss": "厌倦"
+        },
+        {
+          "surface": "迁",
+          "pos": "动词",
+          "gloss": "变化"
+        },
+        {
+          "surface": "系",
+          "pos": "动词",
+          "gloss": "附着、随着"
+        },
+        {
+          "surface": "矣",
+          "pos": "助词",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-013",
+      "order": 13,
+      "text": "向之所欣，俯仰之间，已为陈迹，犹不能不以之兴怀。",
+      "translation": "从前所欣喜的事物，转瞬之间已经成为旧迹，还不能不因它引发感慨。",
+      "tokens": [
+        {
+          "surface": "向",
+          "pos": "副词",
+          "gloss": "从前"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "所欣",
+          "pos": "名词",
+          "gloss": "所欣喜的事物"
+        },
+        {
+          "surface": "俯仰之间",
+          "pos": "固定结构",
+          "gloss": "转瞬之间"
+        },
+        {
+          "surface": "陈迹",
+          "pos": "名词",
+          "gloss": "旧迹"
+        },
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "还"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "因"
+        },
+        {
+          "surface": "兴怀",
+          "pos": "动词",
+          "gloss": "引发感慨"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-014",
+      "order": 14,
+      "text": "况修短随化，终期于尽！",
+      "translation": "何况寿命长短顺从造化，最终都要归于消亡！",
+      "tokens": [
+        {
+          "surface": "况",
+          "pos": "连词",
+          "gloss": "何况"
+        },
+        {
+          "surface": "修短",
+          "pos": "名词",
+          "gloss": "寿命长短"
+        },
+        {
+          "surface": "随化",
+          "pos": "动词",
+          "gloss": "顺从造化"
+        },
+        {
+          "surface": "终",
+          "pos": "副词",
+          "gloss": "最终"
+        },
+        {
+          "surface": "期",
+          "pos": "动词",
+          "gloss": "至、归结"
+        },
+        {
+          "surface": "尽",
+          "pos": "动词",
+          "gloss": "消亡"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-015",
+      "order": 15,
+      "text": "古人云：“死生亦大矣。”岂不痛哉！",
+      "translation": "古人说：“死和生也是大事啊。”难道不令人悲痛吗！",
+      "tokens": [
+        {
+          "surface": "云",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "死生",
+          "pos": "名词",
+          "gloss": "死与生"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "大",
+          "pos": "形容词",
+          "gloss": "大事"
+        },
+        {
+          "surface": "矣",
+          "pos": "助词",
+          "gloss": "了"
+        },
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "难道"
+        },
+        {
+          "surface": "痛",
+          "pos": "形容词",
+          "gloss": "悲痛"
+        },
+        {
+          "surface": "哉",
+          "pos": "助词",
+          "gloss": "呢"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-016",
+      "order": 16,
+      "text": "每览昔人兴感之由，若合一契。",
+      "translation": "每当看到古人发生感慨的原因，就像符契一样完全吻合。",
+      "tokens": [
+        {
+          "surface": "每",
+          "pos": "副词",
+          "gloss": "每当"
+        },
+        {
+          "surface": "览",
+          "pos": "动词",
+          "gloss": "看"
+        },
+        {
+          "surface": "兴感",
+          "pos": "动词",
+          "gloss": "发生感慨"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "的"
+        },
+        {
+          "surface": "由",
+          "pos": "名词",
+          "gloss": "原因"
+        },
+        {
+          "surface": "若合",
+          "pos": "动词",
+          "gloss": "像符合"
+        },
+        {
+          "surface": "一契",
+          "pos": "名词",
+          "gloss": "一张符契"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-017",
+      "order": 17,
+      "text": "未尝不临文嗟悼，不能喻之于怀。",
+      "translation": "不曾不面对文章叹息哀伤，不能在心中明白它。",
+      "tokens": [
+        {
+          "surface": "未尝",
+          "pos": "副词",
+          "gloss": "不曾"
+        },
+        {
+          "surface": "临文",
+          "pos": "动词",
+          "gloss": "面对文章"
+        },
+        {
+          "surface": "嗟悼",
+          "pos": "动词",
+          "gloss": "叹息哀伤"
+        },
+        {
+          "surface": "喻",
+          "pos": "动词",
+          "gloss": "明白"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "怀",
+          "pos": "名词",
+          "gloss": "心中"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-018",
+      "order": 18,
+      "text": "固知一死生为虚诞，齐彭殇为妄作。",
+      "translation": "本来就知道把死和生看作一样是虚妄荒诞的，把长寿和短命看作相等是妄造的。",
+      "tokens": [
+        {
+          "surface": "固",
+          "pos": "副词",
+          "gloss": "本来"
+        },
+        {
+          "surface": "一",
+          "pos": "动词",
+          "gloss": "把……看作一样"
+        },
+        {
+          "surface": "死生",
+          "pos": "名词",
+          "gloss": "死与生"
+        },
+        {
+          "surface": "虚诞",
+          "pos": "形容词",
+          "gloss": "虚妄荒诞"
+        },
+        {
+          "surface": "齐",
+          "pos": "动词",
+          "gloss": "把……看作相等"
+        },
+        {
+          "surface": "彭殇",
+          "pos": "名词",
+          "gloss": "长寿与短命"
+        },
+        {
+          "surface": "妄作",
+          "pos": "名词",
+          "gloss": "妄造"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-019",
+      "order": 19,
+      "text": "后之视今，亦犹今之视昔。",
+      "translation": "后人看待现在，也就像现在看待过去一样。",
+      "tokens": [
+        {
+          "surface": "后",
+          "pos": "名词",
+          "gloss": "后人"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "取消句子独立性"
+        },
+        {
+          "surface": "视",
+          "pos": "动词",
+          "gloss": "看待"
+        },
+        {
+          "surface": "今",
+          "pos": "名词",
+          "gloss": "现在"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "犹",
+          "pos": "动词",
+          "gloss": "如同"
+        },
+        {
+          "surface": "昔",
+          "pos": "名词",
+          "gloss": "过去"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-020",
+      "order": 20,
+      "text": "悲夫！故列叙时人，录其所述。",
+      "translation": "可悲啊！所以我依次叙述当时的人，记录他们所作的诗文。",
+      "tokens": [
+        {
+          "surface": "悲夫",
+          "pos": "固定结构",
+          "gloss": "可悲啊"
+        },
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "列叙",
+          "pos": "动词",
+          "gloss": "依次叙述"
+        },
+        {
+          "surface": "时人",
+          "pos": "名词",
+          "gloss": "当时的人"
+        },
+        {
+          "surface": "录",
+          "pos": "动词",
+          "gloss": "记录"
+        },
+        {
+          "surface": "所述",
+          "pos": "名词",
+          "gloss": "所作的诗文"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-021",
+      "order": 21,
+      "text": "虽世殊事异，所以兴怀，其致一也。",
+      "translation": "虽然时代不同、事情不同，但用来引发感慨的原因，那情致是一样的。",
+      "tokens": [
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "世殊事异",
+          "pos": "固定结构",
+          "gloss": "时代不同，事情不同"
+        },
+        {
+          "surface": "所以",
+          "pos": "固定结构",
+          "gloss": "用来……的"
+        },
+        {
+          "surface": "兴怀",
+          "pos": "动词",
+          "gloss": "引发感慨"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "那"
+        },
+        {
+          "surface": "致",
+          "pos": "名词",
+          "gloss": "情致"
+        },
+        {
+          "surface": "一",
+          "pos": "形容词",
+          "gloss": "相同"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断"
+        }
+      ]
+    },
+    {
+      "id": "lantingji-022",
+      "order": 22,
+      "text": "后之览者，亦将有感于斯文。",
+      "translation": "后世的读者，也将对这篇文章有所感慨。",
+      "tokens": [
+        {
+          "surface": "后",
+          "pos": "名词",
+          "gloss": "后世"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "的"
+        },
+        {
+          "surface": "览者",
+          "pos": "名词",
+          "gloss": "读者"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "将",
+          "pos": "副词",
+          "gloss": "将要"
+        },
+        {
+          "surface": "有感",
+          "pos": "动词",
+          "gloss": "有感触"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "对"
+        },
+        {
+          "surface": "斯文",
+          "pos": "名词",
+          "gloss": "这篇文章"
+        }
+      ]
+    }
+  ]
+}

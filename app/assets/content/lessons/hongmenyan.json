@@ -1,0 +1,3409 @@
+{
+  "id": "hongmenyan",
+  "title": "鸿门宴",
+  "author": "司马迁",
+  "source": "《史记》",
+  "volume": "必修下册",
+  "tags": [
+    "课标",
+    "史传"
+  ],
+  "reviewed": true,
+  "summary": "项羽、刘邦在鸿门相会，杀机四伏；通过宴前、宴中、宴后的斗争，展现人物性格与历史转折。",
+  "sentences": [
+    {
+      "id": "hongmenyan-001",
+      "order": 1,
+      "text": "沛公军霸上，未得与项羽相见。",
+      "translation": "刘邦的军队驻扎在霸上，还没有能和项羽相见。",
+      "tokens": [
+        {
+          "surface": "军",
+          "pos": "名词作动词",
+          "gloss": "驻军"
+        },
+        {
+          "surface": "霸上",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "能够"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "同"
+        },
+        {
+          "surface": "相见",
+          "pos": "动词",
+          "gloss": "见面"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-002",
+      "order": 2,
+      "text": "沛公左司马曹无伤使人言于项羽曰：“沛公欲王关中，使子婴为相，珍宝尽有之。”",
+      "translation": "刘邦的左司马曹无伤派人告诉项羽说：“刘邦想在关中称王，让子婴做丞相，把珍宝全部占有了。”",
+      "tokens": [
+        {
+          "surface": "左司马",
+          "pos": "名词",
+          "gloss": "官名"
+        },
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "言于",
+          "pos": "动词",
+          "gloss": "对……说"
+        },
+        {
+          "surface": "王",
+          "pos": "名词作动词",
+          "gloss": "称王"
+        },
+        {
+          "surface": "关中",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "为相",
+          "pos": "动词",
+          "gloss": "做丞相"
+        },
+        {
+          "surface": "尽有",
+          "pos": "动词",
+          "gloss": "全部占有"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-003",
+      "order": 3,
+      "text": "项羽大怒，曰：“旦日飨士卒，为击破沛公军！”",
+      "translation": "项羽大怒，说：“明天早晨犒劳士兵，给我击败刘邦的军队！”",
+      "tokens": [
+        {
+          "surface": "旦日",
+          "pos": "名词",
+          "gloss": "明天"
+        },
+        {
+          "surface": "飨",
+          "pos": "动词",
+          "gloss": "犒劳"
+        },
+        {
+          "surface": "士卒",
+          "pos": "名词",
+          "gloss": "士兵"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "替、给"
+        },
+        {
+          "surface": "击破",
+          "pos": "动词",
+          "gloss": "击败"
+        },
+        {
+          "surface": "军",
+          "pos": "名词",
+          "gloss": "军队"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-004",
+      "order": 4,
+      "text": "当是时，项羽兵四十万，在新丰鸿门；沛公兵十万，在霸上。",
+      "translation": "在这个时候，项羽有四十万军队，驻扎在新丰鸿门；刘邦有十万军队，驻扎在霸上。",
+      "tokens": [
+        {
+          "surface": "当",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "是时",
+          "pos": "名词",
+          "gloss": "这时"
+        },
+        {
+          "surface": "兵",
+          "pos": "名词",
+          "gloss": "军队"
+        },
+        {
+          "surface": "四十万",
+          "pos": "数量词",
+          "gloss": "四十万"
+        },
+        {
+          "surface": "新丰鸿门",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "十万",
+          "pos": "数量词",
+          "gloss": "十万"
+        },
+        {
+          "surface": "霸上",
+          "pos": "名词",
+          "gloss": "地名"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-005",
+      "order": 5,
+      "text": "范增说项羽曰：“沛公居山东时，贪于财货，好美姬。",
+      "translation": "范增劝说项羽说：“刘邦住在崤山以东时，贪恋财物，喜爱美女。",
+      "tokens": [
+        {
+          "surface": "说",
+          "pos": "动词",
+          "gloss": "劝说"
+        },
+        {
+          "surface": "山东",
+          "pos": "名词",
+          "gloss": "崤山以东"
+        },
+        {
+          "surface": "贪",
+          "pos": "动词",
+          "gloss": "贪恋"
+        },
+        {
+          "surface": "财货",
+          "pos": "名词",
+          "gloss": "财物"
+        },
+        {
+          "surface": "好",
+          "pos": "动词",
+          "gloss": "喜爱"
+        },
+        {
+          "surface": "美姬",
+          "pos": "名词",
+          "gloss": "美女"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-006",
+      "order": 6,
+      "text": "今入关，财物无所取，妇女无所幸，此其志不在小。",
+      "translation": "如今进入关中，不取财物，不宠幸妇女，这说明他的志向不在小处。",
+      "tokens": [
+        {
+          "surface": "关",
+          "pos": "名词",
+          "gloss": "函谷关"
+        },
+        {
+          "surface": "无所",
+          "pos": "固定结构",
+          "gloss": "没有……的"
+        },
+        {
+          "surface": "取",
+          "pos": "动词",
+          "gloss": "拿取"
+        },
+        {
+          "surface": "幸",
+          "pos": "动词",
+          "gloss": "宠幸"
+        },
+        {
+          "surface": "志",
+          "pos": "名词",
+          "gloss": "志向"
+        },
+        {
+          "surface": "小",
+          "pos": "形容词",
+          "gloss": "小处"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-007",
+      "order": 7,
+      "text": "吾令人望其气，皆为龙虎，成五采，此天子气也。",
+      "translation": "我叫人观察他的云气，都呈现龙虎之形，形成五彩，这是天子的云气。",
+      "tokens": [
+        {
+          "surface": "望",
+          "pos": "动词",
+          "gloss": "观察"
+        },
+        {
+          "surface": "气",
+          "pos": "名词",
+          "gloss": "云气"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "龙虎",
+          "pos": "名词",
+          "gloss": "龙虎的形状"
+        },
+        {
+          "surface": "五采",
+          "pos": "名词",
+          "gloss": "五彩"
+        },
+        {
+          "surface": "天子",
+          "pos": "名词",
+          "gloss": "天子"
+        },
+        {
+          "surface": "气",
+          "pos": "名词",
+          "gloss": "云气"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-008",
+      "order": 8,
+      "text": "急击勿失！”",
+      "translation": "赶快攻击，不要失去机会！”",
+      "tokens": [
+        {
+          "surface": "急",
+          "pos": "副词",
+          "gloss": "赶快"
+        },
+        {
+          "surface": "击",
+          "pos": "动词",
+          "gloss": "攻击"
+        },
+        {
+          "surface": "勿",
+          "pos": "副词",
+          "gloss": "不要"
+        },
+        {
+          "surface": "失",
+          "pos": "动词",
+          "gloss": "失去时机"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-009",
+      "order": 9,
+      "text": "楚左尹项伯者，项羽季父也，素善留侯张良。",
+      "translation": "楚国的左尹项伯，是项羽的叔父，一向与留侯张良交好。",
+      "tokens": [
+        {
+          "surface": "左尹",
+          "pos": "名词",
+          "gloss": "官名"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表判断停顿"
+        },
+        {
+          "surface": "季父",
+          "pos": "名词",
+          "gloss": "叔父"
+        },
+        {
+          "surface": "素",
+          "pos": "副词",
+          "gloss": "一向"
+        },
+        {
+          "surface": "善",
+          "pos": "形容词作动词",
+          "gloss": "与……交好"
+        },
+        {
+          "surface": "留侯张良",
+          "pos": "名词",
+          "gloss": "张良"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-010",
+      "order": 10,
+      "text": "张良是时从沛公，项伯乃夜驰之沛公军，私见张良，具告以事，欲呼张良与俱去，曰：“毋从俱死也。”",
+      "translation": "张良这时跟随刘邦，项伯于是连夜骑马赶到刘邦军中，私下会见张良，把事情详细告诉他，想叫张良和他一起离开，说：“不要跟着一起送死。”",
+      "tokens": [
+        {
+          "surface": "从",
+          "pos": "动词",
+          "gloss": "跟随"
+        },
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "夜",
+          "pos": "名词作状语",
+          "gloss": "连夜"
+        },
+        {
+          "surface": "之",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "私",
+          "pos": "副词",
+          "gloss": "私下"
+        },
+        {
+          "surface": "具告",
+          "pos": "动词",
+          "gloss": "详细告诉"
+        },
+        {
+          "surface": "俱",
+          "pos": "副词",
+          "gloss": "一起"
+        },
+        {
+          "surface": "毋",
+          "pos": "副词",
+          "gloss": "不要"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-011",
+      "order": 11,
+      "text": "张良曰：“臣为韩王送沛公，沛公今事有急，亡去不义，不可不语。”",
+      "translation": "张良说：“我替韩王送刘邦，刘邦现在遇到急事，逃走是不合道义的，不能不告诉他。”",
+      "tokens": [
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "替"
+        },
+        {
+          "surface": "送",
+          "pos": "动词",
+          "gloss": "护送"
+        },
+        {
+          "surface": "急",
+          "pos": "名词",
+          "gloss": "急难"
+        },
+        {
+          "surface": "亡去",
+          "pos": "动词",
+          "gloss": "逃走"
+        },
+        {
+          "surface": "义",
+          "pos": "名词",
+          "gloss": "道义"
+        },
+        {
+          "surface": "语",
+          "pos": "动词",
+          "gloss": "告诉"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-012",
+      "order": 12,
+      "text": "良乃入，具告沛公。",
+      "translation": "张良于是进去，把情况详细告诉刘邦。",
+      "tokens": [
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        },
+        {
+          "surface": "具",
+          "pos": "副词",
+          "gloss": "详细"
+        },
+        {
+          "surface": "告",
+          "pos": "动词",
+          "gloss": "告诉"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-013",
+      "order": 13,
+      "text": "沛公大惊，曰：“为之奈何？”",
+      "translation": "刘邦大吃一惊，说：“对这件事怎么办呢？”",
+      "tokens": [
+        {
+          "surface": "大惊",
+          "pos": "动词",
+          "gloss": "大吃一惊"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "对"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "这件事"
+        },
+        {
+          "surface": "奈何",
+          "pos": "固定结构",
+          "gloss": "怎么办"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-014",
+      "order": 14,
+      "text": "张良曰：“谁为大王为此计者？”",
+      "translation": "张良说：“是谁替大王出这个计策的？”",
+      "tokens": [
+        {
+          "surface": "谁",
+          "pos": "代词",
+          "gloss": "谁"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "替"
+        },
+        {
+          "surface": "大王",
+          "pos": "名词",
+          "gloss": "大王"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "出"
+        },
+        {
+          "surface": "此计",
+          "pos": "名词",
+          "gloss": "这个计策"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表疑问语气"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-015",
+      "order": 15,
+      "text": "曰：“鲰生说我曰：‘距关，毋内诸侯，秦地可尽王也。’故听之。”",
+      "translation": "刘邦说：“有个浅陋的小人对我说：‘把守函谷关，不要接纳诸侯，秦地就可以全部称王了。’所以我听从了他。”",
+      "tokens": [
+        {
+          "surface": "鲰生",
+          "pos": "名词",
+          "gloss": "浅陋小人"
+        },
+        {
+          "surface": "说",
+          "pos": "动词",
+          "gloss": "劝说"
+        },
+        {
+          "surface": "距",
+          "pos": "动词",
+          "gloss": "通“拒”，把守"
+        },
+        {
+          "surface": "内",
+          "pos": "动词",
+          "gloss": "通“纳”，接纳"
+        },
+        {
+          "surface": "尽王",
+          "pos": "动词",
+          "gloss": "全部称王"
+        },
+        {
+          "surface": "听",
+          "pos": "动词",
+          "gloss": "听从"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-016",
+      "order": 16,
+      "text": "良曰：“料大王士卒足以当项王乎？”",
+      "translation": "张良说：“估计大王的军队足够用来抵挡项王吗？”",
+      "tokens": [
+        {
+          "surface": "料",
+          "pos": "动词",
+          "gloss": "估计"
+        },
+        {
+          "surface": "士卒",
+          "pos": "名词",
+          "gloss": "军队"
+        },
+        {
+          "surface": "足以",
+          "pos": "固定结构",
+          "gloss": "足够用来"
+        },
+        {
+          "surface": "当",
+          "pos": "动词",
+          "gloss": "抵挡"
+        },
+        {
+          "surface": "乎",
+          "pos": "助词",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-017",
+      "order": 17,
+      "text": "沛公默然，曰：“固不如也。且为之奈何？”",
+      "translation": "刘邦沉默了一会儿，说：“本来比不上他。将要怎么办呢？”",
+      "tokens": [
+        {
+          "surface": "默然",
+          "pos": "形容词",
+          "gloss": "沉默的样子"
+        },
+        {
+          "surface": "固",
+          "pos": "副词",
+          "gloss": "本来"
+        },
+        {
+          "surface": "如",
+          "pos": "动词",
+          "gloss": "比得上"
+        },
+        {
+          "surface": "且",
+          "pos": "副词",
+          "gloss": "将要"
+        },
+        {
+          "surface": "为之奈何",
+          "pos": "固定结构",
+          "gloss": "对此怎么办"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-018",
+      "order": 18,
+      "text": "张良曰：“请往谓项伯，言沛公不敢背项王也。”",
+      "translation": "张良说：“请让我去告诉项伯，说刘邦不敢背叛项王。”",
+      "tokens": [
+        {
+          "surface": "请",
+          "pos": "动词",
+          "gloss": "请允许我"
+        },
+        {
+          "surface": "往",
+          "pos": "动词",
+          "gloss": "去"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "告诉"
+        },
+        {
+          "surface": "言",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "背",
+          "pos": "动词",
+          "gloss": "背叛"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-019",
+      "order": 19,
+      "text": "沛公曰：“君安与项伯有故？”",
+      "translation": "刘邦说：“您怎么和项伯有旧交情？”",
+      "tokens": [
+        {
+          "surface": "君",
+          "pos": "代词",
+          "gloss": "您"
+        },
+        {
+          "surface": "安",
+          "pos": "副词",
+          "gloss": "怎么"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "同"
+        },
+        {
+          "surface": "故",
+          "pos": "名词",
+          "gloss": "旧交情"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-020",
+      "order": 20,
+      "text": "张良曰：“秦时与臣游，项伯杀人，臣活之；今事有急，故幸来告良。”",
+      "translation": "张良说：“秦朝时他和我交往，项伯杀了人，我救活了他；现在有急事，所以幸而他来告诉我。”",
+      "tokens": [
+        {
+          "surface": "游",
+          "pos": "动词",
+          "gloss": "交往"
+        },
+        {
+          "surface": "活",
+          "pos": "动词使动",
+          "gloss": "使……活"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "急",
+          "pos": "名词",
+          "gloss": "急事"
+        },
+        {
+          "surface": "幸",
+          "pos": "副词",
+          "gloss": "幸而"
+        },
+        {
+          "surface": "告",
+          "pos": "动词",
+          "gloss": "告诉"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-021",
+      "order": 21,
+      "text": "沛公曰：“孰与君少长？”",
+      "translation": "刘邦说：“他和你相比，谁年纪小、谁年纪大？”",
+      "tokens": [
+        {
+          "surface": "孰与",
+          "pos": "固定结构",
+          "gloss": "与……相比谁"
+        },
+        {
+          "surface": "君",
+          "pos": "代词",
+          "gloss": "你"
+        },
+        {
+          "surface": "少",
+          "pos": "形容词",
+          "gloss": "年纪小"
+        },
+        {
+          "surface": "长",
+          "pos": "形容词",
+          "gloss": "年纪大"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-022",
+      "order": 22,
+      "text": "良曰：“长于臣。”",
+      "translation": "张良说：“他比我大。”",
+      "tokens": [
+        {
+          "surface": "长",
+          "pos": "形容词",
+          "gloss": "年纪大"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "比"
+        },
+        {
+          "surface": "臣",
+          "pos": "代词",
+          "gloss": "我"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-023",
+      "order": 23,
+      "text": "沛公曰：“君为我呼入，吾得兄事之。”",
+      "translation": "刘邦说：“您替我把他叫进来，我要像对待兄长一样对待他。”",
+      "tokens": [
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "替"
+        },
+        {
+          "surface": "呼",
+          "pos": "动词",
+          "gloss": "叫"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "应当"
+        },
+        {
+          "surface": "兄",
+          "pos": "名词作状语",
+          "gloss": "像对待兄长一样"
+        },
+        {
+          "surface": "事",
+          "pos": "动词",
+          "gloss": "侍奉"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-024",
+      "order": 24,
+      "text": "张良出，要项伯。",
+      "translation": "张良出去，邀请项伯。",
+      "tokens": [
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "出去"
+        },
+        {
+          "surface": "要",
+          "pos": "动词",
+          "gloss": "通“邀”，邀请"
+        },
+        {
+          "surface": "项伯",
+          "pos": "名词",
+          "gloss": "项伯"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-025",
+      "order": 25,
+      "text": "项伯即入见沛公。",
+      "translation": "项伯就进去会见刘邦。",
+      "tokens": [
+        {
+          "surface": "即",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        },
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "会见"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-026",
+      "order": 26,
+      "text": "沛公奉卮酒为寿，约为婚姻，曰：“吾入关，秋毫不敢有所近，籍吏民，封府库，而待将军。",
+      "translation": "刘邦捧上一杯酒祝项伯长寿，约定结为儿女亲家，说：“我进入关中，连秋毫那样细微的东西都不敢接近，登记官吏百姓，封存府库，等待将军到来。",
+      "tokens": [
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "捧"
+        },
+        {
+          "surface": "卮酒",
+          "pos": "名词",
+          "gloss": "一杯酒"
+        },
+        {
+          "surface": "为寿",
+          "pos": "动词",
+          "gloss": "祝寿"
+        },
+        {
+          "surface": "婚姻",
+          "pos": "名词",
+          "gloss": "古今异义，儿女亲家"
+        },
+        {
+          "surface": "秋毫",
+          "pos": "名词",
+          "gloss": "细微之物"
+        },
+        {
+          "surface": "近",
+          "pos": "动词",
+          "gloss": "接近"
+        },
+        {
+          "surface": "籍",
+          "pos": "名词作动词",
+          "gloss": "登记"
+        },
+        {
+          "surface": "府库",
+          "pos": "名词",
+          "gloss": "仓库"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-027",
+      "order": 27,
+      "text": "所以遣将守关者，备他盗之出入与非常也。",
+      "translation": "派遣将领把守函谷关的原因，是防备其他盗贼出入和意外的变故。",
+      "tokens": [
+        {
+          "surface": "所以",
+          "pos": "固定结构",
+          "gloss": "……的原因"
+        },
+        {
+          "surface": "遣将",
+          "pos": "动词",
+          "gloss": "派遣将领"
+        },
+        {
+          "surface": "守关",
+          "pos": "动词",
+          "gloss": "把守函谷关"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表判断"
+        },
+        {
+          "surface": "备",
+          "pos": "动词",
+          "gloss": "防备"
+        },
+        {
+          "surface": "他盗",
+          "pos": "名词",
+          "gloss": "其他盗贼"
+        },
+        {
+          "surface": "出入",
+          "pos": "动词",
+          "gloss": "进出"
+        },
+        {
+          "surface": "非常",
+          "pos": "名词",
+          "gloss": "古今异义，意外的变故"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-028",
+      "order": 28,
+      "text": "日夜望将军至，岂敢反乎！",
+      "translation": "日夜盼望将军到来，怎么敢反叛呢！",
+      "tokens": [
+        {
+          "surface": "日夜",
+          "pos": "名词作状语",
+          "gloss": "日日夜夜"
+        },
+        {
+          "surface": "望",
+          "pos": "动词",
+          "gloss": "盼望"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到来"
+        },
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "怎么"
+        },
+        {
+          "surface": "敢",
+          "pos": "动词",
+          "gloss": "敢"
+        },
+        {
+          "surface": "反",
+          "pos": "动词",
+          "gloss": "反叛"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-029",
+      "order": 29,
+      "text": "愿伯具言臣之不敢倍德也。”",
+      "translation": "希望您详细说明我不敢背弃恩德。”",
+      "tokens": [
+        {
+          "surface": "愿",
+          "pos": "动词",
+          "gloss": "希望"
+        },
+        {
+          "surface": "伯",
+          "pos": "名词",
+          "gloss": "项伯"
+        },
+        {
+          "surface": "具言",
+          "pos": "动词",
+          "gloss": "详细说明"
+        },
+        {
+          "surface": "臣",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "倍德",
+          "pos": "动词",
+          "gloss": "背弃恩德"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-030",
+      "order": 30,
+      "text": "项伯许诺，谓沛公曰：“旦日不可不蚤自来谢项王。”",
+      "translation": "项伯答应了，对刘邦说：“明天不可不早些亲自来向项王谢罪。”",
+      "tokens": [
+        {
+          "surface": "许诺",
+          "pos": "动词",
+          "gloss": "答应"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "对……说"
+        },
+        {
+          "surface": "旦日",
+          "pos": "名词",
+          "gloss": "明天"
+        },
+        {
+          "surface": "蚤",
+          "pos": "副词",
+          "gloss": "通“早”"
+        },
+        {
+          "surface": "谢",
+          "pos": "动词",
+          "gloss": "谢罪"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-031",
+      "order": 31,
+      "text": "沛公曰：“诺。”",
+      "translation": "刘邦说：“好。”",
+      "tokens": [
+        {
+          "surface": "沛公",
+          "pos": "名词",
+          "gloss": "刘邦"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "诺",
+          "pos": "叹词",
+          "gloss": "答应声，好"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-032",
+      "order": 32,
+      "text": "于是项伯复夜去，至军中，具以沛公言报项王，因言曰：“沛公不先破关中，公岂敢入乎？",
+      "translation": "于是项伯又连夜离开，回到军营中，把刘邦的话详细报告项王，趁机说道：“刘邦不先攻破关中，您怎么敢进入呢？",
+      "tokens": [
+        {
+          "surface": "复",
+          "pos": "副词",
+          "gloss": "又"
+        },
+        {
+          "surface": "夜",
+          "pos": "名词作状语",
+          "gloss": "连夜"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "离开"
+        },
+        {
+          "surface": "具",
+          "pos": "副词",
+          "gloss": "详细"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "把"
+        },
+        {
+          "surface": "报",
+          "pos": "动词",
+          "gloss": "报告"
+        },
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "趁机"
+        },
+        {
+          "surface": "岂",
+          "pos": "副词",
+          "gloss": "怎么"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-033",
+      "order": 33,
+      "text": "今人有大功而击之，不义也。",
+      "translation": "现在人家有大功却攻击他，这是不合道义的。",
+      "tokens": [
+        {
+          "surface": "今人",
+          "pos": "名词",
+          "gloss": "现在人家"
+        },
+        {
+          "surface": "大功",
+          "pos": "名词",
+          "gloss": "大功"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "击",
+          "pos": "动词",
+          "gloss": "攻击"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "义",
+          "pos": "名词",
+          "gloss": "道义"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-034",
+      "order": 34,
+      "text": "不如因善遇之。”",
+      "translation": "不如趁机好好地对待他。”",
+      "tokens": [
+        {
+          "surface": "不如",
+          "pos": "动词",
+          "gloss": "不如"
+        },
+        {
+          "surface": "因",
+          "pos": "介词",
+          "gloss": "趁机"
+        },
+        {
+          "surface": "善",
+          "pos": "副词",
+          "gloss": "好好地"
+        },
+        {
+          "surface": "遇",
+          "pos": "动词",
+          "gloss": "对待"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-035",
+      "order": 35,
+      "text": "项王许诺。",
+      "translation": "项王答应了。",
+      "tokens": [
+        {
+          "surface": "项王",
+          "pos": "名词",
+          "gloss": "项王"
+        },
+        {
+          "surface": "许诺",
+          "pos": "动词",
+          "gloss": "答应"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-036",
+      "order": 36,
+      "text": "沛公旦日从百余骑来见项王，至鸿门，谢曰：“臣与将军戮力而攻秦，将军战河北，臣战河南，然不自意能先入关破秦，得复见将军于此。",
+      "translation": "刘邦第二天带着一百多人马来见项王，到了鸿门，谢罪说：“我和将军合力攻打秦朝，将军在黄河以北作战，我在黄河以南作战，然而我自己没有料想到能先进入关中攻破秦朝，能够在这里再次见到将军。",
+      "tokens": [
+        {
+          "surface": "从",
+          "pos": "动词使动",
+          "gloss": "使……跟随"
+        },
+        {
+          "surface": "百余骑",
+          "pos": "数量词",
+          "gloss": "一百多骑兵"
+        },
+        {
+          "surface": "谢",
+          "pos": "动词",
+          "gloss": "谢罪"
+        },
+        {
+          "surface": "戮力",
+          "pos": "动词",
+          "gloss": "合力"
+        },
+        {
+          "surface": "河北",
+          "pos": "名词",
+          "gloss": "黄河以北"
+        },
+        {
+          "surface": "河南",
+          "pos": "名词",
+          "gloss": "黄河以南"
+        },
+        {
+          "surface": "自意",
+          "pos": "动词",
+          "gloss": "自己料想"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "能够"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-037",
+      "order": 37,
+      "text": "今者有小人之言，令将军与臣有郤。”",
+      "translation": "现在有小人的谗言，使将军和我产生了隔阂。”",
+      "tokens": [
+        {
+          "surface": "今者",
+          "pos": "名词",
+          "gloss": "现在"
+        },
+        {
+          "surface": "小人",
+          "pos": "名词",
+          "gloss": "品德卑劣的人"
+        },
+        {
+          "surface": "言",
+          "pos": "名词",
+          "gloss": "谗言"
+        },
+        {
+          "surface": "令",
+          "pos": "动词",
+          "gloss": "使"
+        },
+        {
+          "surface": "郤",
+          "pos": "名词",
+          "gloss": "通“隙”，隔阂"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-038",
+      "order": 38,
+      "text": "项王曰：“此沛公左司马曹无伤言之。",
+      "translation": "项王说：“这是刘邦的左司马曹无伤说的。",
+      "tokens": [
+        {
+          "surface": "此",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "左司马",
+          "pos": "名词",
+          "gloss": "官名"
+        },
+        {
+          "surface": "曹无伤",
+          "pos": "名词",
+          "gloss": "人名"
+        },
+        {
+          "surface": "言",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "这件事"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-039",
+      "order": 39,
+      "text": "不然，籍何以至此？”",
+      "translation": "不然，我怎么会到这种地步？”",
+      "tokens": [
+        {
+          "surface": "不然",
+          "pos": "固定结构",
+          "gloss": "不这样"
+        },
+        {
+          "surface": "籍",
+          "pos": "名词",
+          "gloss": "项羽自称"
+        },
+        {
+          "surface": "何以",
+          "pos": "固定结构",
+          "gloss": "凭什么、怎么"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "此",
+          "pos": "代词",
+          "gloss": "这种地步"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-040",
+      "order": 40,
+      "text": "项王即日因留沛公与饮。",
+      "translation": "项王当天就留下刘邦，和他一起饮酒。",
+      "tokens": [
+        {
+          "surface": "即日",
+          "pos": "名词",
+          "gloss": "当天"
+        },
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "留",
+          "pos": "动词",
+          "gloss": "留下"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "饮",
+          "pos": "动词",
+          "gloss": "饮酒"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-041",
+      "order": 41,
+      "text": "项王、项伯东向坐；亚父南向坐，——亚父者，范增也；沛公北向坐；张良西向侍。",
+      "translation": "项王、项伯面向东坐着；亚父面向南坐着，——亚父就是范增；刘邦面向北坐着；张良面向西陪侍。",
+      "tokens": [
+        {
+          "surface": "东向",
+          "pos": "名词作状语",
+          "gloss": "面向东"
+        },
+        {
+          "surface": "南向",
+          "pos": "名词作状语",
+          "gloss": "面向南"
+        },
+        {
+          "surface": "亚父者，范增也",
+          "pos": "判断句",
+          "gloss": "亚父就是范增"
+        },
+        {
+          "surface": "北向",
+          "pos": "名词作状语",
+          "gloss": "面向北"
+        },
+        {
+          "surface": "西向",
+          "pos": "名词作状语",
+          "gloss": "面向西"
+        },
+        {
+          "surface": "侍",
+          "pos": "动词",
+          "gloss": "陪侍"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-042",
+      "order": 42,
+      "text": "范增数目项王，举所佩玉玦以示之者三，项王默然不应。",
+      "translation": "范增多次向项王使眼色，三次举起佩带的玉玦示意项王，项王沉默着没有反应。",
+      "tokens": [
+        {
+          "surface": "数",
+          "pos": "副词",
+          "gloss": "屡次"
+        },
+        {
+          "surface": "目",
+          "pos": "名词作动词",
+          "gloss": "使眼色"
+        },
+        {
+          "surface": "玉玦",
+          "pos": "名词",
+          "gloss": "环形有缺口的玉佩"
+        },
+        {
+          "surface": "示",
+          "pos": "动词",
+          "gloss": "示意"
+        },
+        {
+          "surface": "三",
+          "pos": "数量词",
+          "gloss": "三次"
+        },
+        {
+          "surface": "默然",
+          "pos": "形容词",
+          "gloss": "沉默的样子"
+        },
+        {
+          "surface": "应",
+          "pos": "动词",
+          "gloss": "回应"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-043",
+      "order": 43,
+      "text": "范增起，出，召项庄，谓曰：“君王为人不忍。若入前为寿，寿毕，请以剑舞，因击沛公于坐，杀之。",
+      "translation": "范增起身，出去叫来项庄，对他说：“君王为人不忍心。你进去上前祝寿，祝寿完毕，请求舞剑，趁机在座位上攻击刘邦，杀了他。",
+      "tokens": [
+        {
+          "surface": "起",
+          "pos": "动词",
+          "gloss": "起身"
+        },
+        {
+          "surface": "召",
+          "pos": "动词",
+          "gloss": "叫来"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "对……说"
+        },
+        {
+          "surface": "不忍",
+          "pos": "动词",
+          "gloss": "不忍心"
+        },
+        {
+          "surface": "若",
+          "pos": "代词",
+          "gloss": "你"
+        },
+        {
+          "surface": "为寿",
+          "pos": "动词",
+          "gloss": "祝寿"
+        },
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "趁机"
+        },
+        {
+          "surface": "坐",
+          "pos": "名词",
+          "gloss": "通“座”，座位"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-044",
+      "order": 44,
+      "text": "不者，若属皆且为所虏！”",
+      "translation": "不这样的话，你们这些人都将被他俘虏！”",
+      "tokens": [
+        {
+          "surface": "不者",
+          "pos": "固定结构",
+          "gloss": "不这样的话"
+        },
+        {
+          "surface": "若属",
+          "pos": "代词",
+          "gloss": "你们这些人"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "且",
+          "pos": "副词",
+          "gloss": "将要"
+        },
+        {
+          "surface": "为所",
+          "pos": "固定结构",
+          "gloss": "被……所"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-045",
+      "order": 45,
+      "text": "庄则入为寿。",
+      "translation": "项庄就进去祝寿。",
+      "tokens": [
+        {
+          "surface": "则",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        },
+        {
+          "surface": "为寿",
+          "pos": "动词",
+          "gloss": "祝寿"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-046",
+      "order": 46,
+      "text": "寿毕，曰：“君王与沛公饮，军中无以为乐，请以剑舞。”",
+      "translation": "祝寿完毕，说：“君王和刘邦饮酒，军中没有什么可以用来娱乐的，请让我舞剑。”",
+      "tokens": [
+        {
+          "surface": "毕",
+          "pos": "动词",
+          "gloss": "完毕"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "无以",
+          "pos": "固定结构",
+          "gloss": "没有用来……的"
+        },
+        {
+          "surface": "为乐",
+          "pos": "动词",
+          "gloss": "娱乐"
+        },
+        {
+          "surface": "请",
+          "pos": "动词",
+          "gloss": "请允许我"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "用"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-047",
+      "order": 47,
+      "text": "项王曰：“诺。”",
+      "translation": "项王说：“好。”",
+      "tokens": [
+        {
+          "surface": "项王",
+          "pos": "名词",
+          "gloss": "项王"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "诺",
+          "pos": "叹词",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-048",
+      "order": 48,
+      "text": "项庄拔剑起舞，项伯亦拔剑起舞，常以身翼蔽沛公，庄不得击。",
+      "translation": "项庄拔出剑起舞，项伯也拔出剑起舞，常常用身体像鸟翼一样遮蔽刘邦，项庄无法得手攻击。",
+      "tokens": [
+        {
+          "surface": "拔剑",
+          "pos": "动词",
+          "gloss": "拔剑"
+        },
+        {
+          "surface": "起舞",
+          "pos": "动词",
+          "gloss": "起身舞剑"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "翼",
+          "pos": "名词作状语",
+          "gloss": "像鸟翼一样"
+        },
+        {
+          "surface": "蔽",
+          "pos": "动词",
+          "gloss": "遮蔽"
+        },
+        {
+          "surface": "不得",
+          "pos": "动词",
+          "gloss": "不能"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-049",
+      "order": 49,
+      "text": "于是张良至军门见樊哙。",
+      "translation": "于是张良到军营门口见樊哙。",
+      "tokens": [
+        {
+          "surface": "于是",
+          "pos": "连词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "军门",
+          "pos": "名词",
+          "gloss": "军营门"
+        },
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "会见"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-050",
+      "order": 50,
+      "text": "樊哙曰：“今日之事何如？”",
+      "translation": "樊哙说：“今天的事情怎么样？”",
+      "tokens": [
+        {
+          "surface": "今日",
+          "pos": "名词",
+          "gloss": "今天"
+        },
+        {
+          "surface": "事",
+          "pos": "名词",
+          "gloss": "事情"
+        },
+        {
+          "surface": "何如",
+          "pos": "固定结构",
+          "gloss": "怎么样"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-051",
+      "order": 51,
+      "text": "良曰：“甚急！今者项庄拔剑舞，其意常在沛公也。”",
+      "translation": "张良说：“非常危急！现在项庄拔剑起舞，他的意图常在刘邦身上。”",
+      "tokens": [
+        {
+          "surface": "甚",
+          "pos": "副词",
+          "gloss": "很"
+        },
+        {
+          "surface": "急",
+          "pos": "形容词",
+          "gloss": "危急"
+        },
+        {
+          "surface": "今者",
+          "pos": "名词",
+          "gloss": "现在"
+        },
+        {
+          "surface": "意",
+          "pos": "名词",
+          "gloss": "意图"
+        },
+        {
+          "surface": "常",
+          "pos": "副词",
+          "gloss": "常常"
+        },
+        {
+          "surface": "在",
+          "pos": "动词",
+          "gloss": "在于"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-052",
+      "order": 52,
+      "text": "哙曰：“此迫矣！臣请入，与之同命。”",
+      "translation": "樊哙说：“这太紧迫了！我请求进去，和他同生共死。”",
+      "tokens": [
+        {
+          "surface": "迫",
+          "pos": "形容词",
+          "gloss": "紧迫"
+        },
+        {
+          "surface": "臣",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "请",
+          "pos": "动词",
+          "gloss": "请求"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "同命",
+          "pos": "动词",
+          "gloss": "同生共死"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-053",
+      "order": 53,
+      "text": "哙即带剑拥盾入军门。",
+      "translation": "樊哙就带着剑、抱着盾进入军营大门。",
+      "tokens": [
+        {
+          "surface": "即",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "带",
+          "pos": "动词",
+          "gloss": "带"
+        },
+        {
+          "surface": "拥",
+          "pos": "动词",
+          "gloss": "抱"
+        },
+        {
+          "surface": "盾",
+          "pos": "名词",
+          "gloss": "盾牌"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-054",
+      "order": 54,
+      "text": "交戟之卫士欲止不内，樊哙侧其盾以撞，卫士仆地，哙遂入，披帷西向立，瞋目视项王，头发上指，目眦尽裂。",
+      "translation": "持戟交叉守卫的卫士想阻止他，不让他进去，樊哙侧着盾牌撞击，卫士倒在地上，樊哙于是进去，掀开帷幕面向西站立，瞪眼怒视项王，头发向上直竖，眼眶都要裂开。",
+      "tokens": [
+        {
+          "surface": "交戟",
+          "pos": "动词",
+          "gloss": "戟交叉"
+        },
+        {
+          "surface": "止",
+          "pos": "动词",
+          "gloss": "阻止"
+        },
+        {
+          "surface": "内",
+          "pos": "动词",
+          "gloss": "通“纳”，让进入"
+        },
+        {
+          "surface": "侧",
+          "pos": "动词",
+          "gloss": "侧着"
+        },
+        {
+          "surface": "仆地",
+          "pos": "动词",
+          "gloss": "倒地"
+        },
+        {
+          "surface": "披帷",
+          "pos": "动词",
+          "gloss": "掀开帷幕"
+        },
+        {
+          "surface": "瞋目",
+          "pos": "动词",
+          "gloss": "瞪眼"
+        },
+        {
+          "surface": "目眦",
+          "pos": "名词",
+          "gloss": "眼眶"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-055",
+      "order": 55,
+      "text": "项王按剑而跽曰：“客何为者？”",
+      "translation": "项王按着剑跪直身子说：“客人是做什么的？”",
+      "tokens": [
+        {
+          "surface": "按剑",
+          "pos": "动词",
+          "gloss": "按着剑"
+        },
+        {
+          "surface": "跽",
+          "pos": "动词",
+          "gloss": "跪直"
+        },
+        {
+          "surface": "客",
+          "pos": "名词",
+          "gloss": "客人"
+        },
+        {
+          "surface": "何为",
+          "pos": "固定结构",
+          "gloss": "做什么"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "的人"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-056",
+      "order": 56,
+      "text": "张良曰：“沛公之参乘樊哙者也。”",
+      "translation": "张良说：“是刘邦的参乘樊哙。”",
+      "tokens": [
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "的"
+        },
+        {
+          "surface": "参乘",
+          "pos": "名词",
+          "gloss": "陪乘侍卫"
+        },
+        {
+          "surface": "樊哙",
+          "pos": "名词",
+          "gloss": "人名"
+        },
+        {
+          "surface": "者也",
+          "pos": "助词",
+          "gloss": "表判断"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-057",
+      "order": 57,
+      "text": "项王曰：“壮士！赐之卮酒。”",
+      "translation": "项王说：“壮士！赐他一杯酒。”",
+      "tokens": [
+        {
+          "surface": "壮士",
+          "pos": "名词",
+          "gloss": "壮士"
+        },
+        {
+          "surface": "赐",
+          "pos": "动词",
+          "gloss": "赏赐"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "卮酒",
+          "pos": "名词",
+          "gloss": "一杯酒"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-058",
+      "order": 58,
+      "text": "则与斗卮酒。",
+      "translation": "就给他一大杯酒。",
+      "tokens": [
+        {
+          "surface": "则",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "与",
+          "pos": "动词",
+          "gloss": "给"
+        },
+        {
+          "surface": "斗卮",
+          "pos": "名词",
+          "gloss": "大酒杯"
+        },
+        {
+          "surface": "酒",
+          "pos": "名词",
+          "gloss": "酒"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-059",
+      "order": 59,
+      "text": "哙拜谢，起，立而饮之。",
+      "translation": "樊哙拜谢，起身，站着把酒喝了。",
+      "tokens": [
+        {
+          "surface": "拜谢",
+          "pos": "动词",
+          "gloss": "拜谢"
+        },
+        {
+          "surface": "起",
+          "pos": "动词",
+          "gloss": "起身"
+        },
+        {
+          "surface": "立",
+          "pos": "动词",
+          "gloss": "站立"
+        },
+        {
+          "surface": "饮",
+          "pos": "动词",
+          "gloss": "喝"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "酒"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-060",
+      "order": 60,
+      "text": "项王曰：“赐之彘肩。”",
+      "translation": "项王说：“赐他猪腿。”",
+      "tokens": [
+        {
+          "surface": "赐",
+          "pos": "动词",
+          "gloss": "赏赐"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "彘肩",
+          "pos": "名词",
+          "gloss": "猪腿"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-061",
+      "order": 61,
+      "text": "则与一生彘肩。",
+      "translation": "就给他一条生猪腿。",
+      "tokens": [
+        {
+          "surface": "则",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "与",
+          "pos": "动词",
+          "gloss": "给"
+        },
+        {
+          "surface": "生",
+          "pos": "形容词",
+          "gloss": "生的"
+        },
+        {
+          "surface": "彘肩",
+          "pos": "名词",
+          "gloss": "猪腿"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-062",
+      "order": 62,
+      "text": "樊哙覆其盾于地，加彘肩上，拔剑切而啖之。",
+      "translation": "樊哙把盾牌反扣在地上，把猪腿放在盾牌上，拔出剑切着吃。",
+      "tokens": [
+        {
+          "surface": "覆",
+          "pos": "动词",
+          "gloss": "反扣"
+        },
+        {
+          "surface": "盾",
+          "pos": "名词",
+          "gloss": "盾牌"
+        },
+        {
+          "surface": "加",
+          "pos": "动词",
+          "gloss": "放"
+        },
+        {
+          "surface": "彘肩",
+          "pos": "名词",
+          "gloss": "猪腿"
+        },
+        {
+          "surface": "啖",
+          "pos": "动词",
+          "gloss": "吃"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "猪腿"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-063",
+      "order": 63,
+      "text": "项王曰：“壮士！能复饮乎？”",
+      "translation": "项王说：“壮士！还能再喝吗？”",
+      "tokens": [
+        {
+          "surface": "壮士",
+          "pos": "名词",
+          "gloss": "壮士"
+        },
+        {
+          "surface": "复",
+          "pos": "副词",
+          "gloss": "再"
+        },
+        {
+          "surface": "饮",
+          "pos": "动词",
+          "gloss": "喝"
+        },
+        {
+          "surface": "乎",
+          "pos": "助词",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-064",
+      "order": 64,
+      "text": "樊哙曰：“臣死且不避，卮酒安足辞！",
+      "translation": "樊哙说：“我连死都不回避，一杯酒哪里值得推辞！",
+      "tokens": [
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "尚且"
+        },
+        {
+          "surface": "避",
+          "pos": "动词",
+          "gloss": "回避"
+        },
+        {
+          "surface": "卮酒",
+          "pos": "名词",
+          "gloss": "一杯酒"
+        },
+        {
+          "surface": "安",
+          "pos": "副词",
+          "gloss": "哪里"
+        },
+        {
+          "surface": "足",
+          "pos": "动词",
+          "gloss": "值得"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "推辞"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-065",
+      "order": 65,
+      "text": "夫秦王有虎狼之心，杀人如不能举，刑人如恐不胜，天下皆叛之。",
+      "translation": "秦王有虎狼一样的心肠，杀人唯恐不能杀尽，处罚人唯恐不能用尽酷刑，天下人都背叛了他。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "发语词"
+        },
+        {
+          "surface": "虎狼",
+          "pos": "名词",
+          "gloss": "虎狼"
+        },
+        {
+          "surface": "举",
+          "pos": "动词",
+          "gloss": "尽"
+        },
+        {
+          "surface": "刑",
+          "pos": "名词作动词",
+          "gloss": "处罚"
+        },
+        {
+          "surface": "胜",
+          "pos": "动词",
+          "gloss": "尽"
+        },
+        {
+          "surface": "叛",
+          "pos": "动词",
+          "gloss": "背叛"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-066",
+      "order": 66,
+      "text": "怀王与诸将约曰：‘先破秦入咸阳者王之。’",
+      "translation": "怀王和众将领约定说：‘先攻破秦朝进入咸阳的人，就让他做关中王。’",
+      "tokens": [
+        {
+          "surface": "约",
+          "pos": "动词",
+          "gloss": "约定"
+        },
+        {
+          "surface": "破",
+          "pos": "动词",
+          "gloss": "攻破"
+        },
+        {
+          "surface": "咸阳",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "的人"
+        },
+        {
+          "surface": "王",
+          "pos": "名词作动词",
+          "gloss": "使……称王"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指关中"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-067",
+      "order": 67,
+      "text": "今沛公先破秦入咸阳，毫毛不敢有所近，封闭宫室，还军霸上，以待大王来。",
+      "translation": "现在刘邦先攻破秦朝进入咸阳，连毫毛那样细微的东西都不敢接近，封闭宫室，退军霸上，等待大王到来。",
+      "tokens": [
+        {
+          "surface": "毫毛",
+          "pos": "名词",
+          "gloss": "细微之物"
+        },
+        {
+          "surface": "近",
+          "pos": "动词",
+          "gloss": "接近"
+        },
+        {
+          "surface": "封闭",
+          "pos": "动词",
+          "gloss": "封存关闭"
+        },
+        {
+          "surface": "还军",
+          "pos": "动词",
+          "gloss": "退军"
+        },
+        {
+          "surface": "霸上",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-068",
+      "order": 68,
+      "text": "故遣将守关者，备他盗出入与非常也。",
+      "translation": "所以派遣将领把守函谷关，是防备其他盗贼进出和意外的变故。",
+      "tokens": [
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "遣将",
+          "pos": "动词",
+          "gloss": "派遣将领"
+        },
+        {
+          "surface": "守关",
+          "pos": "动词",
+          "gloss": "把守函谷关"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "表判断"
+        },
+        {
+          "surface": "他盗",
+          "pos": "名词",
+          "gloss": "其他盗贼"
+        },
+        {
+          "surface": "非常",
+          "pos": "名词",
+          "gloss": "古今异义，意外变故"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-069",
+      "order": 69,
+      "text": "劳苦而功高如此，未有封侯之赏，而听细说，欲诛有功之人，此亡秦之续耳。",
+      "translation": "这样劳苦功高，却没有封侯的奖赏，反而听信小人的谗言，想杀有功的人，这是走秦朝灭亡的老路罢了。",
+      "tokens": [
+        {
+          "surface": "封侯",
+          "pos": "动词",
+          "gloss": "封侯"
+        },
+        {
+          "surface": "赏",
+          "pos": "名词",
+          "gloss": "奖赏"
+        },
+        {
+          "surface": "而听",
+          "pos": "连词",
+          "gloss": "反而听信"
+        },
+        {
+          "surface": "细说",
+          "pos": "名词",
+          "gloss": "小人的谗言"
+        },
+        {
+          "surface": "诛",
+          "pos": "动词",
+          "gloss": "杀"
+        },
+        {
+          "surface": "亡秦",
+          "pos": "名词",
+          "gloss": "灭亡的秦朝"
+        },
+        {
+          "surface": "续",
+          "pos": "名词",
+          "gloss": "延续，老路"
+        },
+        {
+          "surface": "耳",
+          "pos": "助词",
+          "gloss": "罢了"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-070",
+      "order": 70,
+      "text": "窃为大王不取也！”",
+      "translation": "我私下认为大王不应采取这种做法！”",
+      "tokens": [
+        {
+          "surface": "窃",
+          "pos": "副词",
+          "gloss": "私下"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "认为"
+        },
+        {
+          "surface": "大王",
+          "pos": "名词",
+          "gloss": "大王"
+        },
+        {
+          "surface": "不取",
+          "pos": "动词",
+          "gloss": "不采取"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-071",
+      "order": 71,
+      "text": "项王未有以应，曰：“坐。”",
+      "translation": "项王没有话来回答，说：“坐。”",
+      "tokens": [
+        {
+          "surface": "未有以",
+          "pos": "固定结构",
+          "gloss": "没有用来回答的（话）"
+        },
+        {
+          "surface": "应",
+          "pos": "动词",
+          "gloss": "回答"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "坐",
+          "pos": "动词",
+          "gloss": "坐下"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-072",
+      "order": 72,
+      "text": "樊哙从良坐。",
+      "translation": "樊哙跟着张良坐下。",
+      "tokens": [
+        {
+          "surface": "从",
+          "pos": "动词",
+          "gloss": "跟随"
+        },
+        {
+          "surface": "良",
+          "pos": "名词",
+          "gloss": "张良"
+        },
+        {
+          "surface": "坐",
+          "pos": "动词",
+          "gloss": "坐下"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-073",
+      "order": 73,
+      "text": "坐须臾，沛公起如厕，因招樊哙出。",
+      "translation": "坐了一会儿，刘邦起身去厕所，趁机招呼樊哙出来。",
+      "tokens": [
+        {
+          "surface": "须臾",
+          "pos": "名词",
+          "gloss": "一会儿"
+        },
+        {
+          "surface": "起",
+          "pos": "动词",
+          "gloss": "起身"
+        },
+        {
+          "surface": "如",
+          "pos": "动词",
+          "gloss": "往，去"
+        },
+        {
+          "surface": "厕",
+          "pos": "名词",
+          "gloss": "厕所"
+        },
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "趁机"
+        },
+        {
+          "surface": "招",
+          "pos": "动词",
+          "gloss": "招呼"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-074",
+      "order": 74,
+      "text": "沛公已出，项王使都尉陈平召沛公。",
+      "translation": "刘邦出去后，项王派都尉陈平叫刘邦回来。",
+      "tokens": [
+        {
+          "surface": "已",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "出去"
+        },
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "都尉",
+          "pos": "名词",
+          "gloss": "官名"
+        },
+        {
+          "surface": "召",
+          "pos": "动词",
+          "gloss": "叫"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-075",
+      "order": 75,
+      "text": "沛公曰：“今者出，未辞也，为之奈何？”",
+      "translation": "刘邦说：“现在出来，还没有告辞，怎么办呢？”",
+      "tokens": [
+        {
+          "surface": "今者",
+          "pos": "名词",
+          "gloss": "现在"
+        },
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "出来"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "告辞"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "对"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "这件事"
+        },
+        {
+          "surface": "奈何",
+          "pos": "固定结构",
+          "gloss": "怎么办"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-076",
+      "order": 76,
+      "text": "樊哙曰：“大行不顾细谨，大礼不辞小让。",
+      "translation": "樊哙说：“做大事不必顾及细节，行大礼不必计较小的谦让。",
+      "tokens": [
+        {
+          "surface": "大行",
+          "pos": "名词",
+          "gloss": "做大事"
+        },
+        {
+          "surface": "顾",
+          "pos": "动词",
+          "gloss": "顾及"
+        },
+        {
+          "surface": "细谨",
+          "pos": "名词",
+          "gloss": "细节"
+        },
+        {
+          "surface": "大礼",
+          "pos": "名词",
+          "gloss": "行大礼"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "计较"
+        },
+        {
+          "surface": "小让",
+          "pos": "名词",
+          "gloss": "小的谦让"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-077",
+      "order": 77,
+      "text": "如今人方为刀俎，我为鱼肉，何辞为？”",
+      "translation": "现在人家正是刀和砧板，我们是鱼和肉，还告辞什么呢？”",
+      "tokens": [
+        {
+          "surface": "方",
+          "pos": "副词",
+          "gloss": "正"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "是"
+        },
+        {
+          "surface": "刀俎",
+          "pos": "名词",
+          "gloss": "刀和砧板"
+        },
+        {
+          "surface": "鱼肉",
+          "pos": "名词",
+          "gloss": "鱼和肉"
+        },
+        {
+          "surface": "何",
+          "pos": "代词",
+          "gloss": "什么"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "告辞"
+        },
+        {
+          "surface": "为",
+          "pos": "助词",
+          "gloss": "呢"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-078",
+      "order": 78,
+      "text": "于是遂去。",
+      "translation": "于是他们就离开了。",
+      "tokens": [
+        {
+          "surface": "于是",
+          "pos": "连词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "遂",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "离开"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-079",
+      "order": 79,
+      "text": "乃令张良留谢。",
+      "translation": "于是让张良留下辞谢。",
+      "tokens": [
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "于是，就"
+        },
+        {
+          "surface": "令",
+          "pos": "动词",
+          "gloss": "让"
+        },
+        {
+          "surface": "留",
+          "pos": "动词",
+          "gloss": "留下"
+        },
+        {
+          "surface": "谢",
+          "pos": "动词",
+          "gloss": "辞谢"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-080",
+      "order": 80,
+      "text": "良问曰：“大王来何操？”",
+      "translation": "张良问：“大王来的时候带了什么？”",
+      "tokens": [
+        {
+          "surface": "问",
+          "pos": "动词",
+          "gloss": "问"
+        },
+        {
+          "surface": "来",
+          "pos": "动词",
+          "gloss": "来"
+        },
+        {
+          "surface": "何",
+          "pos": "代词",
+          "gloss": "什么"
+        },
+        {
+          "surface": "操",
+          "pos": "动词",
+          "gloss": "拿，带"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-081",
+      "order": 81,
+      "text": "曰：“我持白璧一双，欲献项王，玉斗一双，欲与亚父。",
+      "translation": "刘邦说：“我带了一双白璧，想献给项王；一双玉斗，想送给亚父。",
+      "tokens": [
+        {
+          "surface": "持",
+          "pos": "动词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "白璧",
+          "pos": "名词",
+          "gloss": "白璧"
+        },
+        {
+          "surface": "献",
+          "pos": "动词",
+          "gloss": "献给"
+        },
+        {
+          "surface": "玉斗",
+          "pos": "名词",
+          "gloss": "玉斗"
+        },
+        {
+          "surface": "与",
+          "pos": "动词",
+          "gloss": "送给"
+        },
+        {
+          "surface": "亚父",
+          "pos": "名词",
+          "gloss": "亚父"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-082",
+      "order": 82,
+      "text": "会其怒，不敢献。",
+      "translation": "正碰上他们发怒，不敢献上。",
+      "tokens": [
+        {
+          "surface": "会",
+          "pos": "副词",
+          "gloss": "适逢"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "他们"
+        },
+        {
+          "surface": "怒",
+          "pos": "动词",
+          "gloss": "发怒"
+        },
+        {
+          "surface": "献",
+          "pos": "动词",
+          "gloss": "献上"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-083",
+      "order": 83,
+      "text": "公为我献之。”",
+      "translation": "您替我献上它们。”",
+      "tokens": [
+        {
+          "surface": "公",
+          "pos": "代词",
+          "gloss": "您"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "替"
+        },
+        {
+          "surface": "我",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "献",
+          "pos": "动词",
+          "gloss": "献"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "它们，指白璧、玉斗"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-084",
+      "order": 84,
+      "text": "张良曰：“谨诺。”",
+      "translation": "张良说：“遵命。”",
+      "tokens": [
+        {
+          "surface": "张良",
+          "pos": "名词",
+          "gloss": "张良"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "谨诺",
+          "pos": "动词",
+          "gloss": "恭敬地答应"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-085",
+      "order": 85,
+      "text": "当是时，项王军在鸿门下，沛公军在霸上，相去四十里。",
+      "translation": "这时，项王的军队在鸿门下，刘邦的军队在霸上，相距四十里。",
+      "tokens": [
+        {
+          "surface": "当",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "是时",
+          "pos": "名词",
+          "gloss": "这时"
+        },
+        {
+          "surface": "军",
+          "pos": "动词",
+          "gloss": "驻军"
+        },
+        {
+          "surface": "鸿门",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "霸上",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "相去",
+          "pos": "动词",
+          "gloss": "相距"
+        },
+        {
+          "surface": "四十里",
+          "pos": "数量词",
+          "gloss": "四十里"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-086",
+      "order": 86,
+      "text": "沛公则置车骑，脱身独骑，与樊哙、夏侯婴、靳强、纪信等四人持剑盾步走，从郦山下，道芷阳间行。",
+      "translation": "刘邦就丢下车马随从，脱身独自骑马，和樊哙、夏侯婴、靳强、纪信等四人拿着剑和盾步行，从郦山脚下，取道芷阳从小路走。",
+      "tokens": [
+        {
+          "surface": "置",
+          "pos": "动词",
+          "gloss": "丢下"
+        },
+        {
+          "surface": "车骑",
+          "pos": "名词",
+          "gloss": "车马随从"
+        },
+        {
+          "surface": "脱身",
+          "pos": "动词",
+          "gloss": "脱身"
+        },
+        {
+          "surface": "独骑",
+          "pos": "动词",
+          "gloss": "独自骑马"
+        },
+        {
+          "surface": "步走",
+          "pos": "动词",
+          "gloss": "徒步快走"
+        },
+        {
+          "surface": "道",
+          "pos": "名词作动词",
+          "gloss": "取道"
+        },
+        {
+          "surface": "芷阳",
+          "pos": "名词",
+          "gloss": "地名"
+        },
+        {
+          "surface": "间",
+          "pos": "名词作状语",
+          "gloss": "从小路"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-087",
+      "order": 87,
+      "text": "沛公谓张良曰：“从此道至吾军，不过二十里耳。",
+      "translation": "刘邦对张良说：“从这条路到我们军营，不过二十里罢了。",
+      "tokens": [
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "对……说"
+        },
+        {
+          "surface": "从",
+          "pos": "介词",
+          "gloss": "从"
+        },
+        {
+          "surface": "道",
+          "pos": "名词",
+          "gloss": "路"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "不过",
+          "pos": "副词",
+          "gloss": "不超过"
+        },
+        {
+          "surface": "耳",
+          "pos": "助词",
+          "gloss": "罢了"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-088",
+      "order": 88,
+      "text": "度我至军中，公乃入。”",
+      "translation": "估计我到了军营，您才进去。”",
+      "tokens": [
+        {
+          "surface": "度",
+          "pos": "动词",
+          "gloss": "估计"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "军中",
+          "pos": "名词",
+          "gloss": "军营中"
+        },
+        {
+          "surface": "公",
+          "pos": "代词",
+          "gloss": "您"
+        },
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "才"
+        },
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-089",
+      "order": 89,
+      "text": "沛公已去，间至军中。",
+      "translation": "刘邦离开后，从小路回到军营中。",
+      "tokens": [
+        {
+          "surface": "已",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "离开"
+        },
+        {
+          "surface": "间",
+          "pos": "名词作状语",
+          "gloss": "从小路"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        },
+        {
+          "surface": "军中",
+          "pos": "名词",
+          "gloss": "军营中"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-090",
+      "order": 90,
+      "text": "张良入谢，曰：“沛公不胜杯杓，不能辞。",
+      "translation": "张良进去辞谢，说：“刘邦承受不了酒力，不能亲自告辞。",
+      "tokens": [
+        {
+          "surface": "入",
+          "pos": "动词",
+          "gloss": "进入"
+        },
+        {
+          "surface": "谢",
+          "pos": "动词",
+          "gloss": "辞谢"
+        },
+        {
+          "surface": "胜",
+          "pos": "动词",
+          "gloss": "承受"
+        },
+        {
+          "surface": "杯杓",
+          "pos": "名词",
+          "gloss": "酒器，代指酒"
+        },
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "告辞"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-091",
+      "order": 91,
+      "text": "谨使臣良奉白璧一双，再拜献大王足下，玉斗一双，再拜奉大将军足下。”",
+      "translation": "恭敬地派我张良捧着一双白璧，行再拜礼献给大王；一双玉斗，行再拜礼献给大将军。”",
+      "tokens": [
+        {
+          "surface": "谨",
+          "pos": "副词",
+          "gloss": "恭敬地"
+        },
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "捧"
+        },
+        {
+          "surface": "白璧",
+          "pos": "名词",
+          "gloss": "白璧"
+        },
+        {
+          "surface": "再拜",
+          "pos": "动词",
+          "gloss": "行再拜礼"
+        },
+        {
+          "surface": "足下",
+          "pos": "名词",
+          "gloss": "对对方的尊称"
+        },
+        {
+          "surface": "大将军",
+          "pos": "名词",
+          "gloss": "指范增"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-092",
+      "order": 92,
+      "text": "项王曰：“沛公安在？”",
+      "translation": "项王说：“刘邦在哪里？”",
+      "tokens": [
+        {
+          "surface": "沛公",
+          "pos": "名词",
+          "gloss": "刘邦"
+        },
+        {
+          "surface": "安在",
+          "pos": "固定结构",
+          "gloss": "在哪里"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-093",
+      "order": 93,
+      "text": "良曰：“闻大王有意督过之，脱身独去，已至军矣。”",
+      "translation": "张良说：“听说大王有意责备他，他脱身独自离开，已经回到军营了。”",
+      "tokens": [
+        {
+          "surface": "闻",
+          "pos": "动词",
+          "gloss": "听说"
+        },
+        {
+          "surface": "有意",
+          "pos": "副词",
+          "gloss": "有意"
+        },
+        {
+          "surface": "督过",
+          "pos": "动词",
+          "gloss": "责备"
+        },
+        {
+          "surface": "脱身",
+          "pos": "动词",
+          "gloss": "脱身"
+        },
+        {
+          "surface": "独去",
+          "pos": "动词",
+          "gloss": "独自离开"
+        },
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "到"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-094",
+      "order": 94,
+      "text": "项王则受璧，置之坐上。",
+      "translation": "项王就接受白璧，把它放在座位上。",
+      "tokens": [
+        {
+          "surface": "则",
+          "pos": "副词",
+          "gloss": "就"
+        },
+        {
+          "surface": "受",
+          "pos": "动词",
+          "gloss": "接受"
+        },
+        {
+          "surface": "璧",
+          "pos": "名词",
+          "gloss": "白璧"
+        },
+        {
+          "surface": "置",
+          "pos": "动词",
+          "gloss": "放"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "它"
+        },
+        {
+          "surface": "坐上",
+          "pos": "名词",
+          "gloss": "通“座”，座位"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-095",
+      "order": 95,
+      "text": "亚父受玉斗，置之地，拔剑撞而破之，曰：“唉！竖子不足与谋！",
+      "translation": "亚父接受玉斗，把它放在地上，拔出剑把它击碎，说：“唉！这小子不值得和他共谋大事！",
+      "tokens": [
+        {
+          "surface": "玉斗",
+          "pos": "名词",
+          "gloss": "玉斗"
+        },
+        {
+          "surface": "置",
+          "pos": "动词",
+          "gloss": "放"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "它"
+        },
+        {
+          "surface": "拔剑",
+          "pos": "动词",
+          "gloss": "拔剑"
+        },
+        {
+          "surface": "撞",
+          "pos": "动词",
+          "gloss": "击"
+        },
+        {
+          "surface": "破",
+          "pos": "动词使动",
+          "gloss": "使……破碎"
+        },
+        {
+          "surface": "竖子",
+          "pos": "名词",
+          "gloss": "小子"
+        },
+        {
+          "surface": "与谋",
+          "pos": "动词",
+          "gloss": "共同谋划"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-096",
+      "order": 96,
+      "text": "夺项王天下者必沛公也。",
+      "translation": "夺取项王天下的人一定是刘邦。",
+      "tokens": [
+        {
+          "surface": "夺",
+          "pos": "动词",
+          "gloss": "夺取"
+        },
+        {
+          "surface": "项王",
+          "pos": "名词",
+          "gloss": "项王"
+        },
+        {
+          "surface": "天下",
+          "pos": "名词",
+          "gloss": "天下"
+        },
+        {
+          "surface": "者",
+          "pos": "助词",
+          "gloss": "的人"
+        },
+        {
+          "surface": "必",
+          "pos": "副词",
+          "gloss": "一定"
+        },
+        {
+          "surface": "沛公",
+          "pos": "名词",
+          "gloss": "刘邦"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-097",
+      "order": 97,
+      "text": "吾属今为之虏矣！”",
+      "translation": "我们这些人今天要被他俘虏了！”",
+      "tokens": [
+        {
+          "surface": "吾属",
+          "pos": "代词",
+          "gloss": "我们这些人"
+        },
+        {
+          "surface": "今",
+          "pos": "名词",
+          "gloss": "今天"
+        },
+        {
+          "surface": "为",
+          "pos": "介词",
+          "gloss": "被"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他"
+        },
+        {
+          "surface": "虏",
+          "pos": "动词",
+          "gloss": "俘虏"
+        }
+      ]
+    },
+    {
+      "id": "hongmenyan-098",
+      "order": 98,
+      "text": "沛公至军，立诛杀曹无伤。",
+      "translation": "刘邦回到军营，立即杀了曹无伤。",
+      "tokens": [
+        {
+          "surface": "至",
+          "pos": "动词",
+          "gloss": "回到"
+        },
+        {
+          "surface": "军",
+          "pos": "名词",
+          "gloss": "军营"
+        },
+        {
+          "surface": "立",
+          "pos": "副词",
+          "gloss": "立即"
+        },
+        {
+          "surface": "诛杀",
+          "pos": "动词",
+          "gloss": "杀死"
+        },
+        {
+          "surface": "曹无伤",
+          "pos": "名词",
+          "gloss": "人名"
+        }
+      ]
+    }
+  ]
+}

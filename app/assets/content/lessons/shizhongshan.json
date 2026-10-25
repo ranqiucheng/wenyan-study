@@ -1,0 +1,1026 @@
+{
+  "id": "shizhongshan",
+  "title": "石钟山记",
+  "author": "苏轼",
+  "source": "《苏轼文集》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "记"
+  ],
+  "reviewed": true,
+  "summary": "辨正石钟山得名的由来，批评“事不目见耳闻”而臆断的作风，表现出重视实地考察的求实精神。",
+  "sentences": [
+    {
+      "id": "shizhongshan-001",
+      "order": 1,
+      "text": "《水经》云：“彭蠡之口有石钟山焉。”",
+      "translation": "《水经》上说：“彭蠡湖的湖口有一座石钟山。”",
+      "tokens": [
+        {
+          "surface": "云",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "彭蠡",
+          "pos": "名词",
+          "gloss": "彭蠡湖，即今鄱阳湖"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "的"
+        },
+        {
+          "surface": "口",
+          "pos": "名词",
+          "gloss": "湖口，湖水入江处"
+        },
+        {
+          "surface": "焉",
+          "pos": "语气词",
+          "gloss": "句末语气词，表陈述"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-002",
+      "order": 2,
+      "text": "郦元以为下临深潭，微风鼓浪，水石相搏，声如洪钟。",
+      "translation": "郦道元认为（石钟山）下面靠近深潭，微风掀起波浪，水与石头互相撞击，声音像大钟一样。",
+      "tokens": [
+        {
+          "surface": "以为",
+          "pos": "动词",
+          "gloss": "认为"
+        },
+        {
+          "surface": "临",
+          "pos": "动词",
+          "gloss": "靠近，面对"
+        },
+        {
+          "surface": "鼓",
+          "pos": "动词",
+          "gloss": "掀起，鼓动"
+        },
+        {
+          "surface": "相搏",
+          "pos": "动词",
+          "gloss": "互相撞击"
+        },
+        {
+          "surface": "洪钟",
+          "pos": "名词",
+          "gloss": "大钟"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-003",
+      "order": 3,
+      "text": "是说也，人常疑之。",
+      "translation": "这个说法，人们常常怀疑它。",
+      "tokens": [
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "说",
+          "pos": "名词",
+          "gloss": "说法"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表停顿"
+        },
+        {
+          "surface": "疑",
+          "pos": "动词",
+          "gloss": "怀疑"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指这个说法"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-004",
+      "order": 4,
+      "text": "今以钟磬置水中，虽大风浪不能鸣也，而况石乎！",
+      "translation": "现在把钟磬放在水里，即使有大风浪也不能使它鸣响，何况是石头呢！",
+      "tokens": [
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "把"
+        },
+        {
+          "surface": "置",
+          "pos": "动词",
+          "gloss": "放置"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "即使"
+        },
+        {
+          "surface": "鸣",
+          "pos": "动词",
+          "gloss": "使……鸣响，使动用法"
+        },
+        {
+          "surface": "而况",
+          "pos": "连词",
+          "gloss": "何况"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-005",
+      "order": 5,
+      "text": "至唐李渤始访其遗踪，得双石于潭上，扣而聆之，",
+      "translation": "到了唐代，李渤才寻访它的遗迹，在潭上找到两块石头，敲击并聆听它们的声音，",
+      "tokens": [
+        {
+          "surface": "始",
+          "pos": "副词",
+          "gloss": "才"
+        },
+        {
+          "surface": "访",
+          "pos": "动词",
+          "gloss": "寻访"
+        },
+        {
+          "surface": "遗踪",
+          "pos": "名词",
+          "gloss": "遗迹"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "找到"
+        },
+        {
+          "surface": "扣",
+          "pos": "动词",
+          "gloss": "敲击"
+        },
+        {
+          "surface": "聆",
+          "pos": "动词",
+          "gloss": "听"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-006",
+      "order": 6,
+      "text": "南声函胡，北音清越，桴止响腾，余韵徐歇。",
+      "translation": "南边那块石头的声音重浊模糊，北边那块的声音清脆悠扬，鼓槌停下而响声仍在传扬，余音慢慢消散。",
+      "tokens": [
+        {
+          "surface": "函胡",
+          "pos": "形容词",
+          "gloss": "同“含糊”，重浊模糊"
+        },
+        {
+          "surface": "清越",
+          "pos": "形容词",
+          "gloss": "清脆悠扬"
+        },
+        {
+          "surface": "桴",
+          "pos": "名词",
+          "gloss": "鼓槌"
+        },
+        {
+          "surface": "腾",
+          "pos": "动词",
+          "gloss": "传扬，升腾"
+        },
+        {
+          "surface": "徐",
+          "pos": "副词",
+          "gloss": "慢慢地"
+        },
+        {
+          "surface": "歇",
+          "pos": "动词",
+          "gloss": "停止，消散"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-007",
+      "order": 7,
+      "text": "自以为得之矣。",
+      "translation": "（李渤）自认为找到了石钟山得名的原因。",
+      "tokens": [
+        {
+          "surface": "以为",
+          "pos": "动词",
+          "gloss": "认为"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "找到，懂得"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指石钟山得名的原因"
+        },
+        {
+          "surface": "矣",
+          "pos": "助词",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-008",
+      "order": 8,
+      "text": "然是说也，余尤疑之。",
+      "translation": "然而这个说法，我更加怀疑它。",
+      "tokens": [
+        {
+          "surface": "然",
+          "pos": "连词",
+          "gloss": "然而"
+        },
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "尤",
+          "pos": "副词",
+          "gloss": "更加"
+        },
+        {
+          "surface": "疑",
+          "pos": "动词",
+          "gloss": "怀疑"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-009",
+      "order": 9,
+      "text": "石之铿然有声者，所在皆是也，而此独以钟名，何哉？",
+      "translation": "石头中敲击发出响亮声音的，到处都是，可这座山偏偏用钟来命名，为什么呢？",
+      "tokens": [
+        {
+          "surface": "铿然",
+          "pos": "形容词",
+          "gloss": "敲击金石发出的响亮声"
+        },
+        {
+          "surface": "所在",
+          "pos": "名词",
+          "gloss": "到处"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "独",
+          "pos": "副词",
+          "gloss": "偏偏"
+        },
+        {
+          "surface": "名",
+          "pos": "动词",
+          "gloss": "命名"
+        },
+        {
+          "surface": "何哉",
+          "pos": "固定结构",
+          "gloss": "为什么呢"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-010",
+      "order": 10,
+      "text": "元丰七年六月丁丑，余自齐安舟行适临汝，而长子迈将赴饶之德兴尉，",
+      "translation": "元丰七年六月丁丑日，我从齐安乘船前往临汝，而长子苏迈将要赴任饶州德兴县尉，",
+      "tokens": [
+        {
+          "surface": "舟行",
+          "pos": "动词",
+          "gloss": "乘船而行"
+        },
+        {
+          "surface": "适",
+          "pos": "动词",
+          "gloss": "到，往"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表并列"
+        },
+        {
+          "surface": "赴",
+          "pos": "动词",
+          "gloss": "赴任"
+        },
+        {
+          "surface": "尉",
+          "pos": "名词",
+          "gloss": "县尉"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-011",
+      "order": 11,
+      "text": "送之至湖口，因得观所谓石钟者。",
+      "translation": "送他到湖口，因而能够观看人们所说的石钟山。",
+      "tokens": [
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指苏迈"
+        },
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "于是，因而"
+        },
+        {
+          "surface": "得",
+          "pos": "动词",
+          "gloss": "能够"
+        },
+        {
+          "surface": "所谓",
+          "pos": "固定结构",
+          "gloss": "所说的"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-012",
+      "order": 12,
+      "text": "寺僧使小童持斧，于乱石间择其一二扣之，硿硿焉。",
+      "translation": "寺里的和尚派小童拿着斧头，在乱石中挑选一两块敲击，发出硿硿的响声。",
+      "tokens": [
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "持",
+          "pos": "动词",
+          "gloss": "拿"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "在"
+        },
+        {
+          "surface": "择",
+          "pos": "动词",
+          "gloss": "挑选"
+        },
+        {
+          "surface": "扣",
+          "pos": "动词",
+          "gloss": "敲"
+        },
+        {
+          "surface": "硿硿焉",
+          "pos": "固定结构",
+          "gloss": "硿硿的响声，焉为形容词词尾"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-013",
+      "order": 13,
+      "text": "余固笑而不信也。",
+      "translation": "我本来就觉得可笑而不相信。",
+      "tokens": [
+        {
+          "surface": "固",
+          "pos": "副词",
+          "gloss": "本来"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表并列"
+        },
+        {
+          "surface": "信",
+          "pos": "动词",
+          "gloss": "相信"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-014",
+      "order": 14,
+      "text": "至莫夜月明，独与迈乘小舟，至绝壁下。",
+      "translation": "到了夜晚月光明亮时，我独自和苏迈乘小船，来到陡峭的石壁下。",
+      "tokens": [
+        {
+          "surface": "莫夜",
+          "pos": "名词",
+          "gloss": "同“暮夜”，夜晚"
+        },
+        {
+          "surface": "独",
+          "pos": "副词",
+          "gloss": "独自"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "和"
+        },
+        {
+          "surface": "绝壁",
+          "pos": "名词",
+          "gloss": "陡峭的石壁"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-015",
+      "order": 15,
+      "text": "大石侧立千尺，如猛兽奇鬼，森然欲搏人；",
+      "translation": "巨大的石头侧立着高达千尺，像猛兽奇鬼，阴森森地要扑向人；",
+      "tokens": [
+        {
+          "surface": "侧立",
+          "pos": "动词",
+          "gloss": "倾斜矗立"
+        },
+        {
+          "surface": "千尺",
+          "pos": "数量词",
+          "gloss": "形容极高"
+        },
+        {
+          "surface": "森然",
+          "pos": "形容词",
+          "gloss": "阴森可怖的样子"
+        },
+        {
+          "surface": "搏",
+          "pos": "动词",
+          "gloss": "扑击"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-016",
+      "order": 16,
+      "text": "而山上栖鹘，闻人声亦惊起，磔磔云霄间；",
+      "translation": "而山上栖息的鹘鸟，听到人声也受惊飞起，在云霄间磔磔地鸣叫；",
+      "tokens": [
+        {
+          "surface": "栖鹘",
+          "pos": "名词",
+          "gloss": "栖息的鹘鸟"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "惊起",
+          "pos": "动词",
+          "gloss": "受惊飞起"
+        },
+        {
+          "surface": "磔磔",
+          "pos": "拟声词",
+          "gloss": "鸟鸣声"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-017",
+      "order": 17,
+      "text": "又有若老人咳且笑于山谷中者，或曰此鹳鹤也。",
+      "translation": "又有像老人在山谷中咳嗽而且大笑的声音，有人说这是鹳鹤。",
+      "tokens": [
+        {
+          "surface": "若",
+          "pos": "动词",
+          "gloss": "像"
+        },
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "又……又"
+        },
+        {
+          "surface": "或",
+          "pos": "代词",
+          "gloss": "有人"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        },
+        {
+          "surface": "鹳鹤",
+          "pos": "名词",
+          "gloss": "一种水鸟"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-018",
+      "order": 18,
+      "text": "余方心动欲还，而大声发于水上，噌吰如钟鼓不绝。",
+      "translation": "我正心里惊恐想要回去，却有巨大的声音从水上发出，像钟鼓声一样噌吰不停。",
+      "tokens": [
+        {
+          "surface": "方",
+          "pos": "副词",
+          "gloss": "正"
+        },
+        {
+          "surface": "心动",
+          "pos": "动词",
+          "gloss": "心惊"
+        },
+        {
+          "surface": "还",
+          "pos": "动词",
+          "gloss": "回去"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "从"
+        },
+        {
+          "surface": "噌吰",
+          "pos": "拟声词",
+          "gloss": "形容钟鼓洪亮的声音"
+        },
+        {
+          "surface": "绝",
+          "pos": "动词",
+          "gloss": "停止"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-019",
+      "order": 19,
+      "text": "舟人大恐。",
+      "translation": "船夫非常害怕。",
+      "tokens": [
+        {
+          "surface": "舟人",
+          "pos": "名词",
+          "gloss": "船夫"
+        },
+        {
+          "surface": "大",
+          "pos": "副词",
+          "gloss": "非常"
+        },
+        {
+          "surface": "恐",
+          "pos": "动词",
+          "gloss": "害怕"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-020",
+      "order": 20,
+      "text": "徐而察之，则山下皆石穴罅，不知其浅深，",
+      "translation": "慢慢地察看，原来山下都是石头的洞穴和裂缝，不知道它们的深浅，",
+      "tokens": [
+        {
+          "surface": "徐",
+          "pos": "副词",
+          "gloss": "慢慢地"
+        },
+        {
+          "surface": "察",
+          "pos": "动词",
+          "gloss": "察看"
+        },
+        {
+          "surface": "则",
+          "pos": "连词",
+          "gloss": "原来"
+        },
+        {
+          "surface": "穴罅",
+          "pos": "名词",
+          "gloss": "洞穴和裂缝"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "指石穴"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-021",
+      "order": 21,
+      "text": "微波入焉，涵淡澎湃而为此也。",
+      "translation": "微小的波浪涌进去，荡漾冲击而形成了这种声音。",
+      "tokens": [
+        {
+          "surface": "焉",
+          "pos": "兼词",
+          "gloss": "于此，指石穴中"
+        },
+        {
+          "surface": "涵淡",
+          "pos": "形容词",
+          "gloss": "水波荡漾的样子"
+        },
+        {
+          "surface": "澎湃",
+          "pos": "形容词",
+          "gloss": "波浪冲击声"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "形成"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-022",
+      "order": 22,
+      "text": "舟回至两山间，将入港口，有大石当中流，可坐百人，",
+      "translation": "船回到两山之间，将要进入港口，有块大石头正处在水流中央，上面可以坐一百人，",
+      "tokens": [
+        {
+          "surface": "回",
+          "pos": "动词",
+          "gloss": "回转"
+        },
+        {
+          "surface": "当",
+          "pos": "动词",
+          "gloss": "处在"
+        },
+        {
+          "surface": "中流",
+          "pos": "名词",
+          "gloss": "水流中央"
+        },
+        {
+          "surface": "可",
+          "pos": "动词",
+          "gloss": "可以"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-023",
+      "order": 23,
+      "text": "空中而多窍，与风水相吞吐，有窾坎镗鞳之声，与向之噌吰者相应，如乐作焉。",
+      "translation": "（石头）中间是空的而且有很多孔洞，与风浪互相吞吐，发出窾坎镗鞳的声音，和刚才噌吰的声音相应和，好像音乐演奏起来。",
+      "tokens": [
+        {
+          "surface": "空中",
+          "pos": "形容词",
+          "gloss": "中间是空的，古今异义"
+        },
+        {
+          "surface": "窍",
+          "pos": "名词",
+          "gloss": "孔洞"
+        },
+        {
+          "surface": "吞吐",
+          "pos": "动词",
+          "gloss": "吞进吐出"
+        },
+        {
+          "surface": "窾坎镗鞳",
+          "pos": "拟声词",
+          "gloss": "击物的声音"
+        },
+        {
+          "surface": "向",
+          "pos": "副词",
+          "gloss": "先前，刚才"
+        },
+        {
+          "surface": "应",
+          "pos": "动词",
+          "gloss": "应和"
+        },
+        {
+          "surface": "乐作",
+          "pos": "动词",
+          "gloss": "演奏音乐"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-024",
+      "order": 24,
+      "text": "因笑谓迈曰：",
+      "translation": "于是笑着对苏迈说：",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "谓",
+          "pos": "动词",
+          "gloss": "对……说"
+        },
+        {
+          "surface": "曰",
+          "pos": "动词",
+          "gloss": "说"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-025",
+      "order": 25,
+      "text": "“汝识之乎？噌吰者，周景王之无射也；窾坎镗鞳者，魏庄子之歌钟也。古之人不余欺也！”",
+      "translation": "你记得这些吗？噌吰的声音，是周景王的无射钟；窾坎镗鞳的声音，是魏庄子的歌钟。古代的人没有欺骗我们啊！",
+      "tokens": [
+        {
+          "surface": "汝识",
+          "pos": "动词",
+          "gloss": "你知道，你记得"
+        },
+        {
+          "surface": "噌吰",
+          "pos": "拟声词",
+          "gloss": "钟鼓洪亮之声"
+        },
+        {
+          "surface": "无射",
+          "pos": "名词",
+          "gloss": "周景王所铸钟名"
+        },
+        {
+          "surface": "窾坎镗鞳",
+          "pos": "拟声词",
+          "gloss": "击物的声音"
+        },
+        {
+          "surface": "魏庄子",
+          "pos": "名词",
+          "gloss": "晋国大夫魏绛"
+        },
+        {
+          "surface": "歌钟",
+          "pos": "名词",
+          "gloss": "古代伴奏歌唱的钟"
+        },
+        {
+          "surface": "不余欺",
+          "pos": "固定结构",
+          "gloss": "宾语前置，即“不欺余”，没有欺骗我们"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-026",
+      "order": 26,
+      "text": "事不目见耳闻，而臆断其有无，可乎？",
+      "translation": "事情没有亲眼看见、亲耳听到，却凭主观猜测推断它的有无，可以吗？",
+      "tokens": [
+        {
+          "surface": "目",
+          "pos": "名词",
+          "gloss": "名词作状语，用眼睛"
+        },
+        {
+          "surface": "耳",
+          "pos": "名词",
+          "gloss": "名词作状语，用耳朵"
+        },
+        {
+          "surface": "臆断",
+          "pos": "动词",
+          "gloss": "凭主观猜测判断"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "指事情"
+        },
+        {
+          "surface": "可",
+          "pos": "形容词",
+          "gloss": "可以"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-027",
+      "order": 27,
+      "text": "郦元之所见闻，殆与余同，而言之不详；",
+      "translation": "郦道元所见所闻，大概和我相同，但他记述得不详细；",
+      "tokens": [
+        {
+          "surface": "所见闻",
+          "pos": "固定结构",
+          "gloss": "见到听到的"
+        },
+        {
+          "surface": "殆",
+          "pos": "副词",
+          "gloss": "大概"
+        },
+        {
+          "surface": "余",
+          "pos": "代词",
+          "gloss": "我"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表转折"
+        },
+        {
+          "surface": "详",
+          "pos": "形容词",
+          "gloss": "详细"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-028",
+      "order": 28,
+      "text": "士大夫终不肯以小舟夜泊绝壁之下，故莫能知；",
+      "translation": "士大夫们终究不肯乘小船在夜里停泊在绝壁之下，所以没有人能够知道；",
+      "tokens": [
+        {
+          "surface": "终",
+          "pos": "副词",
+          "gloss": "终究"
+        },
+        {
+          "surface": "以",
+          "pos": "介词",
+          "gloss": "用，乘"
+        },
+        {
+          "surface": "夜泊",
+          "pos": "动词",
+          "gloss": "夜里停泊"
+        },
+        {
+          "surface": "故",
+          "pos": "连词",
+          "gloss": "所以"
+        },
+        {
+          "surface": "莫",
+          "pos": "代词",
+          "gloss": "没有人"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-029",
+      "order": 29,
+      "text": "而渔工水师虽知而不能言。",
+      "translation": "而渔夫船工虽然知道却不能说明白。",
+      "tokens": [
+        {
+          "surface": "渔工水师",
+          "pos": "名词",
+          "gloss": "渔夫和船工"
+        },
+        {
+          "surface": "虽",
+          "pos": "连词",
+          "gloss": "虽然"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表转折"
+        },
+        {
+          "surface": "言",
+          "pos": "动词",
+          "gloss": "说明，说出"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-030",
+      "order": 30,
+      "text": "此世所以不传也。",
+      "translation": "这就是世上不能流传（石钟山得名由来）的原因。",
+      "tokens": [
+        {
+          "surface": "此",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "所以",
+          "pos": "固定结构",
+          "gloss": "……的原因"
+        },
+        {
+          "surface": "传",
+          "pos": "动词",
+          "gloss": "流传"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-031",
+      "order": 31,
+      "text": "而陋者乃以斧斤考击而求之，自以为得其实。",
+      "translation": "而浅陋的人竟然用斧头敲击石头来探求它，自以为得到了它的真相。",
+      "tokens": [
+        {
+          "surface": "陋者",
+          "pos": "名词",
+          "gloss": "浅陋的人"
+        },
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "竟然"
+        },
+        {
+          "surface": "斧斤",
+          "pos": "名词",
+          "gloss": "斧头"
+        },
+        {
+          "surface": "考击",
+          "pos": "动词",
+          "gloss": "敲击"
+        },
+        {
+          "surface": "其实",
+          "pos": "名词",
+          "gloss": "它的真相，古今异义"
+        }
+      ]
+    },
+    {
+      "id": "shizhongshan-032",
+      "order": 32,
+      "text": "余是以记之，盖叹郦元之简，而笑李渤之陋也。",
+      "translation": "我因此记下这件事，是感叹郦道元的简略，并讥笑李渤的浅陋。",
+      "tokens": [
+        {
+          "surface": "是以",
+          "pos": "固定结构",
+          "gloss": "因此"
+        },
+        {
+          "surface": "盖",
+          "pos": "连词",
+          "gloss": "表原因，因为"
+        },
+        {
+          "surface": "简",
+          "pos": "形容词",
+          "gloss": "简略"
+        },
+        {
+          "surface": "陋",
+          "pos": "形容词",
+          "gloss": "浅陋"
+        }
+      ]
+    }
+  ]
+}

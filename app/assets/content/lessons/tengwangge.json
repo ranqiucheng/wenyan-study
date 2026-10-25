@@ -1,0 +1,2015 @@
+{
+  "id": "tengwangge",
+  "title": "滕王阁序",
+  "author": "王勃",
+  "source": "《王子安集》",
+  "volume": "选择性必修下册",
+  "tags": [
+    "课标",
+    "序"
+  ],
+  "reviewed": true,
+  "summary": "从滕王阁盛景写到人生感慨，辞采华美，名句迭出，是骈文名篇。",
+  "sentences": [
+    {
+      "id": "tengwangge-001",
+      "order": 1,
+      "text": "豫章故郡，洪都新府。",
+      "translation": "这里曾是汉代的豫章郡，如今是洪州的都督府。",
+      "tokens": [
+        {
+          "surface": "豫章",
+          "pos": "名词",
+          "gloss": "汉代郡名"
+        },
+        {
+          "surface": "故",
+          "pos": "形容词",
+          "gloss": "旧有的"
+        },
+        {
+          "surface": "洪都",
+          "pos": "名词",
+          "gloss": "洪州都督府"
+        },
+        {
+          "surface": "新府",
+          "pos": "名词",
+          "gloss": "新设的官署"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-002",
+      "order": 2,
+      "text": "星分翼轸，地接衡庐。",
+      "translation": "天上的分野属于翼、轸二星，地势连接着衡山和庐山。",
+      "tokens": [
+        {
+          "surface": "星分",
+          "pos": "名词",
+          "gloss": "星宿的分野"
+        },
+        {
+          "surface": "翼轸",
+          "pos": "名词",
+          "gloss": "翼宿、轸宿"
+        },
+        {
+          "surface": "接",
+          "pos": "动词",
+          "gloss": "连接"
+        },
+        {
+          "surface": "衡庐",
+          "pos": "名词",
+          "gloss": "衡山、庐山"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-003",
+      "order": 3,
+      "text": "襟三江而带五湖，控蛮荆而引瓯越。",
+      "translation": "以三江为衣襟、以五湖为衣带，控制楚地、连接瓯越。",
+      "tokens": [
+        {
+          "surface": "襟",
+          "pos": "名词作动词",
+          "gloss": "以……为衣襟"
+        },
+        {
+          "surface": "三江",
+          "pos": "名词",
+          "gloss": "泛指长江中下游水系"
+        },
+        {
+          "surface": "带",
+          "pos": "名词作动词",
+          "gloss": "以……为衣带"
+        },
+        {
+          "surface": "五湖",
+          "pos": "名词",
+          "gloss": "泛指太湖一带湖泊"
+        },
+        {
+          "surface": "控",
+          "pos": "动词",
+          "gloss": "控制"
+        },
+        {
+          "surface": "蛮荆",
+          "pos": "名词",
+          "gloss": "古代楚地"
+        },
+        {
+          "surface": "引",
+          "pos": "动词",
+          "gloss": "连接"
+        },
+        {
+          "surface": "瓯越",
+          "pos": "名词",
+          "gloss": "古代越地"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-004",
+      "order": 4,
+      "text": "物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。",
+      "translation": "物的精华是上天的珍宝，宝剑的光芒直射牛、斗二星之间；人中有俊杰，大地有灵气，徐孺子使陈蕃专为他设榻。",
+      "tokens": [
+        {
+          "surface": "物华",
+          "pos": "名词",
+          "gloss": "物的精华"
+        },
+        {
+          "surface": "天宝",
+          "pos": "名词",
+          "gloss": "上天的珍宝"
+        },
+        {
+          "surface": "龙光",
+          "pos": "名词",
+          "gloss": "宝剑的光芒"
+        },
+        {
+          "surface": "牛斗",
+          "pos": "名词",
+          "gloss": "牛宿、斗宿"
+        },
+        {
+          "surface": "人杰",
+          "pos": "名词",
+          "gloss": "人中俊杰"
+        },
+        {
+          "surface": "地灵",
+          "pos": "名词",
+          "gloss": "大地灵气"
+        },
+        {
+          "surface": "徐孺",
+          "pos": "名词",
+          "gloss": "徐孺子"
+        },
+        {
+          "surface": "下",
+          "pos": "动词使动",
+          "gloss": "使……放下"
+        },
+        {
+          "surface": "榻",
+          "pos": "名词",
+          "gloss": "卧榻"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-005",
+      "order": 5,
+      "text": "雄州雾列，俊采星驰。",
+      "translation": "雄伟的州城像雾一样罗列，杰出的人才像星星一样飞驰。",
+      "tokens": [
+        {
+          "surface": "雄州",
+          "pos": "名词",
+          "gloss": "雄伟的州城"
+        },
+        {
+          "surface": "雾",
+          "pos": "名词作状语",
+          "gloss": "像雾一样"
+        },
+        {
+          "surface": "列",
+          "pos": "动词",
+          "gloss": "罗列"
+        },
+        {
+          "surface": "俊采",
+          "pos": "名词",
+          "gloss": "杰出人才"
+        },
+        {
+          "surface": "星",
+          "pos": "名词作状语",
+          "gloss": "像星星一样"
+        },
+        {
+          "surface": "驰",
+          "pos": "动词",
+          "gloss": "奔驰"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-006",
+      "order": 6,
+      "text": "台隍枕夷夏之交，宾主尽东南之美。",
+      "translation": "城台和护城河处在中原与蛮夷的交界，宾主都是东南一带的俊杰。",
+      "tokens": [
+        {
+          "surface": "台隍",
+          "pos": "名词",
+          "gloss": "城台与护城河"
+        },
+        {
+          "surface": "枕",
+          "pos": "动词",
+          "gloss": "占据，处在"
+        },
+        {
+          "surface": "夷夏",
+          "pos": "名词",
+          "gloss": "蛮夷与中原"
+        },
+        {
+          "surface": "交",
+          "pos": "名词",
+          "gloss": "交界"
+        },
+        {
+          "surface": "宾主",
+          "pos": "名词",
+          "gloss": "宾客与主人"
+        },
+        {
+          "surface": "尽",
+          "pos": "动词",
+          "gloss": "全是"
+        },
+        {
+          "surface": "美",
+          "pos": "名词",
+          "gloss": "俊杰"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-007",
+      "order": 7,
+      "text": "都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。",
+      "translation": "都督阎公有崇高的声望，仪仗从远方赶来；宇文刺史有美好的风范，车驾在此暂时停驻。",
+      "tokens": [
+        {
+          "surface": "都督",
+          "pos": "名词",
+          "gloss": "官名"
+        },
+        {
+          "surface": "雅望",
+          "pos": "名词",
+          "gloss": "崇高的声望"
+        },
+        {
+          "surface": "棨戟",
+          "pos": "名词",
+          "gloss": "仪仗"
+        },
+        {
+          "surface": "遥临",
+          "pos": "动词",
+          "gloss": "从远方来临"
+        },
+        {
+          "surface": "懿范",
+          "pos": "名词",
+          "gloss": "美好的风范"
+        },
+        {
+          "surface": "襜帷",
+          "pos": "名词",
+          "gloss": "车驾帷幕，代指车驾"
+        },
+        {
+          "surface": "暂驻",
+          "pos": "动词",
+          "gloss": "暂时停留"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-008",
+      "order": 8,
+      "text": "十旬休假，胜友如云；千里逢迎，高朋满座。",
+      "translation": "正值十日一休的假期，好友如云；远道而来迎接，高贵的宾客坐满席位。",
+      "tokens": [
+        {
+          "surface": "十旬",
+          "pos": "名词",
+          "gloss": "十天，指旬休"
+        },
+        {
+          "surface": "休假",
+          "pos": "动词",
+          "gloss": "休息"
+        },
+        {
+          "surface": "胜友",
+          "pos": "名词",
+          "gloss": "好友"
+        },
+        {
+          "surface": "如云",
+          "pos": "固定结构",
+          "gloss": "像云一样多"
+        },
+        {
+          "surface": "逢迎",
+          "pos": "动词",
+          "gloss": "迎接"
+        },
+        {
+          "surface": "高朋",
+          "pos": "名词",
+          "gloss": "高贵宾客"
+        },
+        {
+          "surface": "满座",
+          "pos": "动词",
+          "gloss": "坐满席位"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-009",
+      "order": 9,
+      "text": "腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。",
+      "translation": "文辞如蛟龙腾空、凤凰起舞，孟学士是文坛宗主；宝剑如紫电青霜，王将军的武库中藏着利器。",
+      "tokens": [
+        {
+          "surface": "腾蛟起凤",
+          "pos": "固定结构",
+          "gloss": "形容文辞华美"
+        },
+        {
+          "surface": "孟学士",
+          "pos": "名词",
+          "gloss": "孟姓学士"
+        },
+        {
+          "surface": "词宗",
+          "pos": "名词",
+          "gloss": "文坛宗主"
+        },
+        {
+          "surface": "紫电青霜",
+          "pos": "名词",
+          "gloss": "宝剑名"
+        },
+        {
+          "surface": "王将军",
+          "pos": "名词",
+          "gloss": "王姓将军"
+        },
+        {
+          "surface": "武库",
+          "pos": "名词",
+          "gloss": "兵器库"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-010",
+      "order": 10,
+      "text": "家君作宰，路出名区；童子何知，躬逢胜饯。",
+      "translation": "父亲做县令，我因探亲路过这名胜之地；我年幼无知，却亲身参加了这场盛大的宴会。",
+      "tokens": [
+        {
+          "surface": "家君",
+          "pos": "名词",
+          "gloss": "谦称父亲"
+        },
+        {
+          "surface": "作宰",
+          "pos": "动词",
+          "gloss": "做县令"
+        },
+        {
+          "surface": "出",
+          "pos": "动词",
+          "gloss": "经过"
+        },
+        {
+          "surface": "名区",
+          "pos": "名词",
+          "gloss": "名胜之地"
+        },
+        {
+          "surface": "童子",
+          "pos": "名词",
+          "gloss": "谦称自己年幼"
+        },
+        {
+          "surface": "躬逢",
+          "pos": "动词",
+          "gloss": "亲身参加"
+        },
+        {
+          "surface": "胜饯",
+          "pos": "名词",
+          "gloss": "盛大的宴会"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-011",
+      "order": 11,
+      "text": "时维九月，序属三秋。",
+      "translation": "时令是九月，季节属于深秋。",
+      "tokens": [
+        {
+          "surface": "维",
+          "pos": "判断词",
+          "gloss": "是"
+        },
+        {
+          "surface": "序",
+          "pos": "名词",
+          "gloss": "季节"
+        },
+        {
+          "surface": "属",
+          "pos": "动词",
+          "gloss": "属于"
+        },
+        {
+          "surface": "三秋",
+          "pos": "名词",
+          "gloss": "深秋"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-012",
+      "order": 12,
+      "text": "潦水尽而寒潭清，烟光凝而暮山紫。",
+      "translation": "积水消尽而寒潭清澈，烟霭凝聚而暮山呈紫色。",
+      "tokens": [
+        {
+          "surface": "潦水",
+          "pos": "名词",
+          "gloss": "积水"
+        },
+        {
+          "surface": "尽",
+          "pos": "动词",
+          "gloss": "消尽"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表承接"
+        },
+        {
+          "surface": "寒潭",
+          "pos": "名词",
+          "gloss": "寒冷的潭水"
+        },
+        {
+          "surface": "烟光",
+          "pos": "名词",
+          "gloss": "烟霭云气"
+        },
+        {
+          "surface": "凝",
+          "pos": "动词",
+          "gloss": "凝聚"
+        },
+        {
+          "surface": "暮山",
+          "pos": "名词",
+          "gloss": "傍晚的山"
+        },
+        {
+          "surface": "紫",
+          "pos": "形容词作动词",
+          "gloss": "呈现紫色"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-013",
+      "order": 13,
+      "text": "俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。",
+      "translation": "在高高的道路上驾好车马，到高峻的山陵寻访风景；来到滕王的长洲，见到滕王旧日的馆阁。",
+      "tokens": [
+        {
+          "surface": "俨",
+          "pos": "动词",
+          "gloss": "使……整齐，驾好"
+        },
+        {
+          "surface": "骖騑",
+          "pos": "名词",
+          "gloss": "驾车两旁的马"
+        },
+        {
+          "surface": "上路",
+          "pos": "名词",
+          "gloss": "高高的道路"
+        },
+        {
+          "surface": "崇阿",
+          "pos": "名词",
+          "gloss": "高峻的山陵"
+        },
+        {
+          "surface": "帝子",
+          "pos": "名词",
+          "gloss": "指滕王"
+        },
+        {
+          "surface": "长洲",
+          "pos": "名词",
+          "gloss": "滕王阁所在的长洲"
+        },
+        {
+          "surface": "天人",
+          "pos": "名词",
+          "gloss": "指滕王"
+        },
+        {
+          "surface": "旧馆",
+          "pos": "名词",
+          "gloss": "旧日的馆阁"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-014",
+      "order": 14,
+      "text": "层峦耸翠，上出重霄；飞阁流丹，下临无地。",
+      "translation": "层层山峦耸立着苍翠，向上直出云霄；飞架的楼阁涂饰丹彩，向下俯视不见地面。",
+      "tokens": [
+        {
+          "surface": "层峦",
+          "pos": "名词",
+          "gloss": "层层山峦"
+        },
+        {
+          "surface": "耸翠",
+          "pos": "动词",
+          "gloss": "耸立着苍翠"
+        },
+        {
+          "surface": "重霄",
+          "pos": "名词",
+          "gloss": "高空"
+        },
+        {
+          "surface": "飞阁",
+          "pos": "名词",
+          "gloss": "飞架的楼阁"
+        },
+        {
+          "surface": "流丹",
+          "pos": "动词",
+          "gloss": "涂饰丹彩"
+        },
+        {
+          "surface": "无地",
+          "pos": "名词",
+          "gloss": "不见地面之处"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-015",
+      "order": 15,
+      "text": "鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。",
+      "translation": "白鹤栖息的水边平地、野鸭聚集的小洲，尽显岛屿回环曲折的景致；桂木和木兰装饰的宫殿，依着山冈的形势而建。",
+      "tokens": [
+        {
+          "surface": "鹤汀",
+          "pos": "名词",
+          "gloss": "白鹤栖息的水边平地"
+        },
+        {
+          "surface": "凫渚",
+          "pos": "名词",
+          "gloss": "野鸭聚集的小洲"
+        },
+        {
+          "surface": "穷",
+          "pos": "动词",
+          "gloss": "穷尽"
+        },
+        {
+          "surface": "萦回",
+          "pos": "名词",
+          "gloss": "回环曲折"
+        },
+        {
+          "surface": "桂殿兰宫",
+          "pos": "名词",
+          "gloss": "桂木兰木装饰的宫殿"
+        },
+        {
+          "surface": "即",
+          "pos": "动词",
+          "gloss": "依着"
+        },
+        {
+          "surface": "冈峦",
+          "pos": "名词",
+          "gloss": "山冈"
+        },
+        {
+          "surface": "体势",
+          "pos": "名词",
+          "gloss": "形势"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-016",
+      "order": 16,
+      "text": "披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。",
+      "translation": "推开雕花的阁门，俯视雕饰的屋脊，山原辽阔充满视野，川泽迂曲令人惊异。",
+      "tokens": [
+        {
+          "surface": "披",
+          "pos": "动词",
+          "gloss": "推开"
+        },
+        {
+          "surface": "绣闼",
+          "pos": "名词",
+          "gloss": "雕花的阁门"
+        },
+        {
+          "surface": "俯",
+          "pos": "动词",
+          "gloss": "俯视"
+        },
+        {
+          "surface": "雕甍",
+          "pos": "名词",
+          "gloss": "雕饰的屋脊"
+        },
+        {
+          "surface": "旷",
+          "pos": "形容词",
+          "gloss": "辽阔"
+        },
+        {
+          "surface": "盈视",
+          "pos": "动词",
+          "gloss": "充满视野"
+        },
+        {
+          "surface": "纡",
+          "pos": "形容词",
+          "gloss": "迂曲"
+        },
+        {
+          "surface": "骇瞩",
+          "pos": "动词",
+          "gloss": "令人惊异注目"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-017",
+      "order": 17,
+      "text": "闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。",
+      "translation": "里巷遍地，都是钟鸣鼎食的富贵人家；船只挤满渡口，船尾画着青雀黄龙。",
+      "tokens": [
+        {
+          "surface": "闾阎",
+          "pos": "名词",
+          "gloss": "里巷"
+        },
+        {
+          "surface": "扑地",
+          "pos": "动词",
+          "gloss": "遍地"
+        },
+        {
+          "surface": "钟鸣鼎食",
+          "pos": "固定结构",
+          "gloss": "击钟列鼎而食，形容富贵"
+        },
+        {
+          "surface": "舸舰",
+          "pos": "名词",
+          "gloss": "船只"
+        },
+        {
+          "surface": "弥津",
+          "pos": "动词",
+          "gloss": "挤满渡口"
+        },
+        {
+          "surface": "青雀黄龙",
+          "pos": "名词",
+          "gloss": "船尾的青雀黄龙画饰"
+        },
+        {
+          "surface": "舳",
+          "pos": "名词",
+          "gloss": "船尾，代指船"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-018",
+      "order": 18,
+      "text": "云销雨霁，彩彻区明。",
+      "translation": "云消雨停，阳光普照，天空明净。",
+      "tokens": [
+        {
+          "surface": "销",
+          "pos": "动词",
+          "gloss": "通“消”，消散"
+        },
+        {
+          "surface": "霁",
+          "pos": "动词",
+          "gloss": "雨停"
+        },
+        {
+          "surface": "彩",
+          "pos": "名词",
+          "gloss": "阳光"
+        },
+        {
+          "surface": "彻",
+          "pos": "动词",
+          "gloss": "贯通，普照"
+        },
+        {
+          "surface": "区",
+          "pos": "名词",
+          "gloss": "天空"
+        },
+        {
+          "surface": "明",
+          "pos": "形容词",
+          "gloss": "明净"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-019",
+      "order": 19,
+      "text": "落霞与孤鹜齐飞，秋水共长天一色。",
+      "translation": "落霞与孤独的野鸭一起飞翔，秋水与长天浑然一色。",
+      "tokens": [
+        {
+          "surface": "落霞",
+          "pos": "名词",
+          "gloss": "晚霞"
+        },
+        {
+          "surface": "孤鹜",
+          "pos": "名词",
+          "gloss": "孤独的野鸭"
+        },
+        {
+          "surface": "齐飞",
+          "pos": "动词",
+          "gloss": "一起飞翔"
+        },
+        {
+          "surface": "秋水",
+          "pos": "名词",
+          "gloss": "秋天的江水"
+        },
+        {
+          "surface": "长天",
+          "pos": "名词",
+          "gloss": "广阔天空"
+        },
+        {
+          "surface": "一色",
+          "pos": "名词",
+          "gloss": "同一种颜色"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-020",
+      "order": 20,
+      "text": "渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。",
+      "translation": "渔舟傍晚唱歌，歌声响彻彭蠡湖畔；雁群惊觉寒冷，叫声消失在衡阳水边。",
+      "tokens": [
+        {
+          "surface": "唱晚",
+          "pos": "动词",
+          "gloss": "傍晚歌唱"
+        },
+        {
+          "surface": "响",
+          "pos": "名词",
+          "gloss": "歌声"
+        },
+        {
+          "surface": "穷",
+          "pos": "动词",
+          "gloss": "穷尽，响彻"
+        },
+        {
+          "surface": "彭蠡",
+          "pos": "名词",
+          "gloss": "彭蠡湖"
+        },
+        {
+          "surface": "雁阵",
+          "pos": "名词",
+          "gloss": "雁群"
+        },
+        {
+          "surface": "惊寒",
+          "pos": "动词",
+          "gloss": "被寒气惊起"
+        },
+        {
+          "surface": "声断",
+          "pos": "动词",
+          "gloss": "叫声消失"
+        },
+        {
+          "surface": "衡阳",
+          "pos": "名词",
+          "gloss": "衡阳"
+        },
+        {
+          "surface": "浦",
+          "pos": "名词",
+          "gloss": "水边"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-021",
+      "order": 21,
+      "text": "遥襟甫畅，逸兴遄飞。",
+      "translation": "远望的胸怀刚刚舒展，飘逸的兴致迅速飞扬。",
+      "tokens": [
+        {
+          "surface": "遥襟",
+          "pos": "名词",
+          "gloss": "远望的胸怀"
+        },
+        {
+          "surface": "甫",
+          "pos": "副词",
+          "gloss": "刚刚"
+        },
+        {
+          "surface": "畅",
+          "pos": "形容词",
+          "gloss": "舒畅"
+        },
+        {
+          "surface": "逸兴",
+          "pos": "名词",
+          "gloss": "飘逸的兴致"
+        },
+        {
+          "surface": "遄",
+          "pos": "副词",
+          "gloss": "迅速"
+        },
+        {
+          "surface": "飞",
+          "pos": "动词",
+          "gloss": "飞扬"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-022",
+      "order": 22,
+      "text": "爽籁发而清风生，纤歌凝而白云遏。",
+      "translation": "排箫声响起，清风随之而生；细柔的歌声凝聚，白云为之停留。",
+      "tokens": [
+        {
+          "surface": "爽籁",
+          "pos": "名词",
+          "gloss": "排箫"
+        },
+        {
+          "surface": "发",
+          "pos": "动词",
+          "gloss": "响起"
+        },
+        {
+          "surface": "清风",
+          "pos": "名词",
+          "gloss": "清凉的风"
+        },
+        {
+          "surface": "纤歌",
+          "pos": "名词",
+          "gloss": "细柔的歌声"
+        },
+        {
+          "surface": "凝",
+          "pos": "动词",
+          "gloss": "凝聚"
+        },
+        {
+          "surface": "遏",
+          "pos": "动词",
+          "gloss": "阻止，停留"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-023",
+      "order": 23,
+      "text": "睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。",
+      "translation": "睢园中的绿竹，气概超过陶渊明的酒杯；邺水边的荷花，光彩映照谢灵运的文笔。",
+      "tokens": [
+        {
+          "surface": "睢园",
+          "pos": "名词",
+          "gloss": "汉梁孝王园林"
+        },
+        {
+          "surface": "气",
+          "pos": "名词",
+          "gloss": "气概"
+        },
+        {
+          "surface": "凌",
+          "pos": "动词",
+          "gloss": "超过"
+        },
+        {
+          "surface": "彭泽",
+          "pos": "名词",
+          "gloss": "指陶渊明"
+        },
+        {
+          "surface": "樽",
+          "pos": "名词",
+          "gloss": "酒杯"
+        },
+        {
+          "surface": "邺水",
+          "pos": "名词",
+          "gloss": "邺地水边"
+        },
+        {
+          "surface": "朱华",
+          "pos": "名词",
+          "gloss": "荷花"
+        },
+        {
+          "surface": "临川",
+          "pos": "名词",
+          "gloss": "指谢灵运"
+        },
+        {
+          "surface": "笔",
+          "pos": "名词",
+          "gloss": "文笔"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-024",
+      "order": 24,
+      "text": "四美具，二难并。",
+      "translation": "良辰、美景、赏心、乐事四美齐备，贤主、嘉宾二难兼有。",
+      "tokens": [
+        {
+          "surface": "四美",
+          "pos": "名词",
+          "gloss": "良辰、美景、赏心、乐事"
+        },
+        {
+          "surface": "具",
+          "pos": "动词",
+          "gloss": "齐备"
+        },
+        {
+          "surface": "二难",
+          "pos": "名词",
+          "gloss": "两种难得的人"
+        },
+        {
+          "surface": "并",
+          "pos": "动词",
+          "gloss": "兼有"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-025",
+      "order": 25,
+      "text": "穷睇眄于中天，极娱游于暇日。",
+      "translation": "极目远望天空，在闲暇之日尽情游乐。",
+      "tokens": [
+        {
+          "surface": "穷",
+          "pos": "动词",
+          "gloss": "穷尽"
+        },
+        {
+          "surface": "睇眄",
+          "pos": "动词",
+          "gloss": "斜视，泛指观看"
+        },
+        {
+          "surface": "中天",
+          "pos": "名词",
+          "gloss": "天空"
+        },
+        {
+          "surface": "极",
+          "pos": "动词",
+          "gloss": "尽情"
+        },
+        {
+          "surface": "娱游",
+          "pos": "动词",
+          "gloss": "游乐"
+        },
+        {
+          "surface": "暇日",
+          "pos": "名词",
+          "gloss": "闲暇之日"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-026",
+      "order": 26,
+      "text": "天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。",
+      "translation": "天高地远，感到宇宙无穷无尽；兴致尽了悲哀袭来，认识到盛衰有定数。",
+      "tokens": [
+        {
+          "surface": "迥",
+          "pos": "形容词",
+          "gloss": "远"
+        },
+        {
+          "surface": "宇宙",
+          "pos": "名词",
+          "gloss": "天地四方"
+        },
+        {
+          "surface": "穷",
+          "pos": "形容词",
+          "gloss": "穷尽"
+        },
+        {
+          "surface": "兴",
+          "pos": "名词",
+          "gloss": "兴致"
+        },
+        {
+          "surface": "盈虚",
+          "pos": "名词",
+          "gloss": "盛衰"
+        },
+        {
+          "surface": "数",
+          "pos": "名词",
+          "gloss": "定数"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-027",
+      "order": 27,
+      "text": "望长安于日下，目吴会于云间。",
+      "translation": "远望京都长安，遥看云间吴会。",
+      "tokens": [
+        {
+          "surface": "长安",
+          "pos": "名词",
+          "gloss": "唐代都城"
+        },
+        {
+          "surface": "日下",
+          "pos": "名词",
+          "gloss": "京都"
+        },
+        {
+          "surface": "目",
+          "pos": "名词作动词",
+          "gloss": "遥看"
+        },
+        {
+          "surface": "吴会",
+          "pos": "名词",
+          "gloss": "吴郡、会稽"
+        },
+        {
+          "surface": "云间",
+          "pos": "名词",
+          "gloss": "云中"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-028",
+      "order": 28,
+      "text": "地势极而南溟深，天柱高而北辰远。",
+      "translation": "地势尽于南方而南海深，天柱高耸而北极星远。",
+      "tokens": [
+        {
+          "surface": "极",
+          "pos": "动词",
+          "gloss": "穷尽"
+        },
+        {
+          "surface": "南溟",
+          "pos": "名词",
+          "gloss": "南海"
+        },
+        {
+          "surface": "深",
+          "pos": "形容词",
+          "gloss": "深"
+        },
+        {
+          "surface": "天柱",
+          "pos": "名词",
+          "gloss": "天柱"
+        },
+        {
+          "surface": "北辰",
+          "pos": "名词",
+          "gloss": "北极星"
+        },
+        {
+          "surface": "远",
+          "pos": "形容词",
+          "gloss": "遥远"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-029",
+      "order": 29,
+      "text": "关山难越，谁悲失路之人？",
+      "translation": "关山难以越过，谁怜悯迷失道路的人？",
+      "tokens": [
+        {
+          "surface": "关山",
+          "pos": "名词",
+          "gloss": "关隘山岭"
+        },
+        {
+          "surface": "越",
+          "pos": "动词",
+          "gloss": "越过"
+        },
+        {
+          "surface": "悲",
+          "pos": "动词",
+          "gloss": "怜悯"
+        },
+        {
+          "surface": "失路",
+          "pos": "动词",
+          "gloss": "迷失道路"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-030",
+      "order": 30,
+      "text": "萍水相逢，尽是他乡之客。",
+      "translation": "像浮萍在水上相遇，都是异乡的客人。",
+      "tokens": [
+        {
+          "surface": "萍水",
+          "pos": "名词作状语",
+          "gloss": "像浮萍在水上"
+        },
+        {
+          "surface": "逢",
+          "pos": "动词",
+          "gloss": "相遇"
+        },
+        {
+          "surface": "尽",
+          "pos": "副词",
+          "gloss": "都"
+        },
+        {
+          "surface": "他乡",
+          "pos": "名词",
+          "gloss": "异乡"
+        },
+        {
+          "surface": "客",
+          "pos": "名词",
+          "gloss": "客人"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-031",
+      "order": 31,
+      "text": "怀帝阍而不见，奉宣室以何年？",
+      "translation": "怀念朝廷却不得相见，什么时候才能像贾谊那样被召入宣室？",
+      "tokens": [
+        {
+          "surface": "帝阍",
+          "pos": "名词",
+          "gloss": "天帝的守门人，代指朝廷"
+        },
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "被召见"
+        },
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "侍奉"
+        },
+        {
+          "surface": "宣室",
+          "pos": "名词",
+          "gloss": "汉代宫殿，代指朝廷"
+        },
+        {
+          "surface": "何年",
+          "pos": "名词",
+          "gloss": "哪一年"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-032",
+      "order": 32,
+      "text": "嗟乎！时运不齐，命途多舛。",
+      "translation": "唉！时运不好，命运多有不幸。",
+      "tokens": [
+        {
+          "surface": "嗟乎",
+          "pos": "叹词",
+          "gloss": "唉"
+        },
+        {
+          "surface": "时运",
+          "pos": "名词",
+          "gloss": "时运"
+        },
+        {
+          "surface": "不齐",
+          "pos": "形容词",
+          "gloss": "不好，不顺"
+        },
+        {
+          "surface": "命途",
+          "pos": "名词",
+          "gloss": "命运"
+        },
+        {
+          "surface": "舛",
+          "pos": "形容词",
+          "gloss": "不顺"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-033",
+      "order": 33,
+      "text": "冯唐易老，李广难封。",
+      "translation": "冯唐容易衰老，李广难以封侯。",
+      "tokens": [
+        {
+          "surface": "冯唐",
+          "pos": "名词",
+          "gloss": "冯唐"
+        },
+        {
+          "surface": "易",
+          "pos": "副词",
+          "gloss": "容易"
+        },
+        {
+          "surface": "老",
+          "pos": "动词",
+          "gloss": "衰老"
+        },
+        {
+          "surface": "李广",
+          "pos": "名词",
+          "gloss": "李广"
+        },
+        {
+          "surface": "难",
+          "pos": "副词",
+          "gloss": "难以"
+        },
+        {
+          "surface": "封",
+          "pos": "动词",
+          "gloss": "封侯"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-034",
+      "order": 34,
+      "text": "屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？",
+      "translation": "使贾谊屈居于长沙，并非没有圣明的君主；使梁鸿逃隐于海边，难道缺少政治清明的时代？",
+      "tokens": [
+        {
+          "surface": "屈",
+          "pos": "动词使动",
+          "gloss": "使……受屈"
+        },
+        {
+          "surface": "贾谊",
+          "pos": "名词",
+          "gloss": "贾谊"
+        },
+        {
+          "surface": "长沙",
+          "pos": "名词",
+          "gloss": "长沙"
+        },
+        {
+          "surface": "窜",
+          "pos": "动词使动",
+          "gloss": "使……逃隐"
+        },
+        {
+          "surface": "梁鸿",
+          "pos": "名词",
+          "gloss": "梁鸿"
+        },
+        {
+          "surface": "海曲",
+          "pos": "名词",
+          "gloss": "海边"
+        },
+        {
+          "surface": "明时",
+          "pos": "名词",
+          "gloss": "政治清明的时代"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-035",
+      "order": 35,
+      "text": "所赖君子见机，达人知命。",
+      "translation": "所依靠的是君子能够看到事物的细微征兆，通达事理的人懂得命运。",
+      "tokens": [
+        {
+          "surface": "所赖",
+          "pos": "固定结构",
+          "gloss": "所依靠的"
+        },
+        {
+          "surface": "君子",
+          "pos": "名词",
+          "gloss": "有修养的人"
+        },
+        {
+          "surface": "见机",
+          "pos": "动词",
+          "gloss": "看到细微征兆"
+        },
+        {
+          "surface": "达人",
+          "pos": "名词",
+          "gloss": "通达事理的人"
+        },
+        {
+          "surface": "知命",
+          "pos": "动词",
+          "gloss": "懂得命运"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-036",
+      "order": 36,
+      "text": "老当益壮，宁移白首之心？",
+      "translation": "年老应当更加豪壮，怎么能改变白头老人的心志？",
+      "tokens": [
+        {
+          "surface": "当",
+          "pos": "副词",
+          "gloss": "应当"
+        },
+        {
+          "surface": "益",
+          "pos": "副词",
+          "gloss": "更加"
+        },
+        {
+          "surface": "壮",
+          "pos": "形容词",
+          "gloss": "豪壮"
+        },
+        {
+          "surface": "宁",
+          "pos": "副词",
+          "gloss": "怎么"
+        },
+        {
+          "surface": "移",
+          "pos": "动词",
+          "gloss": "改变"
+        },
+        {
+          "surface": "白首",
+          "pos": "名词",
+          "gloss": "白头，指年老"
+        },
+        {
+          "surface": "心",
+          "pos": "名词",
+          "gloss": "心志"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-037",
+      "order": 37,
+      "text": "穷且益坚，不坠青云之志。",
+      "translation": "处境困厄却更加坚定，不放弃高远的志向。",
+      "tokens": [
+        {
+          "surface": "穷",
+          "pos": "形容词",
+          "gloss": "处境困厄"
+        },
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "却"
+        },
+        {
+          "surface": "益",
+          "pos": "副词",
+          "gloss": "更加"
+        },
+        {
+          "surface": "坚",
+          "pos": "形容词",
+          "gloss": "坚定"
+        },
+        {
+          "surface": "坠",
+          "pos": "动词",
+          "gloss": "放弃"
+        },
+        {
+          "surface": "青云",
+          "pos": "名词",
+          "gloss": "高远的志向"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-038",
+      "order": 38,
+      "text": "酌贪泉而觉爽，处涸辙以犹欢。",
+      "translation": "饮贪泉之水却感到清爽，身处干涸的车辙中仍然欢乐。",
+      "tokens": [
+        {
+          "surface": "酌",
+          "pos": "动词",
+          "gloss": "饮"
+        },
+        {
+          "surface": "贪泉",
+          "pos": "名词",
+          "gloss": "贪泉"
+        },
+        {
+          "surface": "觉爽",
+          "pos": "动词",
+          "gloss": "感到清爽"
+        },
+        {
+          "surface": "处",
+          "pos": "动词",
+          "gloss": "处在"
+        },
+        {
+          "surface": "涸辙",
+          "pos": "名词",
+          "gloss": "干涸的车辙"
+        },
+        {
+          "surface": "犹欢",
+          "pos": "动词",
+          "gloss": "仍然欢乐"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-039",
+      "order": 39,
+      "text": "北海虽赊，扶摇可接；东隅已逝，桑榆非晚。",
+      "translation": "北海虽然遥远，乘着扶摇大风可以到达；早晨的时光已经逝去，傍晚的时光还不算晚。",
+      "tokens": [
+        {
+          "surface": "赊",
+          "pos": "形容词",
+          "gloss": "遥远"
+        },
+        {
+          "surface": "扶摇",
+          "pos": "名词",
+          "gloss": "旋风"
+        },
+        {
+          "surface": "接",
+          "pos": "动词",
+          "gloss": "到达"
+        },
+        {
+          "surface": "东隅",
+          "pos": "名词",
+          "gloss": "东方日出处，指早晨"
+        },
+        {
+          "surface": "逝",
+          "pos": "动词",
+          "gloss": "逝去"
+        },
+        {
+          "surface": "桑榆",
+          "pos": "名词",
+          "gloss": "日落处，指傍晚"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-040",
+      "order": 40,
+      "text": "孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！",
+      "translation": "孟尝品行高洁，只留下报国之情；阮籍放纵不羁，我怎能效法他穷途痛哭！",
+      "tokens": [
+        {
+          "surface": "孟尝",
+          "pos": "名词",
+          "gloss": "东汉廉吏孟尝"
+        },
+        {
+          "surface": "高洁",
+          "pos": "形容词",
+          "gloss": "高尚纯洁"
+        },
+        {
+          "surface": "空余",
+          "pos": "动词",
+          "gloss": "只留下"
+        },
+        {
+          "surface": "报国",
+          "pos": "动词",
+          "gloss": "报效国家"
+        },
+        {
+          "surface": "阮籍",
+          "pos": "名词",
+          "gloss": "阮籍"
+        },
+        {
+          "surface": "猖狂",
+          "pos": "形容词",
+          "gloss": "放纵不羁"
+        },
+        {
+          "surface": "效",
+          "pos": "动词",
+          "gloss": "效法"
+        },
+        {
+          "surface": "穷途",
+          "pos": "名词",
+          "gloss": "绝路"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-041",
+      "order": 41,
+      "text": "勃，三尺微命，一介书生。",
+      "translation": "我王勃，只是一个身命卑微、微不足道的书生。",
+      "tokens": [
+        {
+          "surface": "勃",
+          "pos": "名词",
+          "gloss": "王勃自称"
+        },
+        {
+          "surface": "三尺",
+          "pos": "名词",
+          "gloss": "指卑微的身命"
+        },
+        {
+          "surface": "微命",
+          "pos": "名词",
+          "gloss": "卑微的生命"
+        },
+        {
+          "surface": "一介",
+          "pos": "数量词",
+          "gloss": "一个，含渺小意"
+        },
+        {
+          "surface": "书生",
+          "pos": "名词",
+          "gloss": "读书人"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-042",
+      "order": 42,
+      "text": "无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。",
+      "translation": "没有门路请缨报国，年纪却与终军二十岁相当；怀有投笔从戎的志向，仰慕宗悫乘长风破浪的豪情。",
+      "tokens": [
+        {
+          "surface": "请缨",
+          "pos": "动词",
+          "gloss": "请求杀敌报国"
+        },
+        {
+          "surface": "等",
+          "pos": "动词",
+          "gloss": "等同"
+        },
+        {
+          "surface": "终军",
+          "pos": "名词",
+          "gloss": "终军"
+        },
+        {
+          "surface": "弱冠",
+          "pos": "名词",
+          "gloss": "二十岁"
+        },
+        {
+          "surface": "投笔",
+          "pos": "动词",
+          "gloss": "投笔从戎"
+        },
+        {
+          "surface": "慕",
+          "pos": "动词",
+          "gloss": "仰慕"
+        },
+        {
+          "surface": "宗悫",
+          "pos": "名词",
+          "gloss": "宗悫"
+        },
+        {
+          "surface": "长风",
+          "pos": "名词",
+          "gloss": "乘风破浪的志向"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-043",
+      "order": 43,
+      "text": "舍簪笏于百龄，奉晨昏于万里。",
+      "translation": "舍弃一生的功名仕途，到万里之外侍奉父母。",
+      "tokens": [
+        {
+          "surface": "舍",
+          "pos": "动词",
+          "gloss": "舍弃"
+        },
+        {
+          "surface": "簪笏",
+          "pos": "名词",
+          "gloss": "官帽和手板，代指仕途"
+        },
+        {
+          "surface": "百龄",
+          "pos": "名词",
+          "gloss": "一生"
+        },
+        {
+          "surface": "奉",
+          "pos": "动词",
+          "gloss": "侍奉"
+        },
+        {
+          "surface": "晨昏",
+          "pos": "名词",
+          "gloss": "早晚问安，指侍奉父母"
+        },
+        {
+          "surface": "万里",
+          "pos": "名词",
+          "gloss": "万里之外"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-044",
+      "order": 44,
+      "text": "非谢家之宝树，接孟氏之芳邻。",
+      "translation": "我并非谢家那样的优秀子弟，却有幸与孟母那样的好邻居交往。",
+      "tokens": [
+        {
+          "surface": "谢家",
+          "pos": "名词",
+          "gloss": "谢安家族"
+        },
+        {
+          "surface": "宝树",
+          "pos": "名词",
+          "gloss": "优秀子弟"
+        },
+        {
+          "surface": "接",
+          "pos": "动词",
+          "gloss": "结交"
+        },
+        {
+          "surface": "孟氏",
+          "pos": "名词",
+          "gloss": "孟母"
+        },
+        {
+          "surface": "芳邻",
+          "pos": "名词",
+          "gloss": "好邻居"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-045",
+      "order": 45,
+      "text": "他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。",
+      "translation": "将来有一天到父亲庭前，惭愧地陪侍聆听教诲；今天捧着衣袖拜见，高兴地依托在龙门之下。",
+      "tokens": [
+        {
+          "surface": "趋庭",
+          "pos": "动词",
+          "gloss": "快步走过庭前，指受父教"
+        },
+        {
+          "surface": "叨陪",
+          "pos": "动词",
+          "gloss": "惭愧地陪侍"
+        },
+        {
+          "surface": "鲤对",
+          "pos": "名词",
+          "gloss": "孔鲤应对父亲，指聆听父教"
+        },
+        {
+          "surface": "今兹",
+          "pos": "名词",
+          "gloss": "现在"
+        },
+        {
+          "surface": "捧袂",
+          "pos": "动词",
+          "gloss": "捧袖行礼"
+        },
+        {
+          "surface": "龙门",
+          "pos": "名词",
+          "gloss": "龙门，喻高门"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-046",
+      "order": 46,
+      "text": "杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？",
+      "translation": "没有遇到杨得意，只能抚着凌云之作自我惋惜；既然遇到钟子期，弹奏流水之曲又有什么惭愧？",
+      "tokens": [
+        {
+          "surface": "杨意",
+          "pos": "名词",
+          "gloss": "杨得意"
+        },
+        {
+          "surface": "不逢",
+          "pos": "动词",
+          "gloss": "没有遇到"
+        },
+        {
+          "surface": "凌云",
+          "pos": "名词",
+          "gloss": "凌云之作"
+        },
+        {
+          "surface": "自惜",
+          "pos": "动词",
+          "gloss": "自我惋惜"
+        },
+        {
+          "surface": "钟期",
+          "pos": "名词",
+          "gloss": "钟子期"
+        },
+        {
+          "surface": "既遇",
+          "pos": "动词",
+          "gloss": "已经遇到"
+        },
+        {
+          "surface": "流水",
+          "pos": "名词",
+          "gloss": "流水曲"
+        },
+        {
+          "surface": "惭",
+          "pos": "动词",
+          "gloss": "惭愧"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-047",
+      "order": 47,
+      "text": "呜呼！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。",
+      "translation": "唉！美好的地方不能长存，盛大的宴会难以再遇；兰亭集会已成往事，金谷园已成废墟。",
+      "tokens": [
+        {
+          "surface": "胜地",
+          "pos": "名词",
+          "gloss": "美好的地方"
+        },
+        {
+          "surface": "不常",
+          "pos": "形容词",
+          "gloss": "不能长存"
+        },
+        {
+          "surface": "盛筵",
+          "pos": "名词",
+          "gloss": "盛大的宴会"
+        },
+        {
+          "surface": "难再",
+          "pos": "动词",
+          "gloss": "难以再遇"
+        },
+        {
+          "surface": "兰亭",
+          "pos": "名词",
+          "gloss": "兰亭"
+        },
+        {
+          "surface": "已矣",
+          "pos": "动词",
+          "gloss": "已经过去"
+        },
+        {
+          "surface": "梓泽",
+          "pos": "名词",
+          "gloss": "金谷园"
+        },
+        {
+          "surface": "丘墟",
+          "pos": "名词",
+          "gloss": "废墟"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-048",
+      "order": 48,
+      "text": "临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。",
+      "translation": "临别时赠言，有幸在盛大的宴会上承受恩惠；登高作赋，这是对诸位先生的期望。",
+      "tokens": [
+        {
+          "surface": "赠言",
+          "pos": "动词",
+          "gloss": "赠言"
+        },
+        {
+          "surface": "幸",
+          "pos": "副词",
+          "gloss": "有幸"
+        },
+        {
+          "surface": "承恩",
+          "pos": "动词",
+          "gloss": "承受恩惠"
+        },
+        {
+          "surface": "伟饯",
+          "pos": "名词",
+          "gloss": "盛大的宴会"
+        },
+        {
+          "surface": "登高",
+          "pos": "动词",
+          "gloss": "登高"
+        },
+        {
+          "surface": "作赋",
+          "pos": "动词",
+          "gloss": "作赋"
+        },
+        {
+          "surface": "所望",
+          "pos": "固定结构",
+          "gloss": "所期望的"
+        },
+        {
+          "surface": "群公",
+          "pos": "名词",
+          "gloss": "诸位先生"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-049",
+      "order": 49,
+      "text": "敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。",
+      "translation": "冒昧竭尽我浅薄的情怀，恭敬地写下这篇短序；请大家各赋一言，四韵诗都已写成。",
+      "tokens": [
+        {
+          "surface": "敢",
+          "pos": "副词",
+          "gloss": "冒昧"
+        },
+        {
+          "surface": "竭",
+          "pos": "动词",
+          "gloss": "竭尽"
+        },
+        {
+          "surface": "鄙怀",
+          "pos": "名词",
+          "gloss": "浅薄的情怀"
+        },
+        {
+          "surface": "恭疏",
+          "pos": "动词",
+          "gloss": "恭敬地书写"
+        },
+        {
+          "surface": "短引",
+          "pos": "名词",
+          "gloss": "短序"
+        },
+        {
+          "surface": "一言",
+          "pos": "名词",
+          "gloss": "一首诗"
+        },
+        {
+          "surface": "均赋",
+          "pos": "动词",
+          "gloss": "都赋诗"
+        },
+        {
+          "surface": "四韵",
+          "pos": "名词",
+          "gloss": "四韵诗"
+        }
+      ]
+    },
+    {
+      "id": "tengwangge-050",
+      "order": 50,
+      "text": "请洒潘江，各倾陆海云尔。",
+      "translation": "请各位像潘岳那样挥洒文才，像陆机那样倾泻才学吧。",
+      "tokens": [
+        {
+          "surface": "洒",
+          "pos": "动词",
+          "gloss": "挥洒"
+        },
+        {
+          "surface": "潘江",
+          "pos": "名词",
+          "gloss": "潘岳的文才"
+        },
+        {
+          "surface": "倾",
+          "pos": "动词",
+          "gloss": "倾泻"
+        },
+        {
+          "surface": "陆海",
+          "pos": "名词",
+          "gloss": "陆机的才学"
+        },
+        {
+          "surface": "云尔",
+          "pos": "助词",
+          "gloss": "表示语气结束"
+        }
+      ]
+    }
+  ]
+}

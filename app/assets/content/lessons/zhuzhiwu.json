@@ -1,0 +1,800 @@
+{
+  "id": "zhuzhiwu",
+  "title": "烛之武退秦师",
+  "author": "左丘明",
+  "source": "《左传》",
+  "volume": "必修下册",
+  "tags": [
+    "课标",
+    "史传"
+  ],
+  "reviewed": true,
+  "summary": "秦晋围郑，烛之武夜入秦营，以利害说服秦伯退兵，存郑于危亡。",
+  "sentences": [
+    {
+      "id": "zhuzhiwu-001",
+      "order": 1,
+      "text": "晋侯、秦伯围郑，以其无礼于晋，且贰于楚也。",
+      "translation": "晋文公、秦穆公围攻郑国，因为郑国曾对晋国无礼，并且在与晋国结盟的情况下又与楚国结盟。",
+      "tokens": [
+        {
+          "surface": "晋侯",
+          "pos": "名词",
+          "gloss": "晋文公"
+        },
+        {
+          "surface": "秦伯",
+          "pos": "名词",
+          "gloss": "秦穆公"
+        },
+        {
+          "surface": "围",
+          "pos": "动词",
+          "gloss": "围攻"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "无礼于晋",
+          "pos": "固定结构",
+          "gloss": "对晋国无礼，状语后置"
+        },
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "并且"
+        },
+        {
+          "surface": "贰",
+          "pos": "动词",
+          "gloss": "从属二主"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表判断语气"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-002",
+      "order": 2,
+      "text": "晋军函陵，秦军氾南。",
+      "translation": "晋军驻扎在函陵，秦军驻扎在氾南。",
+      "tokens": [
+        {
+          "surface": "军",
+          "pos": "动词",
+          "gloss": "驻扎，名作动"
+        },
+        {
+          "surface": "函陵",
+          "pos": "名词",
+          "gloss": "地名，在今河南新郑北"
+        },
+        {
+          "surface": "氾南",
+          "pos": "名词",
+          "gloss": "氾水之南"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-003",
+      "order": 3,
+      "text": "佚之狐言于郑伯曰：“国危矣，若使烛之武见秦君，师必退。”",
+      "translation": "佚之狐对郑伯说：国家危险了，如果派烛之武去见秦君，秦军一定会撤退。",
+      "tokens": [
+        {
+          "surface": "言于",
+          "pos": "动词",
+          "gloss": "对……说，状语后置"
+        },
+        {
+          "surface": "若",
+          "pos": "连词",
+          "gloss": "如果"
+        },
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "拜见"
+        },
+        {
+          "surface": "师",
+          "pos": "名词",
+          "gloss": "军队"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-004",
+      "order": 4,
+      "text": "公从之。",
+      "translation": "郑伯听从了他的话。",
+      "tokens": [
+        {
+          "surface": "公",
+          "pos": "名词",
+          "gloss": "郑伯"
+        },
+        {
+          "surface": "从",
+          "pos": "动词",
+          "gloss": "听从"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指佚之狐的话"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-005",
+      "order": 5,
+      "text": "辞曰：“臣之壮也，犹不如人；今老矣，无能为也已。”",
+      "translation": "烛之武推辞说：我壮年的时候，尚且不如别人；现在老了，不能做什么了。",
+      "tokens": [
+        {
+          "surface": "辞",
+          "pos": "动词",
+          "gloss": "推辞"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "主谓之间，取消独立性"
+        },
+        {
+          "surface": "犹",
+          "pos": "副词",
+          "gloss": "尚且"
+        },
+        {
+          "surface": "无能为",
+          "pos": "固定结构",
+          "gloss": "不能做什么"
+        },
+        {
+          "surface": "也已",
+          "pos": "助词",
+          "gloss": "语气词连用"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-006",
+      "order": 6,
+      "text": "公曰：“吾不能早用子，今急而求子，是寡人之过也。",
+      "translation": "郑伯说：我不能及早任用您，现在情况危急才来求您，这是我的过错。",
+      "tokens": [
+        {
+          "surface": "子",
+          "pos": "代词",
+          "gloss": "您，尊称"
+        },
+        {
+          "surface": "急",
+          "pos": "形容词",
+          "gloss": "情况危急"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "才"
+        },
+        {
+          "surface": "是",
+          "pos": "代词",
+          "gloss": "这"
+        },
+        {
+          "surface": "过",
+          "pos": "名词",
+          "gloss": "过错"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-007",
+      "order": 7,
+      "text": "然郑亡，子亦有不利焉。”",
+      "translation": "然而郑国灭亡了，您也有不利啊。",
+      "tokens": [
+        {
+          "surface": "然",
+          "pos": "连词",
+          "gloss": "然而"
+        },
+        {
+          "surface": "亡",
+          "pos": "动词",
+          "gloss": "灭亡"
+        },
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "焉",
+          "pos": "助词",
+          "gloss": "句末语气词"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-008",
+      "order": 8,
+      "text": "许之。",
+      "translation": "烛之武答应了这件事。",
+      "tokens": [
+        {
+          "surface": "许",
+          "pos": "动词",
+          "gloss": "答应"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指郑伯"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-009",
+      "order": 9,
+      "text": "夜缒而出，见秦伯，曰：“秦、晋围郑，郑既知亡矣。",
+      "translation": "夜里用绳子把烛之武从城墙上放下去，出城去见秦伯，说：秦、晋两国围攻郑国，郑国已经知道要灭亡了。",
+      "tokens": [
+        {
+          "surface": "夜",
+          "pos": "名词",
+          "gloss": "在夜里，名作状"
+        },
+        {
+          "surface": "缒",
+          "pos": "动词",
+          "gloss": "用绳子拴着往下送"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表修饰"
+        },
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "拜见"
+        },
+        {
+          "surface": "既",
+          "pos": "副词",
+          "gloss": "已经"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-010",
+      "order": 10,
+      "text": "若亡郑而有益于君，敢以烦执事。",
+      "translation": "如果使郑国灭亡对您有好处，那就冒昧地拿这件事麻烦您。",
+      "tokens": [
+        {
+          "surface": "若",
+          "pos": "连词",
+          "gloss": "如果"
+        },
+        {
+          "surface": "亡",
+          "pos": "动词",
+          "gloss": "使……灭亡，使动"
+        },
+        {
+          "surface": "而",
+          "pos": "连词",
+          "gloss": "表顺承"
+        },
+        {
+          "surface": "益",
+          "pos": "名词",
+          "gloss": "好处"
+        },
+        {
+          "surface": "敢",
+          "pos": "副词",
+          "gloss": "冒昧地"
+        },
+        {
+          "surface": "执事",
+          "pos": "名词",
+          "gloss": "办事的人，指秦伯"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-011",
+      "order": 11,
+      "text": "越国以鄙远，君知其难也。",
+      "translation": "越过晋国把远方的郑国作为秦国的边邑，您知道那是很难的。",
+      "tokens": [
+        {
+          "surface": "越",
+          "pos": "动词",
+          "gloss": "越过"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "鄙",
+          "pos": "动词",
+          "gloss": "把……当作边邑"
+        },
+        {
+          "surface": "远",
+          "pos": "名词",
+          "gloss": "远方的国家"
+        },
+        {
+          "surface": "其",
+          "pos": "代词",
+          "gloss": "那"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-012",
+      "order": 12,
+      "text": "焉用亡郑以陪邻？",
+      "translation": "哪里用得着使郑国灭亡来增加邻国晋国的土地呢？",
+      "tokens": [
+        {
+          "surface": "焉",
+          "pos": "副词",
+          "gloss": "哪里，怎么"
+        },
+        {
+          "surface": "用",
+          "pos": "介词",
+          "gloss": "用，需要"
+        },
+        {
+          "surface": "亡",
+          "pos": "动词",
+          "gloss": "使……灭亡"
+        },
+        {
+          "surface": "以",
+          "pos": "连词",
+          "gloss": "来"
+        },
+        {
+          "surface": "陪",
+          "pos": "动词",
+          "gloss": "增加"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-013",
+      "order": 13,
+      "text": "邻之厚，君之薄也。",
+      "translation": "邻国的势力雄厚了，您的势力就薄弱了。",
+      "tokens": [
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "主谓之间，取消独立性"
+        },
+        {
+          "surface": "厚",
+          "pos": "形容词",
+          "gloss": "雄厚"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "主谓之间，取消独立性"
+        },
+        {
+          "surface": "薄",
+          "pos": "形容词",
+          "gloss": "薄弱"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-014",
+      "order": 14,
+      "text": "若舍郑以为东道主，行李之往来，共其乏困，君亦无所害。",
+      "translation": "如果放弃围攻郑国而把它作为东方道路上的主人，秦国使者往来，供给他们缺少的东西，您也没有什么害处。",
+      "tokens": [
+        {
+          "surface": "舍",
+          "pos": "动词",
+          "gloss": "放弃"
+        },
+        {
+          "surface": "以为",
+          "pos": "固定结构",
+          "gloss": "把……作为"
+        },
+        {
+          "surface": "东道主",
+          "pos": "名词",
+          "gloss": "东方道路上接待客人的主人"
+        },
+        {
+          "surface": "行李",
+          "pos": "名词",
+          "gloss": "使者，古今异义"
+        },
+        {
+          "surface": "共",
+          "pos": "动词",
+          "gloss": "同“供”，供给"
+        },
+        {
+          "surface": "乏困",
+          "pos": "名词",
+          "gloss": "缺少的东西"
+        },
+        {
+          "surface": "无所害",
+          "pos": "固定结构",
+          "gloss": "没有害处"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-015",
+      "order": 15,
+      "text": "且君尝为晋君赐矣，许君焦、瑕，朝济而夕设版焉，君之所知也。",
+      "translation": "况且您曾经对晋君有恩赐，晋君答应给您焦、瑕两地，但他早上渡过黄河，晚上就修筑防御工事，这是您知道的。",
+      "tokens": [
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "况且"
+        },
+        {
+          "surface": "尝",
+          "pos": "副词",
+          "gloss": "曾经"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "给予，施与"
+        },
+        {
+          "surface": "赐",
+          "pos": "名词",
+          "gloss": "恩惠"
+        },
+        {
+          "surface": "许",
+          "pos": "动词",
+          "gloss": "答应"
+        },
+        {
+          "surface": "朝",
+          "pos": "名词",
+          "gloss": "在早上，名作状"
+        },
+        {
+          "surface": "济",
+          "pos": "动词",
+          "gloss": "渡河"
+        },
+        {
+          "surface": "版",
+          "pos": "名词",
+          "gloss": "筑墙用的夹板，指防御工事"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-016",
+      "order": 16,
+      "text": "夫晋，何厌之有？",
+      "translation": "晋国，有什么满足的呢？",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "何",
+          "pos": "代词",
+          "gloss": "什么"
+        },
+        {
+          "surface": "厌",
+          "pos": "动词",
+          "gloss": "同“餍”，满足"
+        },
+        {
+          "surface": "之",
+          "pos": "助词",
+          "gloss": "宾语前置的标志"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-017",
+      "order": 17,
+      "text": "既东封郑，又欲肆其西封，若不阙秦，将焉取之？",
+      "translation": "它已经在东边使郑国成为疆界，又想扩张它西边的疆界，如果不侵损秦国，将从哪里取得土地呢？",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "东",
+          "pos": "名词",
+          "gloss": "向东，名作状"
+        },
+        {
+          "surface": "封",
+          "pos": "动词",
+          "gloss": "使……成为疆界"
+        },
+        {
+          "surface": "肆",
+          "pos": "动词",
+          "gloss": "扩张"
+        },
+        {
+          "surface": "阙",
+          "pos": "动词",
+          "gloss": "侵损，削减"
+        },
+        {
+          "surface": "焉",
+          "pos": "代词",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-018",
+      "order": 18,
+      "text": "阙秦以利晋，唯君图之。",
+      "translation": "侵损秦国来使晋国得利，希望您考虑这件事。",
+      "tokens": [
+        {
+          "surface": "阙",
+          "pos": "动词",
+          "gloss": "侵损，削减"
+        },
+        {
+          "surface": "利",
+          "pos": "动词",
+          "gloss": "使……得利，使动"
+        },
+        {
+          "surface": "唯",
+          "pos": "副词",
+          "gloss": "希望"
+        },
+        {
+          "surface": "图",
+          "pos": "动词",
+          "gloss": "考虑"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-019",
+      "order": 19,
+      "text": "秦伯说，与郑人盟。",
+      "translation": "秦伯很高兴，与郑国人结盟。",
+      "tokens": [
+        {
+          "surface": "说",
+          "pos": "动词",
+          "gloss": "同“悦”，高兴"
+        },
+        {
+          "surface": "与",
+          "pos": "介词",
+          "gloss": "跟，同"
+        },
+        {
+          "surface": "盟",
+          "pos": "动词",
+          "gloss": "结盟"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-020",
+      "order": 20,
+      "text": "使杞子、逢孙、杨孙戍之，乃还。",
+      "translation": "秦国派杞子、逢孙、杨孙守卫郑国，于是秦军就撤回了。",
+      "tokens": [
+        {
+          "surface": "使",
+          "pos": "动词",
+          "gloss": "派"
+        },
+        {
+          "surface": "戍",
+          "pos": "动词",
+          "gloss": "守卫"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指郑国"
+        },
+        {
+          "surface": "乃",
+          "pos": "副词",
+          "gloss": "于是"
+        },
+        {
+          "surface": "还",
+          "pos": "动词",
+          "gloss": "撤军回国"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-021",
+      "order": 21,
+      "text": "子犯请击之。",
+      "translation": "子犯请求攻击秦军。",
+      "tokens": [
+        {
+          "surface": "请",
+          "pos": "动词",
+          "gloss": "请求"
+        },
+        {
+          "surface": "击",
+          "pos": "动词",
+          "gloss": "攻击"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指秦军"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-022",
+      "order": 22,
+      "text": "公曰：“不可。微夫人之力不及此。",
+      "translation": "晋文公说：不行。如果没有那个人的力量，我不会有今天。",
+      "tokens": [
+        {
+          "surface": "不可",
+          "pos": "固定结构",
+          "gloss": "不行"
+        },
+        {
+          "surface": "微",
+          "pos": "连词",
+          "gloss": "如果没有"
+        },
+        {
+          "surface": "夫人",
+          "pos": "名词",
+          "gloss": "那个人，古今异义"
+        },
+        {
+          "surface": "及",
+          "pos": "动词",
+          "gloss": "到达"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-023",
+      "order": 23,
+      "text": "因人之力而敝之，不仁；失其所与，不知；以乱易整，不武。",
+      "translation": "依靠别人的力量却损害他，是不仁；失去自己的同盟者，是不明智；用混乱替代整齐，是不勇武。",
+      "tokens": [
+        {
+          "surface": "因",
+          "pos": "介词",
+          "gloss": "依靠"
+        },
+        {
+          "surface": "敝",
+          "pos": "动词",
+          "gloss": "损害"
+        },
+        {
+          "surface": "所与",
+          "pos": "名词",
+          "gloss": "同盟者"
+        },
+        {
+          "surface": "不知",
+          "pos": "形容词",
+          "gloss": "同“智”，明智"
+        },
+        {
+          "surface": "易",
+          "pos": "动词",
+          "gloss": "替代"
+        },
+        {
+          "surface": "整",
+          "pos": "形容词",
+          "gloss": "整齐"
+        },
+        {
+          "surface": "武",
+          "pos": "形容词",
+          "gloss": "勇武"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-024",
+      "order": 24,
+      "text": "吾其还也。",
+      "translation": "我还是回去吧。",
+      "tokens": [
+        {
+          "surface": "其",
+          "pos": "副词",
+          "gloss": "表商量语气，还是"
+        },
+        {
+          "surface": "还",
+          "pos": "动词",
+          "gloss": "回去"
+        },
+        {
+          "surface": "也",
+          "pos": "助词",
+          "gloss": "表祈使语气"
+        }
+      ]
+    },
+    {
+      "id": "zhuzhiwu-025",
+      "order": 25,
+      "text": "亦去之。",
+      "translation": "晋军也离开了郑国。",
+      "tokens": [
+        {
+          "surface": "亦",
+          "pos": "副词",
+          "gloss": "也"
+        },
+        {
+          "surface": "去",
+          "pos": "动词",
+          "gloss": "离开"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "指郑国"
+        }
+      ]
+    }
+  ]
+}

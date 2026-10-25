@@ -1,0 +1,577 @@
+{
+  "id": "jishi",
+  "title": "季氏将伐颛臾",
+  "author": "孔子及其弟子",
+  "source": "《论语》",
+  "volume": "必修下册",
+  "tags": [
+    "课标",
+    "语录"
+  ],
+  "reviewed": true,
+  "summary": "季康子将讨伐颛臾，冉有、子路向孔子请教。孔子层层驳斥，提出“不患寡而患不均，不患贫而患不安”的政治主张，强调以文德服人、反对动武。",
+  "sentences": [
+    {
+      "id": "jishi-001",
+      "order": 1,
+      "text": "季氏将伐颛臾。",
+      "translation": "季康子将要讨伐颛臾。",
+      "tokens": [
+        {
+          "surface": "季氏",
+          "pos": "名词",
+          "gloss": "鲁国权臣季康子"
+        },
+        {
+          "surface": "伐",
+          "pos": "动词",
+          "gloss": "讨伐"
+        },
+        {
+          "surface": "颛臾",
+          "pos": "名词",
+          "gloss": "鲁国附庸小国"
+        }
+      ]
+    },
+    {
+      "id": "jishi-002",
+      "order": 2,
+      "text": "冉有、季路见于孔子曰：“季氏将有事于颛臾。”",
+      "translation": "冉有、子路拜见孔子说：“季氏将对颛臾采取军事行动。”",
+      "tokens": [
+        {
+          "surface": "见",
+          "pos": "动词",
+          "gloss": "拜见"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "向"
+        },
+        {
+          "surface": "有事",
+          "pos": "动词短语",
+          "gloss": "指用兵"
+        },
+        {
+          "surface": "于",
+          "pos": "介词",
+          "gloss": "对"
+        }
+      ]
+    },
+    {
+      "id": "jishi-003",
+      "order": 3,
+      "text": "孔子曰：“求！无乃尔是过与？",
+      "translation": "孔子说：“冉求！恐怕应该责备你们吧？",
+      "tokens": [
+        {
+          "surface": "求",
+          "pos": "名词",
+          "gloss": "冉有的名"
+        },
+        {
+          "surface": "无乃",
+          "pos": "副词",
+          "gloss": "恐怕、莫非"
+        },
+        {
+          "surface": "尔",
+          "pos": "代词",
+          "gloss": "你们"
+        },
+        {
+          "surface": "是",
+          "pos": "助词",
+          "gloss": "宾语前置的标志"
+        },
+        {
+          "surface": "过",
+          "pos": "动词",
+          "gloss": "责备"
+        },
+        {
+          "surface": "与",
+          "pos": "助词",
+          "gloss": "同“欤”，吧"
+        }
+      ]
+    },
+    {
+      "id": "jishi-004",
+      "order": 4,
+      "text": "夫颛臾，昔者先王以为东蒙主，且在邦域之中矣，是社稷之臣也。",
+      "translation": "那个颛臾，从前先王让它主管东蒙山的祭祀，而且它就在鲁国境内，是鲁国的附庸之臣。",
+      "tokens": [
+        {
+          "surface": "夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "以为",
+          "pos": "固定结构",
+          "gloss": "把……作为"
+        },
+        {
+          "surface": "东蒙主",
+          "pos": "名词",
+          "gloss": "东蒙山祭祀的主持者"
+        },
+        {
+          "surface": "邦域",
+          "pos": "名词",
+          "gloss": "国境"
+        },
+        {
+          "surface": "社稷",
+          "pos": "名词",
+          "gloss": "国家"
+        }
+      ]
+    },
+    {
+      "id": "jishi-005",
+      "order": 5,
+      "text": "何以伐为？”",
+      "translation": "为什么要讨伐它呢？”",
+      "tokens": [
+        {
+          "surface": "何以",
+          "pos": "固定结构",
+          "gloss": "为什么"
+        },
+        {
+          "surface": "伐",
+          "pos": "动词",
+          "gloss": "讨伐"
+        },
+        {
+          "surface": "为",
+          "pos": "助词",
+          "gloss": "句末语气词，呢"
+        }
+      ]
+    },
+    {
+      "id": "jishi-006",
+      "order": 6,
+      "text": "冉有曰：“夫子欲之，吾二臣者皆不欲也。”",
+      "translation": "冉有说：“季康子想要这样做，我们两个臣子都不想。”",
+      "tokens": [
+        {
+          "surface": "夫子",
+          "pos": "名词",
+          "gloss": "指季康子"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "这件事"
+        },
+        {
+          "surface": "二臣",
+          "pos": "名词",
+          "gloss": "两个臣子"
+        },
+        {
+          "surface": "皆",
+          "pos": "副词",
+          "gloss": "都"
+        }
+      ]
+    },
+    {
+      "id": "jishi-007",
+      "order": 7,
+      "text": "孔子曰：“求！周任有言曰：‘陈力就列，不能者止。’",
+      "translation": "孔子说：“冉求！周任有句话说：‘施展才能担任职务，不能胜任就辞职。’",
+      "tokens": [
+        {
+          "surface": "周任",
+          "pos": "名词",
+          "gloss": "古代史官"
+        },
+        {
+          "surface": "陈",
+          "pos": "动词",
+          "gloss": "施展"
+        },
+        {
+          "surface": "力",
+          "pos": "名词",
+          "gloss": "才能"
+        },
+        {
+          "surface": "就列",
+          "pos": "动词",
+          "gloss": "就任职位"
+        },
+        {
+          "surface": "止",
+          "pos": "动词",
+          "gloss": "停止、辞职"
+        }
+      ]
+    },
+    {
+      "id": "jishi-008",
+      "order": 8,
+      "text": "危而不持，颠而不扶，则将焉用彼相矣？",
+      "translation": "遇到危险不去扶持，跌倒了不去搀扶，那还要那个辅佐的人做什么呢？",
+      "tokens": [
+        {
+          "surface": "危",
+          "pos": "动词",
+          "gloss": "遇到危险"
+        },
+        {
+          "surface": "持",
+          "pos": "动词",
+          "gloss": "扶持"
+        },
+        {
+          "surface": "颠",
+          "pos": "动词",
+          "gloss": "跌倒"
+        },
+        {
+          "surface": "扶",
+          "pos": "动词",
+          "gloss": "搀扶"
+        },
+        {
+          "surface": "焉",
+          "pos": "副词",
+          "gloss": "哪里、怎么"
+        },
+        {
+          "surface": "相",
+          "pos": "名词",
+          "gloss": "辅佐的人"
+        }
+      ]
+    },
+    {
+      "id": "jishi-009",
+      "order": 9,
+      "text": "且尔言过矣。",
+      "translation": "况且你的话错了。",
+      "tokens": [
+        {
+          "surface": "且",
+          "pos": "连词",
+          "gloss": "况且"
+        },
+        {
+          "surface": "尔",
+          "pos": "代词",
+          "gloss": "你"
+        },
+        {
+          "surface": "过",
+          "pos": "形容词",
+          "gloss": "错"
+        }
+      ]
+    },
+    {
+      "id": "jishi-010",
+      "order": 10,
+      "text": "虎兕出于柙，龟玉毁于椟中，是谁之过与？”",
+      "translation": "老虎和犀牛从笼子里跑出来，龟甲和玉器在木匣中毁坏，这是谁的过错呢？”",
+      "tokens": [
+        {
+          "surface": "兕",
+          "pos": "名词",
+          "gloss": "独角犀"
+        },
+        {
+          "surface": "柙",
+          "pos": "名词",
+          "gloss": "关野兽的笼子"
+        },
+        {
+          "surface": "椟",
+          "pos": "名词",
+          "gloss": "木匣"
+        },
+        {
+          "surface": "过",
+          "pos": "名词",
+          "gloss": "过错"
+        },
+        {
+          "surface": "与",
+          "pos": "助词",
+          "gloss": "同“欤”，呢"
+        }
+      ]
+    },
+    {
+      "id": "jishi-011",
+      "order": 11,
+      "text": "冉有曰：“今夫颛臾，固而近于费。",
+      "translation": "冉有说：“现在颛臾城墙坚固，而且靠近季氏的封邑费地。",
+      "tokens": [
+        {
+          "surface": "今夫",
+          "pos": "助词",
+          "gloss": "句首发语词"
+        },
+        {
+          "surface": "固",
+          "pos": "形容词",
+          "gloss": "坚固"
+        },
+        {
+          "surface": "近",
+          "pos": "动词",
+          "gloss": "靠近"
+        },
+        {
+          "surface": "费",
+          "pos": "名词",
+          "gloss": "季氏的封邑"
+        }
+      ]
+    },
+    {
+      "id": "jishi-012",
+      "order": 12,
+      "text": "今不取，后世必为子孙忧。”",
+      "translation": "现在不攻取，后代一定会成为子孙的忧患。”",
+      "tokens": [
+        {
+          "surface": "取",
+          "pos": "动词",
+          "gloss": "攻取"
+        },
+        {
+          "surface": "后世",
+          "pos": "名词",
+          "gloss": "后代"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "成为"
+        },
+        {
+          "surface": "忧",
+          "pos": "名词",
+          "gloss": "忧患"
+        }
+      ]
+    },
+    {
+      "id": "jishi-013",
+      "order": 13,
+      "text": "孔子曰：“求！君子疾夫舍曰欲之而必为之辞。",
+      "translation": "孔子说：“冉求！君子痛恨那种不说自己想要，却一定要另找借口的态度。",
+      "tokens": [
+        {
+          "surface": "疾",
+          "pos": "动词",
+          "gloss": "痛恨"
+        },
+        {
+          "surface": "夫",
+          "pos": "指示代词",
+          "gloss": "那种"
+        },
+        {
+          "surface": "舍",
+          "pos": "动词",
+          "gloss": "舍弃、不说"
+        },
+        {
+          "surface": "为",
+          "pos": "动词",
+          "gloss": "编造"
+        },
+        {
+          "surface": "辞",
+          "pos": "名词",
+          "gloss": "借口"
+        }
+      ]
+    },
+    {
+      "id": "jishi-014",
+      "order": 14,
+      "text": "丘也闻有国有家者，不患寡而患不均，不患贫而患不安。",
+      "translation": "我听说诸侯和大夫，不担忧人口少而担忧分配不均，不担忧贫穷而担忧不安定。",
+      "tokens": [
+        {
+          "surface": "丘",
+          "pos": "名词",
+          "gloss": "孔子自称其名"
+        },
+        {
+          "surface": "有国有家者",
+          "pos": "名词短语",
+          "gloss": "诸侯和大夫"
+        },
+        {
+          "surface": "患",
+          "pos": "动词",
+          "gloss": "担忧"
+        },
+        {
+          "surface": "寡",
+          "pos": "形容词",
+          "gloss": "人口少"
+        },
+        {
+          "surface": "均",
+          "pos": "形容词",
+          "gloss": "平均"
+        },
+        {
+          "surface": "安",
+          "pos": "形容词",
+          "gloss": "安定"
+        }
+      ]
+    },
+    {
+      "id": "jishi-015",
+      "order": 15,
+      "text": "盖均无贫，和无寡，安无倾。",
+      "translation": "因为分配平均就没有贫穷，上下和睦就不会觉得人少，社会安定国家就不会倾覆。",
+      "tokens": [
+        {
+          "surface": "盖",
+          "pos": "连词",
+          "gloss": "因为"
+        },
+        {
+          "surface": "和",
+          "pos": "形容词",
+          "gloss": "和睦"
+        },
+        {
+          "surface": "倾",
+          "pos": "动词",
+          "gloss": "倾覆"
+        }
+      ]
+    },
+    {
+      "id": "jishi-016",
+      "order": 16,
+      "text": "夫如是，故远人不服，则修文德以来之。",
+      "translation": "像这样，所以远方的人不归服，就修治文教德政来使他们归服。",
+      "tokens": [
+        {
+          "surface": "夫如是",
+          "pos": "固定结构",
+          "gloss": "像这样"
+        },
+        {
+          "surface": "修",
+          "pos": "动词",
+          "gloss": "修治、施行"
+        },
+        {
+          "surface": "文德",
+          "pos": "名词",
+          "gloss": "文教德政"
+        },
+        {
+          "surface": "来",
+          "pos": "动词使动",
+          "gloss": "使……来归服"
+        }
+      ]
+    },
+    {
+      "id": "jishi-017",
+      "order": 17,
+      "text": "既来之，则安之。",
+      "translation": "他们来了之后，就要使他们安定下来。",
+      "tokens": [
+        {
+          "surface": "既",
+          "pos": "副词",
+          "gloss": "已经"
+        },
+        {
+          "surface": "来",
+          "pos": "动词使动",
+          "gloss": "使……来"
+        },
+        {
+          "surface": "安",
+          "pos": "动词使动",
+          "gloss": "使……安定"
+        },
+        {
+          "surface": "之",
+          "pos": "代词",
+          "gloss": "他们"
+        }
+      ]
+    },
+    {
+      "id": "jishi-018",
+      "order": 18,
+      "text": "今由与求也，相夫子，远人不服而不能来也，邦分崩离析而不能守也，而谋动干戈于邦内。",
+      "translation": "现在仲由和冉求你们辅佐季康子，远方的人不归服却不能使他们归服，国家四分五裂却不能保全，反而策划在国境内发动战争。",
+      "tokens": [
+        {
+          "surface": "由",
+          "pos": "名词",
+          "gloss": "子路的名"
+        },
+        {
+          "surface": "相",
+          "pos": "动词",
+          "gloss": "辅佐"
+        },
+        {
+          "surface": "分崩离析",
+          "pos": "动词",
+          "gloss": "四分五裂"
+        },
+        {
+          "surface": "守",
+          "pos": "动词",
+          "gloss": "保全"
+        },
+        {
+          "surface": "干戈",
+          "pos": "名词",
+          "gloss": "兵器，指战争"
+        }
+      ]
+    },
+    {
+      "id": "jishi-019",
+      "order": 19,
+      "text": "吾恐季孙之忧，不在颛臾，而在萧墙之内也。”",
+      "translation": "我恐怕季孙氏的忧患，不在颛臾，而在鲁国宫廷内部。”",
+      "tokens": [
+        {
+          "surface": "恐",
+          "pos": "动词",
+          "gloss": "恐怕"
+        },
+        {
+          "surface": "忧",
+          "pos": "名词",
+          "gloss": "忧患"
+        },
+        {
+          "surface": "萧墙",
+          "pos": "名词",
+          "gloss": "宫门内当门的照壁，喻指内部"
+        }
+      ]
+    }
+  ]
+}

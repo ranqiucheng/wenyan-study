@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.10-m6",
+  "lessons": [
+    {
+      "id": "quanxue",
+      "title": "劝学",
+      "author": "荀子",
+      "volume": "必修上册",
+      "file": "lessons/quanxue.json"
+    },
+    {
+      "id": "shishuo",
+      "title": "师说",
+      "author": "韩愈",
+      "volume": "必修上册",
+      "file": "lessons/shishuo.json"
+    },
+    {
+      "id": "chibifu",
+      "title": "赤壁赋",
+      "author": "苏轼",
+      "volume": "必修上册",
+      "file": "lessons/chibifu.json"
+    },
+    {
+      "id": "zhuzhiwu",
+      "title": "烛之武退秦师",
+      "author": "左丘明",
+      "volume": "必修下册",
+      "file": "lessons/zhuzhiwu.json"
+    },
+    {
+      "id": "hongmenyan",
+      "title": "鸿门宴",
+      "author": "司马迁",
+      "volume": "必修下册",
+      "file": "lessons/hongmenyan.json"
+    },
+    {
+      "id": "epanggong",
+      "title": "阿房宫赋",
+      "author": "杜牧",
+      "volume": "必修下册",
+      "file": "lessons/epanggong.json"
+    },
+    {
+      "id": "liuguolun",
+      "title": "六国论",
+      "author": "苏洵",
+      "volume": "必修下册",
+      "file": "lessons/liuguolun.json"
+    },
+    {
+      "id": "lantingji",
+      "title": "兰亭集序",
+      "author": "王羲之",
+      "volume": "选择性必修下册",
+      "file": "lessons/lantingji.json"
+    },
+    {
+      "id": "tengwangge",
+      "title": "滕王阁序",
+      "author": "王勃",
+      "volume": "选择性必修下册",
+      "file": "lessons/tengwangge.json"
+    },
+    {
+      "id": "guiqulaici",
+      "title": "归去来兮辞",
+      "author": "陶渊明",
+      "volume": "选择性必修下册",
+      "file": "lessons/guiqulaici.json"
+    },
+    {
+      "id": "chenqingbiao",
+      "title": "陈情表",
+      "author": "李密",
+      "volume": "选择性必修下册",
+      "file": "lessons/chenqingbiao.json"
+    },
+    {
+      "id": "lunyu12",
+      "title": "论语十二章",
+      "author": "孔子及其弟子",
+      "volume": "必修上册",
+      "file": "lessons/lunyu12.json"
+    },
+    {
+      "id": "jishi",
+      "title": "季氏将伐颛臾",
+      "author": "孔子及其弟子",
+      "volume": "必修下册",
+      "file": "lessons/jishi.json"
+    },
+    {
+      "id": "zilu",
+      "title": "子路、曾皙、冉有、公西华侍坐",
+      "author": "孔子及其弟子",
+      "volume": "必修下册",
+      "file": "lessons/zilu.json"
+    },
+    {
+      "id": "mengzi",
+      "title": "孟子（节选）",
+      "author": "孟子",
+      "volume": "必修下册",
+      "file": "lessons/mengzi.json"
+    },
+    {
+      "id": "qulieyuan",
+      "title": "屈原列传（节选）",
+      "author": "司马迁",
+      "volume": "选择性必修中册",
+      "file": "lessons/qulieyuan.json"
+    },
+    {
+      "id": "baorenan",
+      "title": "报任安书（节选）",
+      "author": "司马迁",
+      "volume": "选择性必修中册",
+      "file": "lessons/baorenan.json"
+    },
+    {
+      "id": "guoqin",
+      "title": "过秦论（上）",
+      "author": "贾谊",
+      "volume": "选择性必修中册",
+      "file": "lessons/guoqin.json"
+    },
+    {
+      "id": "jianzhuke",
+      "title": "谏逐客书",
+      "author": "李斯",
+      "volume": "选择性必修下册",
+      "file": "lessons/jianzhuke.json"
+    },
+    {
+      "id": "jiantai",
+      "title": "谏太宗十思疏",
+      "author": "魏征",
+      "volume": "必修下册",
+      "file": "lessons/jiantai.json"
+    },
+    {
+      "id": "dazheng",
+      "title": "答司马谏议书",
+      "author": "王安石",
+      "volume": "必修下册",
+      "file": "lessons/dazheng.json"
+    },
+    {
+      "id": "lingguan",
+      "title": "五代史伶官传序",
+      "author": "欧阳修",
+      "volume": "选择性必修中册",
+      "file": "lessons/lingguan.json"
+    },
+    {
+      "id": "shangshumi",
+      "title": "上枢密韩太尉书",
+      "author": "苏辙",
+      "volume": "选修推荐",
+      "file": "lessons/shangshumi.json"
+    },
+    {
+      "id": "xiangjixuan",
+      "title": "项脊轩志",
+      "author": "归有光",
+      "volume": "选择性必修下册",
+      "file": "lessons/xiangjixuan.json"
+    },
+    {
+      "id": "guotuo",
+      "title": "种树郭橐驼传",
+      "author": "柳宗元",
+      "volume": "选择性必修下册",
+      "file": "lessons/guotuo.json"
+    },
+    {
+      "id": "dengtaishan",
+      "title": "登泰山记",
+      "author": "姚鼐",
+      "volume": "必修上册",
+      "file": "lessons/dengtaishan.json"
+    },
+    {
+      "id": "huanggang",
+      "title": "黄冈竹楼记",
+      "author": "王禹偁",
+      "volume": "选修推荐",
+      "file": "lessons/huanggang.json"
+    },
+    {
+      "id": "liyun",
+      "title": "礼运",
+      "author": "戴圣",
+      "volume": "选择性必修下册",
+      "file": "lessons/liyun.json"
+    },
+    {
+      "id": "daxue",
+      "title": "大学",
+      "author": "曾子",
+      "volume": "选择性必修上册",
+      "file": "lessons/daxue.json"
+    },
+    {
+      "id": "laozi8",
+      "title": "老子（八章）",
+      "author": "老子",
+      "volume": "选择性必修上册",
+      "file": "lessons/laozi8.json"
+    },
+    {
+      "id": "xiaoyaoyou",
+      "title": "逍遥游",
+      "author": "庄子",
+      "volume": "选择性必修上册",
+      "file": "lessons/xiaoyaoyou.json"
+    },
+    {
+      "id": "shizhongshan",
+      "title": "石钟山记",
+      "author": "苏轼",
+      "volume": "选择性必修下册",
+      "file": "lessons/shizhongshan.json"
+    },
+    {
+      "id": "gudaiwenlun",
+      "title": "古代文论选段",
+      "author": "多人",
+      "volume": "选择性必修下册",
+      "file": "lessons/gudaiwenlun.json"
+    },
+    {
+      "id": "jingnv",
+      "title": "静女",
+      "author": "佚名",
+      "volume": "必修上册",
+      "file": "lessons/jingnv.json"
+    },
+    {
+      "id": "wuyi",
+      "title": "无衣",
+      "author": "佚名",
+      "volume": "选择性必修上册",
+      "file": "lessons/wuyi.json"
+    }
+  ]
+}
