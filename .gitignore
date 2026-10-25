@@ -28,6 +28,7 @@ release/
 *.zip
 
 # 临时与系统文件
+.cache/
 .tmp_work/
 __pycache__/
 *.pyc

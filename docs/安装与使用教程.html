@@ -1,0 +1,178 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<title>文言研习 安装与使用教程</title>
+<style>
+@page { size: A4; margin: 18mm 16mm 18mm 16mm; }
+body { font-family: "Microsoft YaHei","微软雅黑",sans-serif; color:#1F2328; font-size:11pt; line-height:1.75; margin:0; }
+.cover { height: 250mm; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; page-break-after: always; }
+.cover h1 { font-size:34pt; margin:0 0 12pt; color:#1F2328; letter-spacing:2pt; }
+.cover .sub { font-size:15pt; color:#6E6C66; margin-bottom:6pt; }
+.cover .meta { font-size:10pt; color:#8A8578; margin-top:18pt; }
+.cover .bar { width:120px; height:5px; background:#C4553B; margin:20px 0; }
+.cover img { width:72%; max-height:95mm; object-fit:contain; border:1px solid #E1D8CB; border-radius:8px; margin-top:8mm; }
+h1 { font-size:20pt; color:#C4553B; border-bottom:2px solid #E1D8CB; padding-bottom:6pt; margin:0 0 14pt; page-break-after:avoid; }
+h2 { font-size:13.5pt; color:#1F2328; margin:16pt 0 8pt; page-break-after:avoid; }
+p { margin:6pt 0; text-align:justify; }
+ul,ol { margin:6pt 0 6pt 20pt; padding:0; }
+li { margin:3pt 0; }
+.tip { background:#F3E3D3; border-left:4px solid #C4553B; padding:8pt 10pt; margin:10pt 0; font-size:10.5pt; }
+.figure { text-align:center; margin:10pt 0; page-break-inside:avoid; }
+.figure img { max-width:100%; border:1px solid #E1D8CB; border-radius:6px; }
+.figure .cap { font-size:9.5pt; color:#6E6C66; margin-top:4pt; }
+table { border-collapse:collapse; width:100%; margin:8pt 0; font-size:10pt; page-break-inside:avoid; }
+th { background:#F3E3D3; color:#1F2328; }
+th,td { border:1px solid #D9CDBB; padding:6pt 8pt; text-align:left; vertical-align:top; }
+code { background:#F3EFE7; padding:1px 4px; border-radius:3px; font-family:Consolas,monospace; font-size:9.5pt; }
+.pagebreak { page-break-before: always; }
+</style></head><body>
+<div class="cover">
+<div class="sub">高中文言文 · 离线学习工具</div>
+<h1>文言研习</h1>
+<div class="bar"></div>
+<div class="sub">安装与使用教程</div>
+<div class="meta">版本 v0.1.16 · Android 学生端 + Windows 老师端<br>2026 年 10 月</div>
+<img src="tutorial_img/01-home.png" alt="首页">
+</div>
+<div class="pagebreak"></div>
+<h1>目录</h1>
+<ul><li>一、认识文言研习</li><li>二、Windows 电脑端安装</li><li>三、老师端使用</li><li>四、Android 手机安装</li><li>五、学生端使用</li><li>六、内容包导入与更新</li><li>七、数据、备份与卸载</li><li>八、常见问题（FAQ）</li><li>九、分发建议与文案</li><li>附录：版本与内容清单</li></ul>
+<div class="pagebreak"></div>
+<h1>一、认识文言研习</h1>
+<p>文言研习是一套完全离线的文言文学习工具，一套 Flutter 代码同时提供两个端：</p>
+<ul><li>Android 学生端：读课文、看注释、背字词卡、刷题、词义专项训练。</li><li>Windows 老师端：编辑课文与词条、校对、出题、排序、导出内容包。</li></ul>
+<p>两个端之间不联网、不登录、不依赖服务器。老师在学校电脑上编辑好内容，导出 .wyc 内容包，通过 QQ/微信/数据线发到手机，学生在 App 里导入即可。</p>
+<h2>1.1 拿到哪些文件</h2>
+<table><tr><th>文件</th><th>用途</th><th>放到哪里</th></tr>
+<tr><td>文言研习-v0.1.16-测试版.apk</td><td>Android 安装包</td><td>手机</td></tr>
+<tr><td>文言研习-Windows-v0.1.16.zip</td><td>Windows 老师端压缩包</td><td>电脑解压</td></tr>
+<tr><td>wenyan-content-2026.10-m6.wyc</td><td>内置内容包（35 篇）</td><td>可选，导入手机/电脑</td></tr>
+<tr><td>本教程（PDF/DOCX）</td><td>安装与使用说明</td><td>随时查看</td></tr>
+</table>
+<h2>1.2 运行环境</h2>
+<ul><li>Android：Android 7.0 及以上（minSdk 24），约 48 MB 安装包。</li><li>Windows：Windows 10 / 11（64 位），解压后约 100 MB。</li><li>不需要联网；首次打开也不需要登录或激活。</li></ul>
+<h2>1.3 数据存在哪里</h2>
+<ul><li>Android：App 私有目录 /data/data/com.wenyan.wenyan/files（普通用户看不到，覆盖安装保留）。</li><li>Windows：%APPDATA%\wenyan（资源管理器地址栏输入即可打开）。</li><li>卸载 App / 删除整个文件夹会清空学习数据；升级安装不会。</li></ul>
+<h1>二、Windows 电脑端安装</h1>
+<p>Windows 端是给老师用的，安装本质上是「解压 + 运行」，没有安装向导。</p>
+<div class="figure"><img src="tutorial_img\install-pc.png" alt="Windows 安装四步"><div class="cap">Windows 安装四步</div></div>
+<h2>2.1 解压</h2>
+<ol><li>右键 文言研习-Windows-v0.1.16.zip →「全部解压缩」或「解压到当前文件夹」。</li><li>建议解压到 D 盘或桌面等自己有权限的目录，例如 D:\文言研习。</li><li>不要直接在压缩包预览窗口里双击 exe，会无法正常产生数据文件。</li></ol>
+<h2>2.2 运行</h2>
+<ol><li>进入解压后的文件夹，找到 wenyan.exe，双击。</li><li>若出现蓝色窗口「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」。</li><li>若杀毒软件误报，选择「允许运行」或把该文件夹加入信任区（程序不联网、不写系统目录）。</li><li>首次启动会创建 %APPDATA%\wenyan 数据目录。</li></ol>
+<div class="tip">提示：可以把 wenyan.exe 发送快捷方式到桌面，但不要只复制 exe 一个文件，必须整个文件夹一起用。</div>
+<h2>2.3 打开老师端</h2>
+<p>进入 App 后，首页右上角有一个「老师端」按钮，点它进入老师模式。老师端也可以直接当学生端用（阅读、背、练都可用）。</p>
+<div class="figure"><img src="tutorial_img\07-teacher-list.png" alt="老师端篇目列表"><div class="cap">老师端篇目列表</div></div>
+<h1>三、老师端使用</h1>
+<p>老师端的编辑都是即时保存的，改完不需要点「保存」。修改只存在本机，导出内容包后学生才看得到。</p>
+<h2>3.1 界面结构</h2>
+<ul><li>左侧导航：篇目 / 导出 / 导入。</li><li>顶部：刷新内容、学生端（返回学生界面）。</li><li>篇目页：新增篇目、全部标记已校对、全部/待校对/已校对筛选。</li></ul>
+<h2>3.2 编辑一篇课文</h2>
+<ol><li>点篇目卡片进入编辑器。</li><li>每句显示序号、原文、译文、词条；右侧有「出题」「删除本句」等按钮。</li><li>点词条可以改词性、释义；点「新增句子」增加一句；点「新增词条」给当前句加注释。</li><li>右侧「已校对」开关控制这篇是否计入已校对；批量校对可用快捷键 Ctrl+Enter。</li><li>篇目列表右侧 ↑ ↓ 可以调整顺序；导出时按这个顺序排列。</li></ol>
+<div class="figure"><img src="tutorial_img\08-teacher-editor.png" alt="老师端编辑器"><div class="cap">老师端编辑器</div></div>
+<h2>3.3 自定义题目（出题）</h2>
+<ol><li>在编辑器里找到要出题的那一句，点右侧「问号」图标。</li><li>弹窗里会带上句子原文；填写：加点词、正确释义、干扰项 1/2/3、解析（可选）。</li><li>点「保存」。题目会存在本机，并随内容包一起导出。</li><li>学生导入内容包后，刷题时会随机出现这些题。</li></ol>
+<div class="tip">提示：干扰项尽量选同一篇课文里的其他释义，难度更接近考试；至少填 1 个干扰项才能保存。</div>
+<h2>3.4 批量校对与快捷键</h2>
+<table><tr><th>快捷键</th><th>作用</th></tr>
+<tr><td>Ctrl + Enter</td><td>当前篇目标记为已校对</td></tr>
+<tr><td>Ctrl + P</td><td>预览当前篇目</td></tr>
+<tr><td>Ctrl + K</td><td>进入课堂模式</td></tr>
+</table>
+<p>篇目列表上方的「全部 / 待校对 / 已校对」可以快速筛出还没校对的篇目。</p>
+<h2>3.5 导出内容包</h2>
+<ol><li>左侧点「导出」。</li><li>在保存对话框里选择位置（建议桌面），文件名默认带日期，扩展名 .wyc。</li><li>导出包包含：所有未删除篇目、句子、词条、自定义题目，以及版本号和 SHA-256 校验。</li><li>把 .wyc 文件通过 QQ/微信发给学生即可。</li></ol>
+<h2>3.6 导入内容包</h2>
+<p>左侧「导入」→ 选择 .wyc 文件。导入会新增或覆盖同 ID 篇目，不会清空学生数据。导入后可点「刷新内容」查看。</p>
+<h2>3.7 课堂模式</h2>
+<p>在编辑器按 Ctrl+K，或点右上角课堂图标，进入全屏课堂模式：逐句展示、可开关注释/译文、翻句。适合投影上课。</p>
+<div class="figure"><img src="tutorial_img\09-classroom.png" alt="课堂模式"><div class="cap">课堂模式</div></div>
+<h1>四、Android 手机安装</h1>
+<p>手机安装的核心是：把 APK 文件传到手机 → 找到它 → 允许安装 → 安装。不同品牌手机的菜单文字略有差异，但步骤一致。</p>
+<div class="figure"><img src="tutorial_img\install-phone.png" alt="手机安装四步"><div class="cap">手机安装四步</div></div>
+<h2>4.1 把 APK 传到手机（任选一种）</h2>
+<ul><li>QQ：电脑登录 QQ → 我的设备/手机 → 发送文件 → 手机上点开。</li><li>微信：文件传输助手 → 发送文件 → 手机上点开。</li><li>数据线：手机连电脑，把 APK 复制到「Download」文件夹。</li><li>网盘：上传后手机下载。</li></ul>
+<h2>4.2 微信/QQ 里不能直接安装怎么办</h2>
+<p>微信/QQ 出于安全策略，通常不提供「直接安装」，这是正常的。按下面任一方式处理：</p>
+<ol><li>在 QQ/微信里点开 APK → 右上角「…」→「保存到手机」或「用其他应用打开」。</li><li>打开手机「文件管理」→「下载」或「QQ/微信 文件夹」→ 找到 .apk → 点击安装。</li><li>如果弹出「用其他应用打开」，选「软件包安装程序」或「设置」；若没有，先在文件管理器里点。</li></ol>
+<h2>4.3 允许安装未知应用</h2>
+<p>首次安装时，系统会提示「为了安全，你的手机不允许安装未知应用」。点「设置」→ 找到当前来源（QQ/微信/文件管理）→ 打开「允许安装」。然后返回继续安装。</p>
+<h2>4.4 安装与覆盖升级</h2>
+<ul><li>点「安装」→ 等待 →「打开」。</li><li>以后有新版本 APK，直接再安装一次即可覆盖升级，学习数据会保留。</li><li>如果提示「应用未安装」，先卸载旧版再装（会清数据，谨慎）；或检查是否与旧版签名一致。</li></ul>
+<h1>五、学生端使用</h1>
+<p>底部有五个标签：读、背、练、训、我。下面按顺序说明。</p>
+<h2>5.1 读：课文阅读</h2>
+<div class="figure"><img src="tutorial_img\02-reading.png" alt="阅读页"><div class="cap">阅读页</div></div>
+<ul><li>首页点任意篇目进入阅读；每句下方有译文。</li><li>点句中的彩色词，弹出注释卡：词性、释义。</li><li>右上角「Aa」调字号与行距，设置会保存。</li><li>右上角「收集本篇生词」把本篇词条加入字词卡。</li></ul>
+<div class="figure"><img src="tutorial_img\01-home.png" alt="首页：35 篇内置内容"><div class="cap">首页：35 篇内置内容</div></div>
+<h2>5.2 背：字词卡与间隔复习</h2>
+<p>「背」里是按 SRS 间隔重复安排的字词卡。正面是词，先自己回忆；点一下翻到背面看释义，再选择「忘记 / 模糊 / 记住」等评分。</p>
+<div class="figure"><img src="tutorial_img\03-review-pair.png" alt="字词卡正面与背面"><div class="cap">字词卡正面与背面</div></div>
+<ul><li>第一次没有卡片时，点「一键收集全部生词」或阅读页收集。</li><li>每天打开「背」，优先复习到期的卡片。</li><li>评分会影响下次出现时间，坚持几天效果最好。</li></ul>
+<h2>5.3 练：刷题与错题本</h2>
+<div class="figure"><img src="tutorial_img\04-quiz.png" alt="刷题：词义选择"><div class="cap">刷题：词义选择</div></div>
+<ul><li>「练」→ 开始练习，从 35 篇中抽 10 道词义题。</li><li>做完显示正确率；答错的词进入「我 → 错题本」。</li><li>错题本里可以「重练错题」，只抽错题。</li></ul>
+<h2>5.4 训：词义专项</h2>
+<div class="figure"><img src="tutorial_img\05-training.png" alt="词义专项：三类训练"><div class="cap">词义专项：三类训练</div></div>
+<ul><li>熟词生义 40 条：常见字在文言中的特殊含义。</li><li>一词多义 25 词 / 80 义项：同字在不同语境的意思。</li><li>古今异义 30 条：字形相同、古今意义不同。</li><li>每类可以浏览条目，也可以「自测」抽 10 题。</li></ul>
+<h2>5.5 我：统计、导入与设置</h2>
+<div class="figure"><img src="tutorial_img\06-profile.png" alt="我的页面"><div class="cap">我的页面</div></div>
+<ul><li>上方统计：复习卡、待复习、错题、今日复习、今日刷题、正确率。</li><li>「导入内容包」：选择 .wyc 文件导入老师的新内容。</li><li>「清空学习数据」：清空复习卡与错题（谨慎）。</li><li>最下方显示版本号，报问题时请提供。</li></ul>
+<h1>六、内容包导入与更新</h1>
+<p>内容包（.wyc）是老师端导出的 ZIP 包，包含课文、词条、自定义题目和校验信息。学生导入后就能看到老师的新内容，不需要重新装 APK。</p>
+<div class="figure"><img src="tutorial_img\install-pack.png" alt="内容包导入三步"><div class="cap">内容包导入三步</div></div>
+<h2>6.1 标准流程</h2>
+<ol><li>老师在 Windows 老师端「导出」，选择保存位置，得到 .wyc。</li><li>通过 QQ/微信把 .wyc 原文件发给学生（不要压缩、不要改名后缀）。</li><li>学生打开 App →「我」→「导入内容包」→ 选择文件；或在 QQ/微信里「用其他应用打开」选文言研习。</li><li>导入成功后回到首页，下拉/刷新即可看到新篇目。</li></ol>
+<h2>6.2 导入失败常见原因</h2>
+<table><tr><th>提示/现象</th><th>原因</th><th>处理</th></tr>
+<tr><td>校验失败 / checksum</td><td>文件传输损坏或被改名</td><td>重新发送原文件</td></tr>
+<tr><td>schemaVersion 不支持</td><td>内容包太新</td><td>升级 App 到最新版本</td></tr>
+<tr><td>找不到内容 / 0 篇</td><td>包内没有课文</td><td>让老师重新导出</td></tr>
+<tr><td>点了没反应</td><td>选择的是压缩包或错误文件</td><td>确认扩展名是 .wyc</td></tr>
+</table>
+<h2>6.3 什么时候更新 APK，什么时候更新内容包</h2>
+<table><tr><th>改了什么</th><th>需要更新</th></tr>
+<tr><td>课文、注释、题目</td><td>内容包 .wyc</td></tr>
+<tr><td>App 功能、界面、修 bug</td><td>重新安装 APK（覆盖安装保留数据）</td></tr>
+</table>
+<h1>七、数据、备份与卸载</h1>
+<ul><li>学习数据：复习卡、复习记录、错题、今日统计、字号设置。</li><li>Windows 位置：%APPDATA%\wenyan（teacher_edits.json、cards.json、stats.json 等）。</li><li>Android 位置：App 私有目录，普通文件管理器看不到；覆盖安装保留。</li><li>备份 Windows 数据：退出 App，复制整个 %APPDATA%\wenyan 文件夹。</li><li>卸载 App 或手动删除该文件夹会清空数据。</li><li>换手机：先导出/备份；目前没有云同步，需手动迁移。</li></ul>
+<h1>八、常见问题（FAQ）</h1>
+<h2>Q1：Windows 双击没反应 / 白屏</h2>
+<p>先确认是整个文件夹解压后运行；若仍空白，把 %APPDATA%\wenyan\error.log 发给开发者。新版本遇到异常会显示红色错误文字，不再纯白屏。</p>
+<h2>Q2：Windows 提示「Windows 已保护你的电脑」</h2>
+<p>这是 SmartScreen 对未签名 exe 的提示。点「更多信息」→「仍要运行」。</p>
+<h2>Q3：手机提示「应用未安装」</h2>
+<p>可能是旧版签名不同或安装包损坏。先确认 APK 完整（重新传一次）；必要时卸载旧版再装（会清数据）。</p>
+<h2>Q4：微信/QQ 里点 APK 没有安装按钮</h2>
+<p>微信/QQ 不直接提供安装入口，先「保存到手机」，再到文件管理器里点开；或选择「用其他应用打开」。</p>
+<h2>Q5：老师端改完，学生看不到</h2>
+<p>老师端的修改只在本机。需要「导出」内容包 → 发给学生 → 学生「导入内容包」。</p>
+<h2>Q6：导入内容包后篇目重复/没变化</h2>
+<p>同 ID 篇目会覆盖；新 ID 会追加。导入后回首页刷新；若仍不对，核对内容包是否为最新导出。</p>
+<h2>Q7：字号太小/太大</h2>
+<p>阅读页右上角「Aa」，调字号与行距，自动保存。</p>
+<h2>Q8：数据会不会丢</h2>
+<p>覆盖安装 APK、导入内容包都不会清数据；卸载 App、删除 %APPDATA%\wenyan 会清空。</p>
+<h2>Q9：内容准确吗</h2>
+<p>内置 35 篇为 AI 辅助起草 + 结构化校验，释义与译文建议老师抽检后再正式用于教学。发现错误可在老师端直接改。</p>
+<h2>Q10：支持 iOS / 云同步吗</h2>
+<p>当前版本不支持 iOS，也不做云同步；通过内容包 + APK 分发。</p>
+<h1>九、分发建议与文案</h1>
+<h2>9.1 发什么</h2>
+<ul><li>学生：只发 APK +（可选）内容包。</li><li>老师：发 Windows zip + 教程 + 内容包。</li><li>群里发 APK 时，建议同时发一条「安装步骤」图，减少重复提问。</li></ul>
+<h2>9.2 QQ 群文案（可直接复制）</h2>
+<p>【文言研习 v0.1.16】高中文言文离线学习 App，35 篇课文 + 词义训练。安卓手机装 APK；电脑老师端解压即用。完全离线、不登录。安装：下载 APK → 允许安装未知应用 → 安装。老师端：解压 zip → 双击 wenyan.exe → 右上角「老师端」。</p>
+<h2>9.3 微信文案（可直接复制）</h2>
+<p>文言研习 v0.1.16：高中文言文学习工具，学生手机看课文/背词/刷题，老师在电脑编辑内容并导出内容包。APK 在群文件，电脑端 zip 另发。安装遇到问题看《安装与使用教程》。</p>
+<h1>附录：版本与内容清单</h1>
+<table><tr><th>项目</th><th>内容</th></tr>
+<tr><td>版本</td><td>v0.1.16（versionCode 17）</td></tr>
+<tr><td>内置篇目</td><td>35 篇</td></tr>
+<tr><td>句子</td><td>994 句</td></tr>
+<tr><td>逐词注释</td><td>4804 个</td></tr>
+<tr><td>词义训练</td><td>熟词生义 40 / 一词多义 25 词 / 古今异义 30</td></tr>
+<tr><td>开源地址</td><td>https://github.com/ranqiucheng/wenyan-study</td></tr>
+<tr><td>内容包版本</td><td>2026.10-m6</td></tr>
+</table>
+<p>本教程随版本更新；界面以实际版本为准。内容为学习参考，教材版权归原权利人所有。</p>
+</body></html>

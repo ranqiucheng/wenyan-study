@@ -63,6 +63,7 @@ content/             内容生产规范与元数据
 docs/                方案、格式、构建、老师端使用、内容清单
 tools/               校验与打包脚本（Python）
 release/             本地构建产物（不提交，用 Releases 分发）
+  ├─ 学生包 / 老师包 / APK / Windows / 教程
 ```
 
 ## 构建
@@ -99,6 +100,8 @@ python tools/pack_content.py
 - [导入内容包](docs/导入内容包.md)
 - [构建与发布](docs/构建与发布.md)
 - [环境与工具清单](docs/环境与工具清单.md)
+- [项目结构](docs/项目结构.md)
+- [安装与使用教程](docs/安装与使用教程.pdf)
 
 ## License
 
